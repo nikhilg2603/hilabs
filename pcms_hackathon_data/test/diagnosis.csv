@@ -1,0 +1,842 @@
+diagnosis_id,patient_id,condition_name,condition_type,condition_description,is_chronic
+3242,5129,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3246,79347,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3247,57960,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3248,31024,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3270,46292,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3272,13768,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3285,23909,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3289,3588,CANCER,CHRONIC,Cancer recent medical history,t
+3294,44992,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3296,52083,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3297,8148,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3303,50531,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3304,73961,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3305,57370,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3309,26896,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3311,23445,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3312,81658,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3313,45189,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3325,61591,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3327,28337,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3328,62048,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3332,385,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3337,33147,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3346,81942,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3353,14001,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3354,27810,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3357,27050,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3359,25619,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3362,48062,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3363,2472,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3364,67510,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3371,50021,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3373,4595,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3375,67881,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3378,19388,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3392,47934,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3393,54978,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3397,17232,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3401,71310,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3404,67854,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3408,31001,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3412,66335,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3414,61647,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3416,44078,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3437,9013,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3442,45939,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3444,80452,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3445,67826,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3449,29022,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3459,43847,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3462,56535,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3465,41776,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3467,78936,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3468,80741,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3472,2057,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3482,55465,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3488,44570,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3490,61840,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3495,80540,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3497,62861,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3500,70135,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3507,6458,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3508,20056,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3522,48062,CANCER,CHRONIC,Cancer recent medical history,t
+3525,9886,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3531,16837,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3532,31563,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3533,13768,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3534,9808,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3549,385,CANCER,CHRONIC,Cancer recent medical history,t
+3553,75414,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3554,61402,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3562,10855,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3566,6375,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3567,79082,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3568,66929,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3572,50988,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3588,55931,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3594,75567,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3596,28106,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3611,24829,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3614,48371,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3616,68216,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3618,14478,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3619,47840,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3621,61255,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3623,34783,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3626,70447,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3628,26476,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3642,70209,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3647,69309,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3650,68202,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3651,12445,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3653,30795,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3658,72684,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3668,29225,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3672,67454,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3675,29022,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3678,54730,CANCER,CHRONIC,Breast cancer past medical history,t
+3686,20397,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3692,68470,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3695,18508,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3697,81844,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3698,4977,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3700,62781,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3705,80540,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3706,65881,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3708,19818,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3710,55930,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3711,23648,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3715,70155,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3717,76167,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3721,36591,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3728,12700,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3737,60933,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3739,61253,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3740,11467,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3744,77324,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3752,17882,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3753,18021,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3756,61614,CANCER,CHRONIC,Prostate cancer past medical history,t
+3777,3441,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3778,46724,CANCER,CHRONIC,Prostate cancer past medical history,t
+3785,59483,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3786,75198,CANCER,CHRONIC,Breast cancer past medical history,t
+3791,73155,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3792,80741,CANCER,CHRONIC,Breast cancer past medical history,t
+3797,19602,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3799,64989,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3801,8739,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3805,35699,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3812,36424,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3813,56375,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3822,53763,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3827,53447,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3829,56731,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3830,80410,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3833,65151,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3834,17441,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3837,51459,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3843,63357,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3846,40064,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3849,64920,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3856,17232,CANCER,CHRONIC,Breast cancer past medical history,t
+3859,79125,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3860,55930,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3869,51500,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3872,3455,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3873,45384,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3878,20961,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3879,6567,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3882,45932,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3887,11810,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3893,80894,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3899,45323,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3900,61714,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3909,14269,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3921,3892,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3927,53345,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3930,954,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3932,12994,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3938,37500,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3945,49034,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3947,45384,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3948,37228,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3955,18641,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3967,78417,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3968,79892,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3976,16691,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3982,25385,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+3992,63122,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+3996,74157,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4010,4548,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4012,50073,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4013,75468,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4015,1060,CANCER,CHRONIC,Breast cancer past medical history,t
+4021,37112,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4030,4989,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4031,64989,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4034,75523,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4039,15383,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4042,57617,CANCER,CHRONIC,Breast cancer past medical history,t
+4045,32063,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4046,76006,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4052,56007,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4055,61217,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4057,37112,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4061,17957,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4064,26262,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4073,10323,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4076,15041,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4083,22502,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4096,19656,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4100,24903,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4108,36928,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4112,53544,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4113,54976,CANCER,CHRONIC,Breast cancer past medical history,t
+4119,39531,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4121,27810,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4131,40113,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4135,57951,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4137,47866,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4141,28872,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4142,81399,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4145,5642,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4147,13364,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4152,47821,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4160,5959,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4162,24814,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4167,33844,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4170,24903,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4180,22162,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4183,20568,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4189,54734,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4191,29838,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4195,24424,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4197,43058,CANCER,CHRONIC,Prostate cancer past medical history,t
+4212,34921,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4220,45932,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4231,39061,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4233,75592,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4234,71063,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4239,79899,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4252,73155,CANCER,CHRONIC,Cancer recent medical history,t
+4261,6375,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4274,42522,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4275,63653,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4278,57951,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4287,44570,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4290,40257,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4292,68759,CANCER,CHRONIC,Breast cancer past medical history,t
+4293,54650,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4297,26883,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4305,385,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4311,66626,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4321,64687,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4323,56598,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4325,8940,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4327,62083,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4334,46724,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4339,71321,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4341,81942,CANCER,CHRONIC,Prostate cancer past medical history,t
+4342,24742,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4343,44356,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4345,4391,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4349,21475,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4353,46631,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4355,25373,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4357,33728,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4360,39282,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4364,12279,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4376,24110,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4386,70447,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4394,33059,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4415,66626,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4416,56823,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4419,55880,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4424,20500,CANCER,CHRONIC,Breast cancer past medical history,t
+4426,59404,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4429,27247,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4432,9525,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4439,64320,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4442,1300,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4444,79347,CANCER,CHRONIC,Prostate cancer past medical history,t
+4445,10635,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4447,11664,CANCER,CHRONIC,Breast cancer past medical history,t
+4450,22458,CANCER,CHRONIC,Cancer recent medical history,t
+4460,30086,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4466,65708,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4474,8677,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4478,57617,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4489,3441,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4497,71715,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4501,61253,CANCER,CHRONIC,Cancer recent medical history,t
+4503,69681,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4505,65878,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4516,49034,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4518,65254,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4519,55442,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4526,55746,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4529,44733,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4540,65627,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4541,75363,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4542,74743,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4553,51224,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4556,53166,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4562,77367,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4563,58646,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4567,414,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4577,2631,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4578,47864,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4581,79347,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4585,4725,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4590,53447,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4594,47749,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4596,2447,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4597,2663,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4601,21052,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4605,71888,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4606,51453,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4609,26262,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4613,5364,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4620,57909,CANCER,CHRONIC,Cancer recent medical history,t
+4623,13654,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4628,65878,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4631,74940,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4632,38111,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4634,13335,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4637,3072,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4645,33228,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4647,80012,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4651,25766,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4657,81401,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4658,48485,CANCER,CHRONIC,Breast cancer past medical history,t
+4659,74178,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4673,66559,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4675,36863,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4679,3933,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4686,49704,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4687,53108,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4690,63653,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4696,24823,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4699,66461,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4710,36363,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4712,8095,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4715,15622,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4716,28563,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4723,55066,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4724,993,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4731,54909,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4739,24043,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4741,7197,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4750,73357,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4755,5185,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4759,77545,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4762,71097,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4770,75692,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4772,10733,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4780,34394,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4782,70085,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4787,61236,CANCER,CHRONIC,Cancer recent medical history,t
+4791,16933,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4795,27188,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4801,64253,CANCER,CHRONIC,Cancer recent medical history,t
+4804,53634,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4818,78009,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4819,14806,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4820,9857,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4823,12995,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4824,60117,CANCER,CHRONIC,Breast cancer past medical history,t
+4825,18187,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4828,13438,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4830,4963,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4834,29708,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4838,22043,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4839,24992,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4848,12669,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4857,55465,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4860,11162,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4868,51976,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4880,6669,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4904,21350,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4905,21010,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4909,72144,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4912,66909,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4924,7197,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4935,68435,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4944,74892,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4946,73058,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4958,66079,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4966,59462,CANCER,CHRONIC,Cancer recent medical history,t
+4969,56507,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4970,35662,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4981,54934,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+4987,15276,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4992,75670,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4993,58865,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+4998,12205,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5000,358,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5005,31802,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5010,46291,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5011,20797,CANCER,CHRONIC,Cancer recent medical history,t
+5013,69907,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5015,47119,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5022,20862,CANCER,CHRONIC,Breast cancer past medical history,t
+5023,26847,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5024,46631,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5026,81056,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5032,28141,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5041,81292,CANCER,CHRONIC,Cancer recent medical history,t
+5042,32387,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5053,10435,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5056,8940,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5057,67897,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5064,29630,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5066,25766,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5069,22752,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5083,67371,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5095,50691,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5099,71870,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5100,1200,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5103,5055,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5106,10733,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5109,25115,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5111,9904,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5118,33940,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5126,40645,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5136,75730,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5137,22903,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5149,73121,CANCER,CHRONIC,Cancer recent medical history,t
+5154,18020,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5155,2223,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5158,3187,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5159,48062,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5164,253,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5168,48485,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5176,56101,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5178,60662,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5180,68514,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5190,52034,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5193,18187,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5195,57960,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5197,65254,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5203,17571,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5206,12601,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5209,49396,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5211,56310,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5214,71954,CANCER,CHRONIC,Cancer recent medical history,t
+5217,66079,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5218,69775,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5230,25128,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5231,28337,CANCER,CHRONIC,Prostate cancer past medical history,t
+5233,4581,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5237,37142,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5244,38059,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5247,29499,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5255,32371,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5260,76291,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5263,71912,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5267,62861,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5268,36863,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5279,3404,CANCER,CHRONIC,Breast cancer past medical history,t
+5282,35699,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5284,11856,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5287,46486,CANCER,CHRONIC,Breast cancer past medical history,t
+5288,53275,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5289,6546,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5297,28928,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5303,53236,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5305,380,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5313,37697,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5314,51453,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5315,41452,CANCER,CHRONIC,Breast cancer past medical history,t
+5329,35779,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5334,74892,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5335,55442,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5336,15091,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5340,28730,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5342,40833,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5352,59184,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5355,75730,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5358,9808,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5361,6048,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5368,28390,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5376,19125,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5386,18803,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5392,7609,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5399,33668,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5401,72083,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5406,35075,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5414,47866,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5426,51119,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5429,35827,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5433,10323,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5434,46884,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5438,50173,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5441,672,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5445,78685,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5448,46292,CANCER,CHRONIC,Colorectal cancer past medical history,t
+5451,2910,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5456,36857,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5464,67478,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5465,81846,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5469,20624,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5483,2822,CANCER,CHRONIC,Breast cancer past medical history,t
+5487,20580,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5493,64109,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5497,18261,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5509,20069,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5514,38634,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5516,37142,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5526,61338,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5539,43847,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5542,58347,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5552,73902,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5558,12436,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5569,53939,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5570,61236,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5579,63717,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5581,67083,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5588,27211,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5591,47816,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5599,23521,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5606,38820,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5619,55452,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5620,13768,CANCER,CHRONIC,Cancer recent medical history,t
+5623,1300,CANCER,CHRONIC,Cancer recent medical history,t
+5628,30296,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5629,9551,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5630,70601,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5632,9568,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5641,54326,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5643,6199,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5646,76862,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5651,249,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5656,30534,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5658,43723,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5667,20294,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5669,81292,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5682,28435,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5683,25260,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5696,50296,CANCER,CHRONIC,Breast cancer past medical history,t
+5700,25862,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5701,40645,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5702,81846,CANCER,CHRONIC,Breast cancer past medical history,t
+5706,4581,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5711,3800,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5719,59878,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5722,55746,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5732,1563,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5737,52806,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5750,81190,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5756,10886,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5764,3892,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5774,77186,CANCER,CHRONIC,High risk breast cancer past medical history,t
+5778,51640,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5785,45846,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5786,75219,CANCER,CHRONIC,Cancer recent medical history,t
+5798,38570,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5805,61402,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5811,5364,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5815,75592,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5818,52251,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5819,63162,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5821,78107,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5823,38820,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5827,19818,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5832,65638,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5833,52994,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5843,18610,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5846,74224,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5861,55440,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5863,8497,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5871,4725,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5876,18469,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5887,54695,CANCER,CHRONIC,Breast cancer past medical history,t
+5893,33928,CANCER,CHRONIC,Cancer recent medical history,t
+5895,63593,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5898,60662,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5899,58646,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5905,41142,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5915,66909,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5916,11087,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5919,51819,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5924,23648,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5934,45379,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5935,9857,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5948,29046,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5951,11856,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5972,50677,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+5983,74940,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+5985,21475,CANCER,CHRONIC,Cancer recent medical history,t
+5997,73537,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6013,51224,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6020,23521,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6021,33857,CANCER,CHRONIC,Breast cancer past medical history,t
+6023,72488,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6025,64146,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6029,53604,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6033,12648,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6035,56731,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6038,53791,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6041,30472,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6050,81844,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6051,59600,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6053,17441,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6067,31837,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6068,71063,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6082,80146,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6093,52806,CANCER,CHRONIC,Prostate cancer past medical history,t
+6101,68676,CANCER,CHRONIC,High risk breast cancer past medical history,t
+6103,21270,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6108,70649,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6129,38921,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6156,65677,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6164,4424,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6173,3323,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6186,34394,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6187,20397,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6197,20769,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6198,29120,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6199,69460,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6201,52367,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6202,31209,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6210,42476,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6213,62454,CANCER,CHRONIC,Cancer recent medical history,t
+6224,3588,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6229,41690,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6231,63248,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6238,33940,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6242,35075,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6247,68863,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6258,7668,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6259,24424,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6263,28337,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6271,58789,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6275,35611,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6276,74743,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6277,77545,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6281,38168,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6289,76133,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6300,78989,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6305,51976,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6306,38059,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6307,69453,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6308,36306,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6312,67083,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6322,11297,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6324,51448,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6325,70085,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6327,64606,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6347,12648,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6348,72215,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6362,5129,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6364,11087,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6368,59177,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6371,53544,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6372,40034,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6380,50677,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6387,59444,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6390,73257,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6391,24323,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6395,41776,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6397,2447,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6402,68514,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6413,33554,CANCER,CHRONIC,Prostate cancer past medical history,t
+6432,12445,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6437,46188,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6438,54718,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6457,6333,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6467,67959,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6469,20056,CANCER,CHRONIC,Cancer recent medical history,t
+6478,81132,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6485,38111,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6486,57763,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6493,37951,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6505,67970,CANCER,CHRONIC,Cancer recent medical history,t
+6511,12767,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6513,76638,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6529,74157,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6536,76344,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6542,78307,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6544,40113,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6545,20500,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6551,55880,CANCER,CHRONIC,Cancer recent medical history,t
+6560,12768,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6567,51489,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6569,2253,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6570,27319,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6587,75523,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6593,65927,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6598,539,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6601,19042,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6605,19209,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6610,46009,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6617,71394,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6620,43745,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6624,12279,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6631,59878,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6636,64687,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6641,37951,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6645,75926,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6656,27907,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6681,72636,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6683,46188,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6684,31563,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6689,20961,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6693,64109,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6696,65881,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6705,29743,CANCER,CHRONIC,Cancer recent medical history,t
+6708,80452,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6713,67041,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6726,46724,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6729,71977,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6732,27234,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6736,39046,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6738,20585,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6744,73902,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6747,34566,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6749,45070,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6753,13438,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6756,43745,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6769,53791,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6774,36363,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6784,77367,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6785,77247,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6787,77827,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6791,37270,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6800,11664,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6803,344,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6809,65255,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6820,79034,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6822,19441,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6828,66223,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6830,13364,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6832,33554,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6834,49396,CANCER,CHRONIC,Cancer recent medical history,t
+6839,66999,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6840,37186,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6844,71507,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6846,62740,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6849,78422,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6852,65174,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6853,72341,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6856,24049,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6865,57526,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6874,52994,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6876,53939,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6882,76458,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6884,66335,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6886,20534,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6891,48130,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6904,24707,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6905,21350,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6906,71912,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6907,77367,CANCER,CHRONIC,Cancer recent medical history,t
+6910,72341,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6920,5953,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6925,25048,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6928,52367,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6931,10887,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6936,55880,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6947,31721,CANCER,CHRONIC,Colorectal cancer past medical history,t
+6949,22502,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6961,52083,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6967,70304,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+6990,3588,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6994,4989,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6997,4977,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+6999,8095,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7005,71822,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7006,19934,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7007,74629,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7009,66344,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7011,64142,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7024,67524,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7031,47934,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7041,14083,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7054,52098,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7077,37697,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7080,69309,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7094,43723,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7099,48114,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7102,20580,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7104,61647,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7105,40996,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7113,75363,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7129,31024,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7131,18020,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7134,42200,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7136,78989,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7137,80463,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7145,42412,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7146,44282,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7151,25774,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7166,13108,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7187,15383,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7191,53108,CANCER,CHRONIC,High risk breast cancer past medical history,t
+7195,30534,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7206,18122,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7208,35456,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7209,81062,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7212,76344,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7217,7027,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7220,61236,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7225,4663,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7229,26243,CANCER,CHRONIC,Cancer recent medical history,t
+7235,1300,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7240,76167,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7246,56507,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7248,33928,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7258,81190,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7261,18363,CANCER,CHRONIC,Colorectal cancer past medical history,t
+7263,18363,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7269,79082,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7275,73437,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7276,15863,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7278,74224,CANCER,CHRONIC,Breast cancer past medical history,t
+7289,46292,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7290,52219,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7298,69453,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7299,40000,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7300,73787,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7304,15117,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7307,50738,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7321,29499,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7330,9517,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7341,79899,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7350,53820,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7352,45626,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7355,2091,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7357,5642,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7363,58347,CANCER,CHRONIC,Breast cancer past medical history,t
+7365,40914,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7366,73943,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7382,6048,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7394,1106,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7395,68202,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7399,18803,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7402,46219,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7403,18105,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7405,61413,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7406,61000,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7408,17274,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7412,55066,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7414,63122,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7419,29875,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7426,74274,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7432,13555,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7433,57526,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7434,80948,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7435,10901,CANCER,CHRONIC,Breast cancer past medical history,t
+7438,11419,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7441,20652,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7451,52098,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7460,56535,CANCER,CHRONIC,Breast cancer past medical history,t
+7463,6994,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7472,68216,DIABETES,CHRONIC,Diabetes mellitus past medical history,t
+7488,49146,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7489,39837,HYPERTENSION,CHRONIC,Hypertension past medical history,t
+7491,65627,DIABETES,CHRONIC,Diabetes mellitus past medical history,t

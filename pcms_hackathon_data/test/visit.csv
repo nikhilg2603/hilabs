@@ -1,0 +1,1516 @@
+visit_id,visit_type,patient_id,visit_start_dt,visit_end_dt,follow_up_dt,prmry_proc_nm,prncpl_diag_nm,readmsn_ind
+7703,ER,95,2024-07-23,2024-07-23,8888-12-31,,"Strain of muscle, fascia and tendon of abdomen, initial encounter",f
+7704,URGENT CARE,95,2024-08-29,2024-08-29,8888-12-31,,Acute cough,f
+7714,ER,168,2024-01-22,2024-01-22,8888-12-31,,"Foreign body of alimentary tract, part unspecified, initial encounter",f
+7726,URGENT CARE,309,2024-01-14,2024-01-14,8888-12-31,,"Acute pharyngitis, unspecified",f
+7733,INPATIENT,333,2024-07-09,2024-07-11,8888-12-31,,"Major depressive disorder, recurrent severe without psychotic features",f
+7734,ER,333,2024-07-08,2024-07-08,8888-12-31,,Suicidal ideations,f
+7736,ER,344,2024-08-19,2024-08-19,8888-12-31,,"Open bite, right lower leg, initial encounter",f
+7737,ER,358,2023-03-03,2023-03-03,8888-12-31,,"Crushing injury of right hand, initial encounter",f
+7744,URGENT CARE,368,2024-05-17,2024-05-17,8888-12-31,,"Urinary tract infection, site not specified",f
+7745,URGENT CARE,368,2024-03-18,2024-03-18,8888-12-31,,"Urinary tract infection, site not specified",f
+7746,URGENT CARE,368,2023-12-19,2023-12-19,8888-12-31,,Unspecified symptoms and signs involving the genitourinary system,f
+7747,INPATIENT,385,2024-08-05,2024-08-08,2024-08-19,,Benign neoplasm of pituitary gland,f
+7748,INPATIENT,385,2024-11-21,2024-11-23,8888-12-31,,Intussusception,f
+7749,INPATIENT,385,2024-11-23,2024-11-29,2024-12-13,,Intussusception,f
+7750,ER,385,2024-10-05,2024-10-05,8888-12-31,,Acute cystitis without hematuria,f
+7764,URGENT CARE,543,2023-12-28,2023-12-28,8888-12-31,,Unspecified contact dermatitis due to other agents,f
+7772,URGENT CARE,583,2024-11-15,2024-11-15,8888-12-31,,Other symptoms and signs involving the genitourinary system,f
+7773,URGENT CARE,583,2023-12-28,2023-12-28,8888-12-31,,Rash and other nonspecific skin eruption,f
+7799,URGENT CARE,804,2025-02-08,2025-02-08,8888-12-31,,"Viral infection, unspecified",f
+7800,ER,929,2023-12-25,2023-12-26,8888-12-31,,"Laceration without foreign body of left index finger without damage to nail, initial encounter",f
+7802,ER,953,2024-03-19,2024-03-19,8888-12-31,,"Displaced fracture of right radial styloid process, initial encounter for closed fracture",f
+7803,URGENT CARE,980,2025-03-03,2025-03-03,8888-12-31,,"Acute suppurative otitis media without spontaneous rupture of ear drum, left ear",f
+7804,ER,980,2025-02-24,2025-02-24,8888-12-31,,"Acute pharyngitis, unspecified",f
+7805,ER,980,2023-10-18,2023-10-18,8888-12-31,,"Chronic sinusitis, unspecified",f
+7810,URGENT CARE,1060,2024-07-08,2024-07-08,8888-12-31,,"Acute sinusitis, unspecified",f
+7823,ER,1200,2025-02-13,2025-02-13,8888-12-31,,Perianal venous thrombosis,f
+7824,ER,1200,2023-06-10,2023-06-10,8888-12-31,,"Abrasion of other part of head, initial encounter",f
+7831,ER,1300,2024-06-29,2024-06-29,8888-12-31,,Balanitis,f
+7832,INPATIENT,1300,2024-04-30,2024-06-17,2024-06-26,,Encounter for antineoplastic chemotherapy,f
+7833,ER,1300,2023-09-05,2023-09-05,8888-12-31,,Weakness,f
+7834,INPATIENT,1300,2024-08-21,2024-10-09,2024-10-14,,"Acute myeloblastic leukemia, in relapse",f
+7835,ER,1300,2024-07-31,2024-07-31,8888-12-31,,Epistaxis,f
+7836,INPATIENT,1300,2024-11-20,2024-11-25,2024-11-29,,Type 2 diabetes mellitus with hyperglycemia,f
+7915,ER,2033,2024-01-23,2024-01-23,8888-12-31,,"Nausea with vomiting, unspecified",f
+7917,URGENT CARE,2069,2025-02-17,2025-02-17,8888-12-31,,Other general symptoms and signs,f
+7918,URGENT CARE,2069,2024-12-09,2024-12-09,8888-12-31,,Acute bronchitis due to other specified organisms,f
+7924,ER,2086,2024-09-04,2024-09-04,8888-12-31,,"Dorsalgia, unspecified",f
+7925,URGENT CARE,2086,2024-07-27,2024-07-27,8888-12-31,,Scabies,f
+7926,ER,2086,2024-08-16,2024-08-16,8888-12-31,,Right upper quadrant pain,f
+7927,URGENT CARE,2086,2024-09-19,2024-09-19,8888-12-31,,Candidal stomatitis,f
+7928,ER,2086,2024-08-06,2024-08-06,8888-12-31,,"Headache, unspecified",f
+7929,ER,2086,2024-06-18,2024-06-18,8888-12-31,,"Acute pharyngitis, unspecified",f
+7930,URGENT CARE,2086,2024-07-10,2024-07-10,8888-12-31,,Scabies,f
+7946,URGENT CARE,2282,2024-01-29,2024-01-29,8888-12-31,,"Lower abdominal pain, unspecified",f
+7947,ER,2282,2024-01-29,2024-01-29,8888-12-31,,"Viral intestinal infection, unspecified",f
+7948,URGENT CARE,2306,2024-11-14,2024-11-14,8888-12-31,,"Lower abdominal pain, unspecified",f
+7954,URGENT CARE,2436,2024-01-26,2024-01-26,8888-12-31,,"Otitis media, unspecified, unspecified ear",f
+7955,ER,2436,2023-03-16,2023-03-16,8888-12-31,,Pain in right leg,f
+7956,ER,2447,2024-02-04,2024-02-04,8888-12-31,,"Pneumonia, unspecified organism",f
+7957,ER,2447,2024-05-07,2024-05-07,8888-12-31,,Epigastric pain,f
+7958,INPATIENT,2447,2024-01-28,2024-02-01,8888-12-31,,"Sepsis, unspecified organism",f
+7960,ER,2472,2024-07-23,2024-07-23,8888-12-31,,Left lower quadrant pain,f
+7978,ER,2663,2023-08-05,2023-08-05,8888-12-31,,"Radiculopathy, lumbar region",f
+7979,ER,2670,2025-03-02,2025-03-02,8888-12-31,,"Strain of muscle, fascia and tendon of lower back, initial encounter",f
+7987,URGENT CARE,2796,2023-12-31,2023-12-31,8888-12-31,,"Unspecified acute conjunctivitis, unspecified eye",f
+7992,ER,2879,2024-12-31,2024-12-31,8888-12-31,,Palpitations,f
+7993,URGENT CARE,2879,2024-10-21,2024-10-21,8888-12-31,,Palpitations,f
+7999,URGENT CARE,2903,2024-09-24,2024-09-24,8888-12-31,,Rash and other nonspecific skin eruption,f
+8000,ER,2910,2023-09-04,2023-09-04,8888-12-31,,COVID-19,f
+8012,ER,3061,2024-03-10,2024-03-10,8888-12-31,,Right upper quadrant pain,f
+8013,URGENT CARE,3061,2024-02-26,2024-02-26,8888-12-31,,Acute cough,f
+8014,URGENT CARE,3061,2024-03-09,2024-03-09,8888-12-31,,Pain in thoracic spine,f
+8016,ER,3097,2024-09-02,2024-09-02,8888-12-31,,"Adverse effect of unspecified drugs, medicaments and biological substances, initial encounter",f
+8035,ER,3323,2024-09-14,2024-09-14,8888-12-31,,Diverticulitis of large intestine without perforation or abscess without bleeding,f
+8036,URGENT CARE,3323,2024-12-06,2024-12-06,8888-12-31,,"Headache, unspecified",f
+8037,ER,3323,2023-04-07,2023-04-07,8888-12-31,,Rash and other nonspecific skin eruption,f
+8041,URGENT CARE,3355,2024-07-25,2024-07-25,8888-12-31,,Encounter for examination for participation in sport,f
+8042,URGENT CARE,3355,2024-07-30,2024-07-30,8888-12-31,,Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,f
+8043,URGENT CARE,3355,2024-07-22,2024-07-22,8888-12-31,,Cellulitis of left lower limb,f
+8062,ER,3441,2023-06-29,2023-06-29,8888-12-31,,Other chest pain,f
+8063,INPATIENT,3441,2023-09-05,2023-09-08,8888-12-31,,Acute kidney failure with tubular necrosis,f
+8074,INPATIENT,3528,2023-12-17,2023-12-19,8888-12-31,,"Mild to moderate pre-eclampsia, complicating childbirth",f
+8085,URGENT CARE,3595,2025-01-23,2025-01-23,8888-12-31,,Acute cough,f
+8086,URGENT CARE,3595,2024-02-02,2024-02-02,8888-12-31,,Streptococcal pharyngitis,f
+8100,ER,3800,2024-01-22,2024-01-22,2024-01-23,,Severe persistent asthma with (acute) exacerbation,f
+8101,URGENT CARE,3800,2024-12-04,2024-12-04,8888-12-31,,Generalized abdominal pain,f
+8102,URGENT CARE,3800,2024-09-07,2024-09-07,8888-12-31,,Acute cough,f
+8103,URGENT CARE,3802,2024-11-14,2024-11-14,8888-12-31,,Periapical abscess without sinus,f
+8104,URGENT CARE,3802,2025-01-08,2025-01-08,8888-12-31,,"Effusion, other site",f
+8106,ER,3892,2023-06-14,2023-06-14,2023-06-26,,Syncope and collapse,f
+8107,ER,3918,2024-05-22,2024-05-22,8888-12-31,,"Chest pain, unspecified",f
+8108,URGENT CARE,3918,2024-09-06,2024-09-06,8888-12-31,,"Otalgia, right ear",f
+8109,ER,3918,2025-01-19,2025-01-19,8888-12-31,,Pain in right leg,f
+8112,URGENT CARE,3933,2024-09-19,2024-09-19,8888-12-31,,"Strain of muscle, fascia and tendon at neck level, initial encounter",f
+8113,ER,3933,2024-09-27,2024-09-27,8888-12-31,,Pain in thoracic spine,f
+8114,URGENT CARE,3971,2024-10-31,2024-10-31,8888-12-31,,Acute cough,f
+8115,URGENT CARE,3971,2024-12-04,2024-12-04,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+8116,URGENT CARE,3971,2024-06-05,2024-06-05,8888-12-31,,"Radiculopathy, lumbar region",f
+8117,URGENT CARE,3971,2023-12-12,2023-12-12,8888-12-31,,"Nausea with vomiting, unspecified",f
+8124,URGENT CARE,4044,2025-02-17,2025-02-17,8888-12-31,,"Nausea with vomiting, unspecified",f
+8125,URGENT CARE,4044,2024-04-26,2024-04-26,8888-12-31,,Other chest pain,f
+8126,URGENT CARE,4044,2025-02-04,2025-02-05,8888-12-31,,Influenza due to identified novel influenza A virus with other respiratory manifestations,f
+8127,URGENT CARE,4044,2023-12-23,2023-12-23,8888-12-31,,"Otitis media, unspecified, right ear",f
+8128,URGENT CARE,4044,2024-06-25,2024-06-25,8888-12-31,,"Acute sinusitis, unspecified",f
+8132,URGENT CARE,4150,2025-01-08,2025-01-08,8888-12-31,,"Acute pharyngitis, unspecified",f
+8136,URGENT CARE,4207,2024-02-20,2024-02-20,8888-12-31,,"Unspecified nonsuppurative otitis media, left ear",f
+8150,URGENT CARE,4391,2024-05-19,2024-05-19,8888-12-31,,"Contusion of left ankle, initial encounter",f
+8151,URGENT CARE,4391,2024-11-12,2024-11-12,8888-12-31,,Acute cough,f
+8152,URGENT CARE,4391,2024-02-22,2024-02-22,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+8153,URGENT CARE,4405,2024-02-19,2024-02-19,8888-12-31,,Nausea,f
+8154,ER,4405,2024-02-22,2024-02-22,8888-12-31,,Dehydration,f
+8155,URGENT CARE,4405,2024-03-15,2024-03-15,8888-12-31,,"Acute sinusitis, unspecified",f
+8156,URGENT CARE,4424,2024-01-29,2024-01-29,8888-12-31,,"Viral infection, unspecified",f
+8157,ER,4424,2024-08-23,2024-08-23,8888-12-31,,Essential (primary) hypertension,f
+8195,URGENT CARE,4595,2024-10-21,2024-10-21,8888-12-31,,"Acute sinusitis, unspecified",f
+8199,URGENT CARE,4636,2024-09-29,2024-09-29,8888-12-31,,"Strain of muscle, fascia and tendon of left hip, initial encounter",f
+8200,URGENT CARE,4636,2024-09-29,2024-09-29,8888-12-31,,"Strain of muscle, fascia and tendon of left hip, initial encounter",f
+8201,URGENT CARE,4636,2024-09-29,2024-09-29,8888-12-31,,"Injury, unspecified, initial encounter",f
+8202,ER,4663,2024-11-12,2024-11-12,8888-12-31,,"Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction",f
+8207,ER,4725,2024-04-05,2024-04-05,8888-12-31,,"Low back pain, unspecified",f
+8208,ER,4725,2024-12-26,2024-12-26,8888-12-31,,"Radiculopathy, lumbar region",f
+8209,URGENT CARE,4725,2024-01-18,2024-01-18,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+8228,ER,4824,2024-06-05,2024-06-05,2024-06-10,,Acute posthemorrhagic anemia,f
+8229,URGENT CARE,4824,2024-06-03,2024-06-03,8888-12-31,,Acute cough,f
+8237,URGENT CARE,4920,2024-10-28,2024-10-28,8888-12-31,,Acute bronchospasm,f
+8238,URGENT CARE,4920,2025-02-20,2025-02-20,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+8239,ER,4920,2024-03-12,2024-03-12,8888-12-31,,Bell's palsy,f
+8240,ER,4920,2025-01-14,2025-01-14,8888-12-31,,Syncope and collapse,f
+8241,URGENT CARE,4920,2024-12-31,2024-12-31,8888-12-31,,"Cough, unspecified",f
+8243,ER,4969,2024-05-05,2024-05-05,8888-12-31,,"Anxiety disorder, unspecified",f
+8258,URGENT CARE,5185,2024-11-15,2024-11-15,8888-12-31,,"Migraine, unspecified, not intractable, without status migrainosus",f
+8259,ER,5185,2025-01-10,2025-01-10,8888-12-31,,Atypical facial pain,f
+8260,ER,5185,2024-10-10,2024-10-10,8888-12-31,,Acute candidiasis of vulva and vagina,f
+8261,URGENT CARE,5185,2024-08-07,2024-08-07,8888-12-31,,Essential (primary) hypertension,f
+8262,URGENT CARE,5185,2024-04-23,2024-04-23,8888-12-31,,Pain in right hand,f
+8263,URGENT CARE,5185,2024-06-25,2024-06-25,8888-12-31,,Essential (primary) hypertension,f
+8264,URGENT CARE,5185,2024-05-30,2024-05-30,8888-12-31,,Essential (primary) hypertension,f
+8265,URGENT CARE,5185,2024-04-20,2024-04-20,8888-12-31,,Pain in right hand,f
+8266,ER,5185,2024-08-21,2024-08-21,8888-12-31,,Acute vaginitis,f
+8267,ER,5185,2024-07-18,2024-07-18,2024-07-30,,"Viral infection, unspecified",f
+8268,URGENT CARE,5185,2024-07-30,2024-07-30,8888-12-31,,Essential (primary) hypertension,f
+8269,URGENT CARE,5196,2024-09-16,2024-09-16,8888-12-31,,"Other bursitis of knee, right knee",f
+8277,URGENT CARE,5283,2025-02-08,2025-02-08,8888-12-31,,Influenza due to identified novel influenza A virus with other respiratory manifestations,f
+8310,ER,5623,2024-08-01,2024-08-01,8888-12-31,,Diverticulitis of large intestine without perforation or abscess without bleeding,f
+8311,ER,5623,2024-05-03,2024-05-03,8888-12-31,,"Constipation, unspecified",f
+8312,ER,5642,2025-02-20,2025-02-20,8888-12-31,,"Chest pain, unspecified",f
+8325,URGENT CARE,5824,2025-02-24,2025-02-24,8888-12-31,,"Depression, unspecified",f
+8331,ER,5950,2024-10-03,2024-10-03,8888-12-31,,Other specified diseases and conditions complicating pregnancy,f
+8332,URGENT CARE,5953,2023-12-20,2023-12-20,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+8333,URGENT CARE,5953,2024-10-14,2024-10-14,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+8334,ER,5968,2023-12-31,2023-12-31,8888-12-31,,Subacute cough,f
+8343,ER,6048,2023-12-08,2023-12-08,8888-12-31,,Hydronephrosis with renal and ureteral calculous obstruction,f
+8344,ER,6048,2024-02-05,2024-02-05,8888-12-31,,Syncope and collapse,f
+8345,URGENT CARE,6152,2024-01-24,2024-01-24,8888-12-31,,"Burn of second degree of unspecified hand, unspecified site, initial encounter",f
+8346,ER,6156,2024-01-29,2024-01-29,8888-12-31,,"Urinary tract infection, site not specified",f
+8347,ER,6160,2024-05-24,2024-05-24,8888-12-31,,Lymphangitis,f
+8350,INPATIENT,6199,2024-03-27,2024-03-28,2024-04-09,,"Cerebral aneurysm, nonruptured",f
+8351,INPATIENT,6199,2023-11-22,2023-12-01,8888-12-31,,"Cerebral aneurysm, nonruptured",f
+8364,ER,6315,2024-02-19,2024-02-19,8888-12-31,,"Other migraine, not intractable, without status migrainosus",f
+8365,ER,6315,2024-06-26,2024-06-26,8888-12-31,,"Allergy, unspecified, initial encounter",f
+8367,ER,6329,2024-07-01,2024-07-01,8888-12-31,,"Other physeal fracture of lower end of radius, left arm, initial encounter for closed fracture",f
+8371,ER,6375,2023-07-04,2023-07-04,8888-12-31,,"Acute pharyngitis, unspecified",f
+8372,ER,6375,2023-12-12,2023-12-12,8888-12-31,,"Pneumonia, unspecified organism",f
+8373,ER,6375,2025-01-26,2025-01-26,8888-12-31,,Other fatigue,f
+8386,URGENT CARE,6565,2024-10-27,2024-10-27,8888-12-31,,"Acute sinusitis, unspecified",f
+8387,URGENT CARE,6565,2024-03-04,2024-03-04,8888-12-31,,"Nausea with vomiting, unspecified",f
+8388,ER,6565,2024-04-25,2024-04-25,8888-12-31,,"Crohn's disease, unspecified, without complications",f
+8389,URGENT CARE,6565,2025-02-21,2025-02-21,8888-12-31,,Influenza due to other identified influenza virus with other manifestations,f
+8425,ER,6994,2024-04-21,2024-04-21,8888-12-31,,Epigastric pain,f
+8446,URGENT CARE,7197,2025-01-05,2025-01-05,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+8461,ER,7494,2023-08-04,2023-08-04,8888-12-31,,Encounter for examination and observation following transport accident,f
+8462,ER,7494,2025-02-10,2025-02-10,8888-12-31,,"Sprain of unspecified ligament of right ankle, initial encounter",f
+8463,ER,7494,2024-11-23,2024-11-23,8888-12-31,,"Cough, unspecified",f
+8464,ER,7494,2023-08-15,2023-08-15,8888-12-31,,"Urinary tract infection, site not specified",f
+8465,URGENT CARE,7514,2024-06-02,2024-06-02,8888-12-31,,Nausea,f
+8466,ER,7514,2024-06-02,2024-06-02,8888-12-31,,"Noninfective gastroenteritis and colitis, unspecified",f
+8468,ER,7566,2023-10-20,2023-10-20,8888-12-31,,Calculus of kidney,f
+8473,ER,7609,2024-05-05,2024-05-05,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+8474,ER,7609,2023-08-07,2023-08-07,8888-12-31,,"Unspecified injury of head, initial encounter",f
+8475,ER,7609,2023-06-19,2023-06-19,8888-12-31,,"Strain of unspecified muscle(s) and tendon(s) at lower leg level, left leg, initial encounter",f
+8476,ER,7609,2024-04-29,2024-04-29,8888-12-31,,"Cough, unspecified",f
+8478,URGENT CARE,7668,2024-05-07,2024-05-07,8888-12-31,,"Acute pharyngitis, unspecified",f
+8512,ER,8095,2024-03-29,2024-03-29,8888-12-31,,"Noninfective gastroenteritis and colitis, unspecified",f
+8513,URGENT CARE,8148,2025-01-08,2025-01-08,8888-12-31,,Acute cough,f
+8514,INPATIENT,8148,2024-03-18,2024-03-22,2024-03-28,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+8515,ER,8148,2023-12-17,2023-12-17,8888-12-31,,Mild intermittent asthma with (acute) exacerbation,f
+8516,ER,8148,2024-03-18,2024-03-18,8888-12-31,,Hypokalemia,f
+8517,URGENT CARE,8148,2024-08-01,2024-08-01,8888-12-31,,"Acute pharyngitis, unspecified",f
+13213,ER,58347,2024-02-10,2024-02-10,8888-12-31,,Palpitations,f
+8527,INPATIENT,8313,2023-12-27,2023-12-30,8888-12-31,,Non-pressure chronic ulcer of other part of left lower leg with unspecified severity,f
+8548,URGENT CARE,8407,2024-12-24,2024-12-24,8888-12-31,,"Otitis media, unspecified, right ear",f
+8549,URGENT CARE,8407,2024-08-19,2024-08-19,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+8559,ER,8509,2024-04-29,2024-04-29,8888-12-31,,Ventricular premature depolarization,f
+8579,URGENT CARE,8739,2024-11-19,2024-11-19,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+8593,ER,8940,2024-09-04,2024-09-04,8888-12-31,,Other congenital malformations of pancreas and pancreatic duct,f
+8594,ER,8940,2023-02-27,2023-02-27,8888-12-31,,"Lumbago with sciatica, right side",f
+8595,ER,8940,2024-02-28,2024-02-28,8888-12-31,,Other chronic pain,f
+8596,INPATIENT,8940,2025-01-11,2025-01-14,2025-01-23,,"Sepsis, unspecified organism",f
+8597,URGENT CARE,8940,2025-01-23,2025-01-23,8888-12-31,,"Unspecified sprain of right hip, initial encounter",f
+8598,ER,8940,2024-01-31,2024-01-31,8888-12-31,,"Chest pain, unspecified",f
+8599,ER,8940,2023-11-07,2023-11-07,2023-11-16,,"Other intervertebral disc degeneration, lumbar region",f
+8600,ER,8940,2024-12-13,2024-12-13,8888-12-31,,"Low back pain, unspecified",f
+8601,ER,8940,2024-11-19,2024-11-19,8888-12-31,,Precordial pain,f
+8607,ER,8986,2023-07-21,2023-07-21,8888-12-31,,"Nausea with vomiting, unspecified",f
+8608,ER,8986,2024-04-04,2024-04-04,8888-12-31,,Left upper quadrant pain,f
+8609,ER,8986,2023-07-18,2023-07-18,8888-12-31,,Other chest pain,f
+8613,URGENT CARE,9013,2024-03-29,2024-03-29,8888-12-31,,"Urinary tract infection, site not specified",f
+8616,ER,9050,2024-05-08,2024-05-08,8888-12-31,,"Strain of muscle, fascia and tendon at neck level, initial encounter",f
+8621,ER,9074,2023-12-21,2023-12-21,8888-12-31,,Shortness of breath,f
+8637,ER,9177,2023-08-03,2023-08-03,8888-12-31,,"Constipation, unspecified",f
+8638,ER,9177,2023-08-29,2023-08-29,8888-12-31,,"Strain of muscle, fascia and tendon of abdomen, initial encounter",f
+8639,INPATIENT,9211,2025-02-04,2025-02-07,8888-12-31,,"Maternal care for breech presentation, not applicable or unspecified",f
+8667,ER,9551,2024-05-22,2024-05-22,8888-12-31,,"Radiculopathy, cervical region",f
+8669,ER,9594,2024-09-30,2024-09-30,8888-12-31,,"Anxiety disorder, unspecified",f
+8670,ER,9594,2025-01-19,2025-01-19,8888-12-31,,Palpitations,f
+8671,URGENT CARE,9594,2024-09-16,2024-09-16,8888-12-31,,"Viral infection, unspecified",f
+8694,ER,9814,2025-01-02,2025-01-02,8888-12-31,,Cyst of Bartholin's gland,f
+8695,URGENT CARE,9814,2024-02-09,2024-02-09,8888-12-31,,Other specified disorders of nose and nasal sinuses,f
+8696,URGENT CARE,9814,2024-03-12,2024-03-12,8888-12-31,,COVID-19,f
+8702,ER,9857,2023-08-13,2023-08-13,8888-12-31,,Other muscle spasm,f
+8707,ER,9892,2023-09-21,2023-09-21,8888-12-31,,Localized edema,f
+8733,URGENT CARE,10154,2024-12-18,2024-12-18,8888-12-31,,Nasal congestion,f
+8734,URGENT CARE,10154,2024-12-23,2024-12-23,8888-12-31,,"Acute sinusitis, unspecified",f
+8742,ER,10279,2024-07-28,2024-07-28,8888-12-31,,Allergic urticaria,f
+8743,URGENT CARE,10279,2024-07-17,2024-07-17,8888-12-31,,"Acute tonsillitis, unspecified",f
+8758,URGENT CARE,10435,2024-02-21,2024-02-21,8888-12-31,,"Nausea with vomiting, unspecified",f
+8759,URGENT CARE,10435,2024-01-16,2024-01-16,8888-12-31,,"Fever, unspecified",f
+8760,URGENT CARE,10435,2024-03-05,2024-03-05,8888-12-31,,Streptococcal pharyngitis,f
+8761,URGENT CARE,10435,2024-03-23,2024-03-23,8888-12-31,,Streptococcal pharyngitis,f
+8762,URGENT CARE,10435,2024-05-25,2024-05-25,8888-12-31,,"Acute pharyngitis, unspecified",f
+8780,URGENT CARE,10635,2024-09-22,2024-09-22,8888-12-31,,"Injury of conjunctiva and corneal abrasion without foreign body, right eye, initial encounter",f
+8789,ER,10733,2024-08-30,2024-08-30,8888-12-31,,Dizziness and giddiness,f
+8799,URGENT CARE,10744,2025-01-14,2025-01-14,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+8809,ER,10887,2024-05-08,2024-05-08,8888-12-31,,"Chest pain, unspecified",f
+8810,ER,10901,2023-09-09,2023-09-09,8888-12-31,,Pain in left wrist,f
+8811,ER,10901,2023-07-13,2023-07-13,8888-12-31,,COVID-19,f
+8812,ER,10901,2024-07-31,2024-07-31,8888-12-31,,COVID-19,f
+8813,ER,10901,2024-12-20,2024-12-20,8888-12-31,,"Infection following a procedure, other surgical site, initial encounter",f
+8817,URGENT CARE,11004,2024-06-13,2024-06-13,8888-12-31,,"Acute pharyngitis, unspecified",f
+8818,URGENT CARE,11004,2024-07-20,2024-07-20,8888-12-31,,"Insect bite (nonvenomous) of lower back and pelvis, initial encounter",f
+8845,URGENT CARE,11419,2025-02-19,2025-02-19,8888-12-31,,Palpitations,f
+8846,ER,11419,2023-07-27,2023-07-27,8888-12-31,,"Chest pain, unspecified",f
+8856,ER,11521,2024-10-23,2024-10-23,8888-12-31,,Pain in right thigh,f
+8857,URGENT CARE,11521,2023-12-15,2023-12-15,8888-12-31,,Nausea,f
+8861,URGENT CARE,11555,2024-12-23,2024-12-23,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+8862,URGENT CARE,11555,2024-12-16,2024-12-16,8888-12-31,,Unspecified acute lower respiratory infection,f
+8873,URGENT CARE,11637,2024-08-17,2024-08-17,8888-12-31,,"Urinary tract infection, site not specified",f
+8874,ER,11637,2024-02-16,2024-02-16,8888-12-31,,Pain in right finger(s),f
+8875,URGENT CARE,11637,2024-08-23,2024-08-23,8888-12-31,,Dysuria,f
+8876,ER,11637,2024-08-30,2024-08-30,2024-09-12,,Palpitations,f
+8877,URGENT CARE,11637,2024-10-12,2024-10-12,8888-12-31,,Dysuria,f
+8886,ER,11664,2023-11-27,2023-11-27,8888-12-31,,Hypovolemia,f
+8887,ER,11664,2024-09-14,2024-09-14,8888-12-31,,Other chest pain,f
+8888,ER,11664,2025-02-14,2025-02-14,8888-12-31,,Chondrocostal junction syndrome [Tietze],f
+8889,INPATIENT,11664,2023-12-18,2023-12-20,2023-12-26,,"Hypotension, unspecified",f
+8892,ER,11705,2024-02-25,2024-02-25,8888-12-31,,Acute cystitis with hematuria,f
+8893,ER,11705,2024-10-27,2024-10-27,8888-12-31,,Unspecified asthma with (acute) exacerbation,f
+8894,ER,11705,2024-02-04,2024-02-04,8888-12-31,,"Adult sexual abuse, confirmed, initial encounter",f
+8899,INPATIENT,11783,2024-08-27,2024-08-30,2024-09-13,,Transsexualism,f
+8900,URGENT CARE,11856,2024-05-10,2024-05-10,8888-12-31,,"Cough, unspecified",f
+8901,URGENT CARE,11856,2024-05-10,2024-05-10,8888-12-31,,"Pneumonia, unspecified organism",f
+8902,URGENT CARE,11856,2024-04-12,2024-04-12,8888-12-31,,"Acute sinusitis, unspecified",f
+8932,ER,12279,2024-01-14,2024-01-14,8888-12-31,,"Unspecified injury of head, initial encounter",f
+8933,URGENT CARE,12279,2024-01-14,2024-01-14,8888-12-31,,"Unspecified injury of head, initial encounter",f
+8934,URGENT CARE,12279,2024-02-23,2024-02-23,8888-12-31,,Other specified soft tissue disorders,f
+8935,ER,12279,2024-02-03,2024-02-03,8888-12-31,,Other lesions of oral mucosa,f
+8936,ER,12279,2024-03-08,2024-03-08,8888-12-31,,Syncope and collapse,f
+8937,ER,12279,2024-02-06,2024-02-06,8888-12-31,,Other specified disorders of gingiva and edentulous alveolar ridge,f
+8938,URGENT CARE,12279,2023-12-23,2023-12-23,8888-12-31,,"Other injury of unspecified body region, initial encounter",f
+8940,URGENT CARE,12312,2024-03-07,2024-03-07,8888-12-31,,"Unspecified injury of left shoulder and upper arm, initial encounter",f
+8941,URGENT CARE,12315,2025-01-15,2025-01-15,8888-12-31,,Streptococcal pharyngitis,f
+8942,ER,12371,2023-07-31,2023-07-31,8888-12-31,,Encounter for immunization,f
+8943,ER,12371,2023-08-04,2023-08-04,8888-12-31,,Encounter for immunization,f
+8956,URGENT CARE,12602,2024-01-12,2024-01-12,8888-12-31,,Other acute sinusitis,f
+8957,URGENT CARE,12602,2024-03-18,2024-03-18,8888-12-31,,"Diarrhea, unspecified",f
+8962,URGENT CARE,12648,2024-12-06,2024-12-06,8888-12-31,,Acute cough,f
+8963,URGENT CARE,12648,2025-01-05,2025-01-05,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+8965,URGENT CARE,12669,2024-03-26,2024-03-26,8888-12-31,,Acute cough,f
+8982,ER,12767,2023-03-14,2023-03-14,8888-12-31,,"Acute pharyngitis, unspecified",f
+8983,ER,12767,2023-04-17,2023-04-17,8888-12-31,,Cellulitis of buttock,f
+8984,ER,12768,2024-12-18,2024-12-18,8888-12-31,,Syncope and collapse,f
+8985,URGENT CARE,12768,2023-12-26,2023-12-26,8888-12-31,,"Acute sinusitis, unspecified",f
+8988,URGENT CARE,12859,2024-09-04,2024-09-04,8888-12-31,,"Acute pharyngitis, unspecified",f
+8989,URGENT CARE,12859,2024-05-06,2024-05-06,8888-12-31,,"Injury, unspecified, initial encounter",f
+8990,URGENT CARE,12859,2024-01-05,2024-01-05,8888-12-31,,Pain in left elbow,f
+9004,URGENT CARE,12995,2024-06-14,2024-06-14,8888-12-31,,"Injury of conjunctiva and corneal abrasion without foreign body, left eye, initial encounter",f
+9023,URGENT CARE,13287,2024-11-06,2024-11-06,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+9025,ER,13307,2024-10-12,2024-10-12,8888-12-31,,"Constipation, unspecified",f
+9029,ER,13364,2025-02-07,2025-02-07,8888-12-31,,Right upper quadrant pain,f
+9039,ER,13438,2024-08-25,2024-08-25,8888-12-31,,"Chronic sinusitis, unspecified",f
+9045,URGENT CARE,13508,2024-04-17,2024-04-17,8888-12-31,,"Unspecified acute conjunctivitis, right eye",f
+9055,URGENT CARE,13654,2024-03-03,2024-03-03,8888-12-31,,"Cutaneous abscess of trunk, unspecified",f
+9094,URGENT CARE,13961,2023-12-08,2023-12-08,8888-12-31,,Nasal congestion,f
+9095,ER,13961,2023-11-15,2023-11-15,8888-12-31,,"Unspecified injury of head, initial encounter",f
+9096,URGENT CARE,13961,2024-08-06,2024-08-06,8888-12-31,,"Acute pharyngitis, unspecified",f
+9097,URGENT CARE,13961,2024-05-27,2024-05-27,8888-12-31,,"Viral infection, unspecified",f
+9098,URGENT CARE,13972,2024-08-02,2024-08-02,8888-12-31,,Other fatigue,f
+9099,URGENT CARE,14035,2024-06-14,2024-06-14,8888-12-31,,"Strain of unspecified muscle, fascia and tendon at shoulder and upper arm level, right arm, initial encounter",f
+9100,URGENT CARE,14035,2024-06-17,2024-06-17,8888-12-31,,Localized enlarged lymph nodes,f
+9101,URGENT CARE,14035,2024-06-16,2024-06-16,8888-12-31,,Cellulitis of left lower limb,f
+9102,URGENT CARE,14035,2024-12-28,2024-12-28,8888-12-31,,COVID-19,f
+9115,INPATIENT,14178,2024-11-06,2024-11-08,2024-11-14,,"Other specified pregnancy related conditions, third trimester",f
+9120,URGENT CARE,14271,2024-04-03,2024-04-03,8888-12-31,,Unspecified abdominal pain,f
+9121,ER,14271,2023-09-25,2023-09-25,8888-12-31,,Shortness of breath,f
+9122,URGENT CARE,14271,2024-11-13,2024-11-13,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+9123,URGENT CARE,14271,2023-12-23,2023-12-23,8888-12-31,,Other specified respiratory disorders,f
+9124,ER,14271,2023-12-29,2023-12-29,8888-12-31,,Left upper quadrant pain,f
+9125,ER,14271,2023-08-18,2023-08-18,8888-12-31,,"Unspecified asthma, uncomplicated",f
+9126,ER,14271,2024-03-31,2024-03-31,2024-04-03,,Other specified diseases of gallbladder,f
+9136,URGENT CARE,14397,2024-02-08,2024-02-08,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+9137,URGENT CARE,14404,2024-02-25,2024-02-25,8888-12-31,,"Edema of left eye, unspecified eyelid",f
+9141,URGENT CARE,14473,2024-02-02,2024-02-02,8888-12-31,,"Unspecified acute conjunctivitis, bilateral",f
+9153,ER,14570,2023-05-11,2023-05-11,8888-12-31,,"Chronic sinusitis, unspecified",f
+9156,URGENT CARE,14667,2023-12-27,2023-12-27,8888-12-31,,Other specified respiratory disorders,f
+9166,URGENT CARE,14806,2024-06-10,2024-06-10,8888-12-31,,"Allergic contact dermatitis due to plants, except food",f
+9167,URGENT CARE,14806,2023-12-20,2023-12-20,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+9168,URGENT CARE,14806,2024-04-06,2024-04-06,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+9179,URGENT CARE,14886,2024-12-18,2024-12-18,8888-12-31,,"Acute pharyngitis, unspecified",f
+9180,URGENT CARE,14886,2024-06-23,2024-06-23,8888-12-31,,"Sprain of unspecified ligament of left ankle, initial encounter",f
+9181,ER,14886,2024-11-01,2024-11-01,8888-12-31,,Other symptoms and signs involving the nervous system,f
+9182,URGENT CARE,14886,2024-03-05,2024-03-05,8888-12-31,,Acute cough,f
+9185,URGENT CARE,14949,2023-12-22,2023-12-22,8888-12-31,,Streptococcal pharyngitis,f
+9188,ER,14967,2024-02-25,2024-02-25,8888-12-31,,Other chest pain,f
+9189,ER,14967,2023-11-10,2023-11-10,8888-12-31,,Hydronephrosis with renal and ureteral calculous obstruction,f
+9208,ER,15117,2024-09-20,2024-09-20,8888-12-31,,Varicella without complication,f
+9210,URGENT CARE,15136,2024-02-29,2024-02-29,8888-12-31,,Encounter for screening for infections with a predominantly sexual mode of transmission,f
+9211,URGENT CARE,15136,2024-03-02,2024-03-02,8888-12-31,,Other viral warts,f
+9212,ER,15136,2024-06-11,2024-06-11,8888-12-31,,"Acute post-traumatic headache, not intractable",f
+9213,URGENT CARE,15136,2024-10-22,2024-10-22,8888-12-31,,"Viral infection, unspecified",f
+9228,ER,15276,2024-06-10,2024-06-10,8888-12-31,,Pleurodynia,f
+9229,ER,15276,2024-11-27,2024-11-27,8888-12-31,,Jaw pain,f
+9235,ER,15362,2025-01-04,2025-01-04,8888-12-31,,"Acute pharyngitis, unspecified",f
+9236,URGENT CARE,15362,2024-06-02,2024-06-02,8888-12-31,,Cellulitis of right toe,f
+9237,URGENT CARE,15362,2024-03-08,2024-03-08,8888-12-31,,Cellulitis of right finger,f
+9249,URGENT CARE,15500,2024-01-17,2024-01-17,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+9250,URGENT CARE,15500,2024-08-31,2024-08-31,8888-12-31,,"Unspecified contact dermatitis, unspecified cause",f
+9251,URGENT CARE,15500,2025-02-12,2025-02-12,8888-12-31,,"Viral infection, unspecified",f
+9252,URGENT CARE,15523,2024-04-13,2024-04-13,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+9253,URGENT CARE,15622,2024-02-01,2024-02-01,8888-12-31,,"Otitis media, unspecified, right ear",f
+9278,ER,15908,2024-06-24,2024-06-24,8888-12-31,,"Abrasion of other part of head, initial encounter",f
+9279,ER,15908,2023-09-26,2023-09-26,8888-12-31,,Dehydration,f
+9281,URGENT CARE,15914,2024-06-21,2024-06-21,8888-12-31,,Other chest pain,f
+9289,URGENT CARE,16049,2024-01-13,2024-01-13,8888-12-31,,"Chronic sinusitis, unspecified",f
+9300,ER,16148,2023-08-09,2023-08-09,2023-08-15,,"Multiple fractures of ribs, right side, initial encounter for closed fracture",f
+9301,URGENT CARE,16161,2024-02-19,2024-02-19,8888-12-31,,Other conjunctivitis,f
+9302,ER,16161,2024-03-23,2024-03-23,8888-12-31,,Hydronephrosis with renal and ureteral calculous obstruction,f
+9305,ER,16201,2024-07-31,2024-07-31,8888-12-31,,Generalized abdominal pain,f
+9307,URGENT CARE,16225,2024-11-12,2024-11-12,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+9319,ER,16417,2023-03-27,2023-03-27,8888-12-31,,"Nausea with vomiting, unspecified",f
+9320,URGENT CARE,16417,2024-09-24,2024-09-24,8888-12-31,,"Urinary tract infection, site not specified",f
+9363,URGENT CARE,16754,2024-11-24,2024-11-24,8888-12-31,,"Otitis media, unspecified, bilateral",f
+9369,URGENT CARE,16869,2024-09-05,2024-09-05,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+9370,URGENT CARE,16869,2024-11-09,2024-11-09,8888-12-31,,Acute laryngitis,f
+9371,URGENT CARE,16869,2024-08-19,2024-08-19,8888-12-31,,Pityriasis versicolor,f
+9372,URGENT CARE,16873,2024-02-21,2024-02-21,8888-12-31,,"Acute pharyngitis, unspecified",f
+9373,ER,16873,2025-01-27,2025-01-28,8888-12-31,,"Contusion of right front wall of thorax, initial encounter",f
+9375,ER,16933,2025-01-08,2025-01-08,8888-12-31,,Pain in left upper arm,f
+9381,URGENT CARE,17035,2024-06-06,2024-06-06,8888-12-31,,"Hordeolum externum unspecified eye, unspecified eyelid",f
+9400,ER,17274,2025-03-01,2025-03-01,8888-12-31,,Other nonspecific abnormal finding of lung field,f
+9401,URGENT CARE,17274,2024-02-25,2024-02-25,8888-12-31,,"Otitis media, unspecified, bilateral",f
+9408,URGENT CARE,17339,2024-05-14,2024-05-14,8888-12-31,,"Injury, poisoning and certain other consequences of external causes complicating pregnancy, first trimester",f
+9409,ER,17339,2024-10-26,2024-10-26,8888-12-31,,"Antepartum hemorrhage, unspecified, third trimester",f
+9410,URGENT CARE,17339,2024-06-27,2024-06-27,8888-12-31,,"Diseases of the respiratory system complicating pregnancy, first trimester",f
+9411,INPATIENT,17339,2024-12-23,2024-12-24,2025-01-03,,Maternal care for low transverse scar from previous cesarean delivery,f
+9427,URGENT CARE,17571,2024-02-24,2024-02-24,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+9442,URGENT CARE,17653,2023-12-26,2023-12-26,8888-12-31,,Acute bronchitis due to other specified organisms,f
+9443,ER,17678,2024-06-14,2024-06-14,8888-12-31,,"Displaced trimalleolar fracture of right lower leg, initial encounter for closed fracture",f
+9446,ER,17844,2023-11-25,2023-11-25,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+9447,ER,17851,2024-07-31,2024-07-31,8888-12-31,,"Episodic cluster headache, not intractable",f
+9448,ER,17851,2024-06-15,2024-06-15,8888-12-31,,"Atopic dermatitis, unspecified",f
+9449,URGENT CARE,17897,2023-12-22,2023-12-22,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+9450,ER,17897,2025-02-09,2025-02-09,8888-12-31,,"Unspecified injury of head, initial encounter",f
+9451,URGENT CARE,17897,2024-10-30,2024-10-30,8888-12-31,,Influenza due to unidentified influenza virus with other respiratory manifestations,f
+9457,URGENT CARE,17957,2024-03-12,2024-03-12,8888-12-31,,Other allergic rhinitis,f
+9465,URGENT CARE,18020,2024-02-06,2024-02-06,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+9466,INPATIENT,18020,2023-10-10,2023-10-25,8888-12-31,,Obstructive hypertrophic cardiomyopathy,f
+9467,URGENT CARE,18020,2025-02-12,2025-02-12,8888-12-31,,"Displaced fracture of proximal phalanx of left lesser toe(s), initial encounter for closed fracture",f
+9472,ER,18121,2023-11-26,2023-11-26,8888-12-31,,"Abnormal uterine and vaginal bleeding, unspecified",f
+9473,URGENT CARE,18122,2024-10-01,2024-10-01,8888-12-31,,Streptococcal pharyngitis,f
+9474,URGENT CARE,18122,2024-01-21,2024-01-21,8888-12-31,,"Dorsalgia, unspecified",f
+9476,URGENT CARE,18187,2025-03-03,2025-03-03,8888-12-31,,Generalized abdominal pain,f
+9477,URGENT CARE,18187,2023-12-16,2023-12-16,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+9478,URGENT CARE,18187,2024-05-19,2024-05-19,8888-12-31,,Acute bronchitis due to other specified organisms,f
+9479,URGENT CARE,18187,2024-12-07,2024-12-07,8888-12-31,,"Acute sinusitis, unspecified",f
+9480,URGENT CARE,18187,2023-12-18,2023-12-18,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+9481,URGENT CARE,18187,2023-12-29,2023-12-29,8888-12-31,,Shortness of breath,f
+9482,URGENT CARE,18187,2024-04-05,2024-04-05,8888-12-31,,Unspecified conjunctivitis,f
+9494,URGENT CARE,18261,2024-11-02,2024-11-02,8888-12-31,,COVID-19,f
+9503,ER,18363,2024-04-15,2024-04-15,8888-12-31,,Pain in left leg,f
+9504,ER,18363,2024-02-07,2024-02-07,8888-12-31,,Palpitations,f
+9505,ER,18363,2024-02-13,2024-02-13,2024-02-13,,Hypertensive urgency,f
+9506,ER,18380,2024-01-04,2024-01-04,8888-12-31,,Cervicalgia,f
+9511,ER,18469,2025-01-19,2025-01-19,8888-12-31,,"Pure hypercholesterolemia, unspecified",f
+9512,ER,18469,2024-01-09,2024-01-09,8888-12-31,,Dizziness and giddiness,f
+9513,ER,18469,2023-11-27,2023-11-27,8888-12-31,,Dizziness and giddiness,f
+9515,ER,18507,2023-10-11,2023-10-11,8888-12-31,,"Laceration without foreign body of left eyelid and periocular area, initial encounter",f
+9519,URGENT CARE,18547,2025-01-14,2025-01-14,8888-12-31,,"Otitis media, unspecified, right ear",f
+9525,ER,18656,2025-01-15,2025-01-15,8888-12-31,,Syncope and collapse,f
+9526,URGENT CARE,18656,2025-02-20,2025-02-20,8888-12-31,,COVID-19,f
+9527,URGENT CARE,18675,2024-10-07,2024-10-07,8888-12-31,,"Injury of conjunctiva and corneal abrasion without foreign body, right eye, initial encounter",f
+9528,ER,18675,2024-02-28,2024-02-28,8888-12-31,,"Other displaced fracture of base of first metacarpal bone, right hand, initial encounter for closed fracture",f
+9539,URGENT CARE,18803,2025-02-06,2025-02-06,8888-12-31,,"Viral infection, unspecified",f
+9546,INPATIENT,18851,2024-10-24,2024-11-04,8888-12-31,,"Major depressive disorder, single episode, moderate",f
+9559,ER,18948,2024-05-17,2024-05-17,8888-12-31,,"Tubulo-interstitial nephritis, not specified as acute or chronic",f
+9560,URGENT CARE,18958,2024-11-22,2024-11-22,8888-12-31,,"Pneumonia, unspecified organism",f
+9562,URGENT CARE,19042,2024-09-11,2024-09-11,8888-12-31,,Acute bronchitis due to other specified organisms,f
+9563,URGENT CARE,19042,2024-09-11,2024-09-11,8888-12-31,,Acute bronchitis due to other specified organisms,f
+9567,ER,19125,2024-09-02,2024-09-02,8888-12-31,,"Sprain of unspecified site of left knee, initial encounter",f
+9575,ER,19209,2024-12-05,2024-12-05,8888-12-31,,Palpitations,f
+9576,ER,19209,2024-06-20,2024-06-20,8888-12-31,,Cellulitis of left lower limb,f
+9586,ER,19327,2023-09-29,2023-09-29,8888-12-31,,"Upper abdominal pain, unspecified",f
+9587,URGENT CARE,19327,2024-06-23,2024-06-23,8888-12-31,,"Acute pharyngitis, unspecified",f
+9588,ER,19327,2024-11-24,2024-11-24,8888-12-31,,Right upper quadrant pain,f
+9592,ER,19363,2024-04-27,2024-04-27,8888-12-31,,Pain in left knee,f
+9593,ER,19363,2024-07-27,2024-07-27,2024-08-07,,Pain in left knee,f
+9594,URGENT CARE,19388,2024-07-13,2024-07-13,8888-12-31,,"Urinary tract infection, site not specified",f
+9601,ER,19441,2024-08-22,2024-08-22,8888-12-31,,"Displaced fracture of distal phalanx of left little finger, initial encounter for open fracture",f
+9612,ER,19605,2024-04-16,2024-04-16,8888-12-31,,"Headache, unspecified",f
+9628,URGENT CARE,19818,2025-01-27,2025-01-27,8888-12-31,,"Otitis media, unspecified, left ear",f
+9629,URGENT CARE,19818,2025-01-27,2025-01-27,8888-12-31,,"Otitis media, unspecified, left ear",f
+9640,ER,19940,2024-05-18,2024-05-18,8888-12-31,,Other chest pain,f
+9641,URGENT CARE,19940,2024-11-17,2024-11-17,8888-12-31,,"Strain of muscle and tendon of front wall of thorax, initial encounter",f
+9642,URGENT CARE,19940,2024-03-06,2024-03-06,8888-12-31,,"Irritant contact dermatitis, unspecified cause",f
+9682,URGENT CARE,20443,2024-04-16,2024-04-16,8888-12-31,,"Cutaneous abscess, unspecified",f
+9683,URGENT CARE,20443,2024-01-26,2024-01-26,8888-12-31,,Acute vaginitis,f
+9684,ER,20443,2023-08-08,2023-08-08,8888-12-31,,"Sprain of unspecified ligament of right ankle, initial encounter",f
+9685,ER,20452,2024-02-17,2024-02-17,8888-12-31,,"Noninfective gastroenteritis and colitis, unspecified",f
+9697,URGENT CARE,20568,2024-07-05,2024-07-05,8888-12-31,,"Unspecified injury of right ankle, initial encounter",f
+9698,INPATIENT,20568,2024-11-05,2024-11-07,2024-11-11,,Cellulitis of right lower limb,f
+9699,ER,20568,2024-04-28,2024-04-28,8888-12-31,,Cellulitis of right lower limb,f
+9700,ER,20568,2024-11-11,2024-11-11,8888-12-31,,"Dyspnea, unspecified",f
+9701,INPATIENT,20580,2024-06-11,2024-06-18,2024-06-20,,"Sepsis, unspecified organism",f
+9702,ER,20580,2024-09-24,2024-09-24,8888-12-31,,"Idiopathic gout, right wrist",f
+9703,ER,20584,2024-10-26,2024-10-26,8888-12-31,,Unspecified convulsions,f
+9708,URGENT CARE,20624,2024-05-09,2024-05-09,8888-12-31,,Dysuria,f
+9713,ER,20652,2024-05-06,2024-05-06,8888-12-31,,Other chest pain,f
+9714,ER,20652,2025-01-10,2025-01-10,8888-12-31,,COVID-19,f
+9731,URGENT CARE,20735,2025-03-03,2025-03-03,8888-12-31,,"Acute pharyngitis, unspecified",f
+9732,URGENT CARE,20735,2024-06-29,2024-06-29,8888-12-31,,Dysuria,f
+9733,URGENT CARE,20752,2024-05-28,2024-05-28,8888-12-31,,"Acute suppurative otitis media without spontaneous rupture of ear drum, right ear",f
+9734,URGENT CARE,20752,2024-02-04,2024-02-04,8888-12-31,,"Impacted cerumen, bilateral",f
+9735,URGENT CARE,20770,2024-04-02,2024-04-02,8888-12-31,,"Acute sinusitis, unspecified",f
+9736,URGENT CARE,20770,2024-07-24,2024-07-24,8888-12-31,,"Acute sinusitis, unspecified",f
+9738,URGENT CARE,20797,2024-05-05,2024-05-05,8888-12-31,,"Dermatitis, unspecified",f
+9739,URGENT CARE,20797,2024-10-24,2024-10-24,8888-12-31,,"Acute sinusitis, unspecified",f
+9747,URGENT CARE,20961,2024-01-08,2024-01-08,8888-12-31,,"Acute bronchitis, unspecified",f
+9748,URGENT CARE,20961,2024-11-01,2024-11-01,8888-12-31,,"Viral infection, unspecified",f
+9749,URGENT CARE,20961,2023-12-22,2023-12-22,8888-12-31,,"Acute pharyngitis, unspecified",f
+9750,URGENT CARE,20977,2024-04-09,2024-04-09,8888-12-31,,"Lumbago with sciatica, left side",f
+9752,URGENT CARE,21010,2024-01-04,2024-01-04,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+9753,URGENT CARE,21010,2024-05-11,2024-05-11,8888-12-31,,"Herpesviral infection, unspecified",f
+9762,URGENT CARE,21052,2024-03-13,2024-03-13,8888-12-31,,"Sprain of carpal joint of left wrist, initial encounter",f
+9776,URGENT CARE,21350,2023-12-28,2023-12-28,8888-12-31,,COVID-19,f
+9777,URGENT CARE,21350,2023-12-10,2023-12-10,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+9781,URGENT CARE,21436,2024-08-24,2024-08-24,8888-12-31,,Pelvic and perineal pain,f
+9789,URGENT CARE,21460,2024-01-16,2024-01-16,8888-12-31,,"Puncture wound without foreign body of left hand, initial encounter",f
+9792,ER,21475,2023-11-06,2023-11-06,8888-12-31,,"Laceration without foreign body of lip, initial encounter",f
+9793,INPATIENT,21475,2023-11-08,2023-11-09,2023-11-15,,"Stable burst fracture of third thoracic vertebra, initial encounter for closed fracture",f
+9794,ER,21506,2024-12-15,2024-12-15,8888-12-31,,"Noninfective gastroenteritis and colitis, unspecified",f
+9821,URGENT CARE,21925,2024-04-19,2024-04-19,8888-12-31,,"Low back pain, unspecified",f
+9827,URGENT CARE,22043,2024-11-25,2024-11-25,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+9828,URGENT CARE,22043,2024-09-03,2024-09-03,8888-12-31,,"Injury of conjunctiva and corneal abrasion without foreign body, right eye, initial encounter",f
+9837,INPATIENT,22120,2024-11-04,2024-11-09,2024-11-19,,Intestinal adhesions [bands] with complete obstruction,f
+9838,URGENT CARE,22120,2025-01-01,2025-01-01,8888-12-31,,"Cough, unspecified",f
+9839,URGENT CARE,22120,2024-12-20,2024-12-20,8888-12-31,,Acute cough,f
+9842,ER,22166,2023-08-16,2023-08-16,8888-12-31,,Generalized abdominal pain,f
+9876,ER,22458,2024-03-21,2024-03-21,8888-12-31,,Dizziness and giddiness,f
+9877,URGENT CARE,22458,2024-12-06,2024-12-06,8888-12-31,,Other specified respiratory disorders,f
+9890,URGENT CARE,22531,2023-12-17,2023-12-17,8888-12-31,,Acute cough,f
+9919,URGENT CARE,22903,2024-01-03,2024-01-03,8888-12-31,,Unspecified conjunctivitis,f
+9920,URGENT CARE,22903,2024-10-31,2024-10-31,8888-12-31,,"Unspecified injury of left elbow, initial encounter",f
+9921,URGENT CARE,22903,2024-08-21,2024-08-21,8888-12-31,,Cutaneous abscess of abdominal wall,f
+9936,URGENT CARE,23104,2024-02-26,2024-02-26,8888-12-31,,"Laceration without foreign body, left foot, initial encounter",f
+9955,URGENT CARE,23371,2024-06-18,2024-06-18,8888-12-31,,"Sprain of other ligament of left ankle, initial encounter",f
+9979,ER,23445,2024-07-29,2024-07-29,8888-12-31,,"Displaced fracture of head of right radius, initial encounter for closed fracture",f
+9986,URGENT CARE,23558,2024-09-06,2024-09-06,8888-12-31,,"Cough, unspecified",f
+9988,ER,23593,2024-02-13,2024-02-13,8888-12-31,,"Anxiety disorder, unspecified",f
+9989,URGENT CARE,23593,2024-11-25,2024-11-25,8888-12-31,,Other gastritis without bleeding,f
+9990,ER,23593,2023-06-13,2023-06-13,8888-12-31,,Palpitations,f
+9991,ER,23593,2023-06-16,2023-06-16,8888-12-31,,Palpitations,f
+9992,URGENT CARE,23596,2024-04-01,2024-04-01,8888-12-31,,Streptococcal pharyngitis,f
+9993,ER,23596,2024-07-28,2024-07-28,8888-12-31,,Unspecified atrial fibrillation,f
+10007,URGENT CARE,23696,2024-08-10,2024-08-10,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+10025,URGENT CARE,23909,2024-01-17,2024-01-17,8888-12-31,,"Headache, unspecified",f
+10026,URGENT CARE,23909,2024-01-21,2024-01-21,8888-12-31,,Subacute cough,f
+10027,URGENT CARE,23909,2025-02-24,2025-02-24,8888-12-31,,COVID-19,f
+10029,ER,23943,2023-12-22,2023-12-22,8888-12-31,,"Contusion of unspecified part of head, initial encounter",f
+10030,ER,23943,2024-12-19,2024-12-19,8888-12-31,,Palpitations,f
+10044,ER,24049,2024-11-25,2024-11-25,8888-12-31,,Shortness of breath,f
+10045,URGENT CARE,24049,2024-11-25,2024-11-25,8888-12-31,,Shortness of breath,f
+10053,ER,24081,2024-08-05,2024-08-05,8888-12-31,,Other chest pain,f
+10054,ER,24091,2024-05-28,2024-05-28,8888-12-31,,"Unspecified sprain of right wrist, initial encounter",f
+10059,ER,24213,2024-12-11,2024-12-11,8888-12-31,,Other chest pain,f
+10071,ER,24286,2024-09-29,2024-09-29,8888-12-31,,Calculus of bile duct without cholangitis or cholecystitis without obstruction,f
+10072,URGENT CARE,24323,2023-12-16,2023-12-16,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10073,ER,24323,2025-01-18,2025-01-18,8888-12-31,,"Strain of muscle, fascia and tendon at neck level, initial encounter",f
+10082,URGENT CARE,24424,2024-08-17,2024-08-17,8888-12-31,,COVID-19,f
+10099,URGENT CARE,24636,2024-08-04,2024-08-04,8888-12-31,,"Insect bite (nonvenomous), unspecified foot, initial encounter",f
+10107,ER,24675,2024-03-21,2024-03-21,8888-12-31,,Calculus of ureter,f
+10118,ER,24732,2023-05-07,2023-05-07,8888-12-31,,"Unspecified asthma, uncomplicated",f
+10120,ER,24776,2023-07-01,2023-07-01,8888-12-31,,"Other injury of esophagus (thoracic part), initial encounter",f
+10121,URGENT CARE,24776,2024-04-27,2024-04-27,8888-12-31,,Muscle spasm of back,f
+10122,URGENT CARE,24776,2024-11-17,2024-11-17,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+10123,URGENT CARE,24776,2024-01-05,2024-01-05,8888-12-31,,"Pneumonia, unspecified organism",f
+10124,ER,24776,2024-11-29,2024-11-29,8888-12-31,,Mild persistent asthma with (acute) exacerbation,f
+10125,URGENT CARE,24776,2024-08-09,2024-08-09,8888-12-31,,Acute cystitis with hematuria,f
+10126,URGENT CARE,24776,2025-01-12,2025-01-12,8888-12-31,,Acute cystitis without hematuria,f
+10127,ER,24776,2023-12-18,2023-12-18,8888-12-31,,Allergy status to sulfonamides,f
+10128,INPATIENT,24776,2023-12-21,2023-12-27,2024-01-02,,"Sepsis, unspecified organism",f
+10129,ER,24784,2025-02-09,2025-02-09,8888-12-31,,"Unspecified injury of left foot, initial encounter",f
+10130,URGENT CARE,24784,2024-01-17,2024-01-17,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10131,ER,24790,2023-02-03,2023-02-03,8888-12-31,,Pain in left knee,f
+10132,ER,24790,2023-02-07,2023-02-07,8888-12-31,,Pain in left knee,f
+10133,URGENT CARE,24814,2024-08-08,2024-08-08,8888-12-31,,Acute cystitis without hematuria,f
+10134,URGENT CARE,24823,2024-05-21,2024-05-21,8888-12-31,,Acute recurrent frontal sinusitis,f
+10137,ER,24829,2024-09-04,2024-09-04,8888-12-31,,Cellulitis of right lower limb,f
+10143,ER,24903,2023-09-17,2023-09-17,8888-12-31,,"Contusion of left knee, initial encounter",f
+10144,ER,24903,2023-12-27,2023-12-27,2023-12-28,,Dehydration,f
+10147,URGENT CARE,24967,2025-01-30,2025-01-30,8888-12-31,,COVID-19,f
+10148,URGENT CARE,24967,2024-10-05,2024-10-05,8888-12-31,,Other specified disorders of teeth and supporting structures,f
+10166,URGENT CARE,25118,2023-12-18,2023-12-18,8888-12-31,,"Viral infection, unspecified",f
+10167,ER,25118,2024-12-12,2024-12-12,8888-12-31,,Weakness,f
+10168,ER,25118,2024-07-29,2024-07-29,8888-12-31,,Other specified disorders of breast,f
+10169,URGENT CARE,25118,2024-08-08,2024-08-08,8888-12-31,,"Strain of muscle, fascia and tendon at neck level, initial encounter",f
+10170,URGENT CARE,25118,2024-07-24,2024-07-24,8888-12-31,,"Unspecified lump in the right breast, overlapping quadrants",f
+10173,URGENT CARE,25170,2024-10-20,2024-10-20,8888-12-31,,"Attention-deficit hyperactivity disorder, unspecified type",f
+10175,URGENT CARE,25262,2025-02-24,2025-02-24,8888-12-31,,"Anxiety disorder, unspecified",f
+10176,ER,25262,2024-09-18,2024-09-18,8888-12-31,,Hydronephrosis with renal and ureteral calculous obstruction,f
+10177,URGENT CARE,25262,2025-02-24,2025-02-24,8888-12-31,,"Anxiety disorder, unspecified",f
+10183,ER,25373,2024-08-26,2024-08-26,8888-12-31,,Pain in left arm,f
+10189,ER,25431,2024-04-22,2024-04-22,8888-12-31,,"Chest pain, unspecified",f
+10190,URGENT CARE,25431,2024-09-27,2024-09-27,8888-12-31,,"Acute sinusitis, unspecified",f
+10191,ER,25431,2024-02-02,2024-02-02,8888-12-31,,"Otitis media, unspecified, left ear",f
+10192,ER,25431,2025-02-16,2025-02-16,8888-12-31,,Unspecified asthma with (acute) exacerbation,f
+10205,URGENT CARE,25531,2024-09-06,2024-09-06,8888-12-31,,"Insect bite (nonvenomous), right lower leg, initial encounter",f
+10207,ER,25568,2023-08-18,2023-08-18,8888-12-31,,COVID-19,f
+10211,URGENT CARE,25614,2024-08-08,2024-08-08,8888-12-31,,"Urinary tract infection, site not specified",f
+10212,URGENT CARE,25614,2024-10-22,2024-10-22,8888-12-31,,"Urinary tract infection, site not specified",f
+10213,URGENT CARE,25614,2024-12-23,2024-12-23,8888-12-31,,"Cough, unspecified",f
+10223,URGENT CARE,25758,2024-10-22,2024-10-22,8888-12-31,,"Cough, unspecified",f
+10224,ER,25758,2023-04-11,2023-04-11,8888-12-31,,Streptococcal pharyngitis,f
+10225,ER,25758,2023-10-12,2023-10-12,8888-12-31,,Encounter for observation for other suspected diseases and conditions ruled out,f
+10226,INPATIENT,25758,2023-12-12,2023-12-12,8888-12-31,,"Illness, unspecified",f
+10227,URGENT CARE,25758,2024-10-22,2024-10-22,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10228,ER,25758,2023-02-25,2023-02-25,8888-12-31,,Streptococcal pharyngitis,f
+10229,ER,25765,2024-04-17,2024-04-17,2024-04-23,,Amaurosis fugax,f
+10230,ER,25766,2024-07-25,2024-07-25,8888-12-31,,Calculus of gallbladder without cholecystitis without obstruction,f
+10231,ER,25766,2024-07-30,2024-07-30,8888-12-31,,Calculus of gallbladder without cholecystitis without obstruction,f
+10232,URGENT CARE,25775,2024-12-23,2024-12-23,8888-12-31,,"Otitis media, unspecified, right ear",f
+10233,URGENT CARE,25775,2025-02-25,2025-02-25,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+10234,ER,25821,2023-08-05,2023-08-05,8888-12-31,,Other chest pain,f
+10235,ER,25821,2024-06-11,2024-06-11,8888-12-31,,Hemorrhage of anus and rectum,f
+10243,ER,25862,2023-09-22,2023-09-22,8888-12-31,,COVID-19,f
+10263,ER,26028,2024-08-02,2024-08-02,8888-12-31,,Essential (primary) hypertension,f
+10273,ER,26143,2024-12-25,2024-12-25,8888-12-31,,"Sepsis, unspecified organism",f
+10274,INPATIENT,26143,2024-12-23,2024-12-27,8888-12-31,,Sepsis due to Pseudomonas,f
+10275,ER,26143,2024-12-08,2024-12-08,8888-12-31,,Hydronephrosis with renal and ureteral calculous obstruction,f
+10276,ER,26143,2024-09-03,2024-09-04,8888-12-31,,Pain in left hip,f
+10285,INPATIENT,26243,2024-09-06,2024-09-09,8888-12-31,,"Malignant neoplasm of lower lobe, left bronchus or lung",f
+10289,ER,26262,2024-02-29,2024-02-29,8888-12-31,,Essential (primary) hypertension,f
+10325,ER,26531,2024-04-26,2024-04-26,8888-12-31,,"Unspecified fracture of right foot, initial encounter for closed fracture",f
+10358,URGENT CARE,26838,2024-07-07,2024-07-07,8888-12-31,,"Acute sinusitis, unspecified",f
+10359,URGENT CARE,26883,2024-08-29,2024-08-29,8888-12-31,,Pain in left foot,f
+10373,URGENT CARE,27050,2024-01-22,2024-01-22,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+10375,URGENT CARE,27085,2024-03-13,2024-03-13,8888-12-31,,Influenza due to unidentified influenza virus with other respiratory manifestations,f
+10377,ER,27100,2024-08-21,2024-08-21,8888-12-31,,Peritonsillar abscess,f
+10392,URGENT CARE,27211,2024-03-10,2024-03-10,8888-12-31,,Residual hemorrhoidal skin tags,f
+10393,ER,27211,2023-07-20,2023-07-20,8888-12-31,,"Radiculopathy, lumbar region",f
+10394,URGENT CARE,27211,2025-01-18,2025-01-18,8888-12-31,,Acute nasopharyngitis [common cold],f
+10395,URGENT CARE,27211,2025-01-22,2025-01-22,8888-12-31,,"Chronic sinusitis, unspecified",f
+10396,URGENT CARE,27211,2024-02-07,2024-02-07,8888-12-31,,"Allergy, unspecified, initial encounter",f
+10397,INPATIENT,27211,2024-02-20,2024-03-01,2024-03-06,,Myasthenia gravis without (acute) exacerbation,f
+10399,ER,27247,2024-10-21,2024-10-21,2024-10-21,,Other chest pain,f
+10406,URGENT CARE,27309,2025-02-06,2025-02-06,8888-12-31,,"Viral infection, unspecified",f
+10407,URGENT CARE,27314,2023-12-01,2023-12-01,8888-12-31,,"Spinal stenosis, lumbar region without neurogenic claudication",f
+10408,URGENT CARE,27314,2023-12-01,2023-12-01,8888-12-31,,"Strain of muscle, fascia and tendon of lower back, initial encounter",f
+10409,URGENT CARE,27314,2023-12-01,2023-12-01,8888-12-31,,"Strain of muscle, fascia and tendon of lower back, initial encounter",f
+10410,ER,27314,2023-06-17,2023-06-17,8888-12-31,,Unspecified skin changes,f
+10424,URGENT CARE,27610,2024-05-13,2024-05-13,8888-12-31,,"Dermatitis, unspecified",f
+10425,URGENT CARE,27663,2025-02-03,2025-02-03,8888-12-31,,Gastro-esophageal reflux disease without esophagitis,f
+10426,URGENT CARE,27663,2023-12-18,2023-12-18,8888-12-31,,Contact with and (suspected) exposure to COVID-19,f
+10427,URGENT CARE,27663,2024-10-13,2024-10-13,8888-12-31,,Other acute sinusitis,f
+10428,URGENT CARE,27663,2024-10-09,2024-10-09,8888-12-31,,"Unspecified Eustachian tube disorder, right ear",f
+10431,URGENT CARE,27758,2024-07-29,2024-07-29,8888-12-31,,Acute cough,f
+10432,ER,27758,2024-09-25,2024-09-25,8888-12-31,,"Concussion with loss of consciousness status unknown, initial encounter",f
+10433,URGENT CARE,27758,2024-03-11,2024-03-11,8888-12-31,,Pain in left ankle and joints of left foot,f
+10434,URGENT CARE,27758,2024-03-11,2024-03-11,8888-12-31,,"Sprain of other ligament of left ankle, initial encounter",f
+10435,URGENT CARE,27758,2024-07-29,2024-07-29,8888-12-31,,"Pneumonia, unspecified organism",f
+10436,URGENT CARE,27758,2024-03-11,2024-03-11,8888-12-31,,Pain in left ankle and joints of left foot,f
+10437,ER,27758,2025-01-26,2025-01-26,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+10438,URGENT CARE,27758,2025-02-19,2025-02-19,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+10440,ER,27783,2024-12-30,2024-12-30,8888-12-31,,"Burn of second degree of left hand, unspecified site, initial encounter",f
+10441,URGENT CARE,27783,2024-06-02,2024-06-02,8888-12-31,,Nasal congestion,f
+10444,ER,27866,2023-12-15,2023-12-15,8888-12-31,,Left lower quadrant pain,f
+10445,INPATIENT,27866,2023-12-23,2023-12-26,8888-12-31,,"Spinal stenosis, lumbar region without neurogenic claudication",f
+10446,URGENT CARE,27866,2024-09-05,2024-09-05,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10453,URGENT CARE,27908,2024-09-04,2024-09-04,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10454,ER,27943,2023-09-07,2023-09-07,8888-12-31,,"Allergy, unspecified, initial encounter",f
+10461,ER,28106,2023-06-17,2023-06-17,8888-12-31,,"Noninfective gastroenteritis and colitis, unspecified",f
+10462,URGENT CARE,28141,2024-01-06,2024-01-06,8888-12-31,,"Acute bronchitis, unspecified",f
+10478,INPATIENT,28337,2024-01-19,2024-01-25,2024-02-08,,"Ataxia, unspecified",f
+10479,INPATIENT,28337,2024-01-25,2024-02-02,2024-02-08,,Orthostatic hypotension,f
+10486,ER,28387,2023-05-16,2023-05-16,8888-12-31,,"Acute pansinusitis, unspecified",f
+10487,ER,28397,2024-08-03,2024-08-03,8888-12-31,,Recurrent oral aphthae,f
+10488,URGENT CARE,28397,2024-04-11,2024-04-11,8888-12-31,,Other acute sinusitis,f
+10507,ER,28630,2023-07-22,2023-07-22,8888-12-31,,"Headache, unspecified",f
+10525,URGENT CARE,28872,2023-12-06,2023-12-06,8888-12-31,,Acute laryngitis,f
+10526,ER,28872,2024-08-12,2024-08-12,8888-12-31,,"Urinary tract infection, site not specified",f
+10527,URGENT CARE,28872,2024-03-31,2024-03-31,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10528,ER,28872,2024-03-15,2024-03-15,2024-03-27,,"Hypotension, unspecified",f
+10538,URGENT CARE,29022,2025-01-01,2025-01-01,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10539,ER,29120,2024-12-13,2024-12-13,8888-12-31,,"Sprain of ligaments of cervical spine, initial encounter",f
+10559,URGENT CARE,29339,2024-03-16,2024-03-16,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10560,URGENT CARE,29339,2024-01-15,2024-01-15,8888-12-31,,"Acute pharyngitis, unspecified",f
+10573,URGENT CARE,29405,2024-08-24,2024-08-24,8888-12-31,,"Otitis media, unspecified, right ear",f
+10587,URGENT CARE,29499,2024-01-08,2024-01-08,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10607,URGENT CARE,29708,2024-12-27,2024-12-27,8888-12-31,,Influenza due to identified novel influenza A virus with other respiratory manifestations,f
+10608,URGENT CARE,29708,2024-08-24,2024-08-24,8888-12-31,,"Acute pharyngitis, unspecified",f
+10629,ER,29838,2024-10-03,2024-10-03,8888-12-31,,Hydronephrosis with renal and ureteral calculous obstruction,f
+10632,ER,29906,2023-10-01,2023-10-01,8888-12-31,,Pain in left leg,f
+10635,URGENT CARE,29937,2024-02-29,2024-02-29,8888-12-31,,"Myalgia, unspecified site",f
+10636,URGENT CARE,29937,2024-12-11,2024-12-11,8888-12-31,,"Fever, unspecified",f
+10637,ER,29937,2024-06-12,2024-06-12,8888-12-31,,"Foreign body in cornea, left eye, initial encounter",f
+10638,URGENT CARE,29937,2024-03-12,2024-03-12,8888-12-31,,Influenza due to other identified influenza virus with other manifestations,f
+10639,URGENT CARE,29937,2024-10-11,2024-10-11,8888-12-31,,"Unspecified sprain of right wrist, initial encounter",f
+10640,ER,29937,2024-07-23,2024-07-23,8888-12-31,,"Unspecified acute conjunctivitis, right eye",f
+10648,ER,30056,2023-12-04,2023-12-04,8888-12-31,,Other headache syndrome,f
+10649,URGENT CARE,30056,2024-07-30,2024-07-30,8888-12-31,,Unspecified abdominal pain,f
+10650,ER,30056,2024-07-28,2024-07-28,8888-12-31,,Generalized abdominal pain,f
+10667,ER,30324,2024-05-12,2024-05-12,8888-12-31,,"Contusion of unspecified part of head, initial encounter",f
+10684,ER,30472,2024-12-16,2024-12-16,2024-12-24,,Bell's palsy,f
+10685,ER,30472,2023-06-02,2023-06-02,8888-12-31,,Pleurodynia,f
+10686,INPATIENT,30505,2024-04-12,2024-04-15,2024-04-19,,"Sepsis, unspecified organism",t
+10687,URGENT CARE,30505,2024-03-19,2024-03-19,8888-12-31,,"Urinary tract infection, site not specified",f
+10688,URGENT CARE,30505,2024-07-29,2024-07-29,8888-12-31,,"Acute pharyngitis, unspecified",f
+10689,URGENT CARE,30505,2024-03-20,2024-03-20,8888-12-31,,Contact with and (suspected) exposure to COVID-19,f
+10690,INPATIENT,30505,2024-03-20,2024-03-23,2024-03-26,,Other specified sepsis,f
+10691,ER,30534,2023-06-11,2023-06-11,2023-06-19,,"Nausea with vomiting, unspecified",f
+10692,URGENT CARE,30534,2025-02-25,2025-02-25,8888-12-31,,COVID-19,f
+10693,ER,30534,2023-06-02,2023-06-02,8888-12-31,,"Nausea with vomiting, unspecified",f
+10694,ER,30534,2024-12-24,2024-12-24,8888-12-31,,"Noninfective gastroenteritis and colitis, unspecified",f
+10695,INPATIENT,30534,2023-09-29,2023-10-03,8888-12-31,,Type 2 diabetes mellitus with ketoacidosis without coma,f
+10696,ER,30534,2024-12-25,2024-12-25,8888-12-31,,Crohn's disease of both small and large intestine without complications,f
+10697,ER,30534,2025-01-01,2025-01-01,8888-12-31,,Dehydration,f
+10722,URGENT CARE,30868,2024-12-08,2024-12-08,8888-12-31,,Acute candidiasis of vulva and vagina,f
+10726,URGENT CARE,30964,2024-12-21,2024-12-21,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10727,URGENT CARE,30964,2024-05-12,2024-05-12,8888-12-31,,Streptococcal pharyngitis,f
+10730,URGENT CARE,31001,2024-04-23,2024-04-23,8888-12-31,,"Acute sinusitis, unspecified",f
+10762,ER,31254,2024-09-13,2024-09-13,8888-12-31,,Epistaxis,f
+10763,ER,31254,2024-09-15,2024-09-15,8888-12-31,,Epistaxis,f
+10764,ER,31254,2024-09-12,2024-09-12,8888-12-31,,Epistaxis,f
+10792,ER,31622,2024-09-07,2024-09-07,8888-12-31,,"Injury of conjunctiva and corneal abrasion without foreign body, left eye, initial encounter",f
+10798,URGENT CARE,31728,2024-01-27,2024-01-27,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+10815,URGENT CARE,32024,2024-06-03,2024-06-03,8888-12-31,,Pain in right foot,f
+10816,URGENT CARE,32024,2024-06-03,2024-06-03,8888-12-31,,"Nondisplaced fracture of proximal phalanx of right lesser toe(s), initial encounter for closed fracture",f
+10817,INPATIENT,32024,2024-01-10,2024-01-14,2024-01-18,,"Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth",f
+10842,URGENT CARE,32201,2024-12-17,2024-12-17,8888-12-31,,"Acute suppurative otitis media without spontaneous rupture of ear drum, bilateral",f
+10843,ER,32201,2024-09-13,2024-09-13,8888-12-31,,"Open bite, left thigh, initial encounter",f
+10844,URGENT CARE,32205,2024-08-23,2024-08-23,8888-12-31,,"Otitis media, unspecified, left ear",f
+10845,URGENT CARE,32244,2025-02-07,2025-02-07,8888-12-31,,"Superficial foreign body, left foot, initial encounter",f
+10874,ER,32371,2024-11-13,2024-11-13,8888-12-31,,"Infectious gastroenteritis and colitis, unspecified",f
+10875,ER,32375,2023-07-29,2023-07-29,8888-12-31,,Mallet finger of left finger(s),f
+10912,URGENT CARE,32649,2023-12-16,2023-12-16,8888-12-31,,"Unspecified asthma, uncomplicated",f
+10913,URGENT CARE,32681,2025-03-02,2025-03-02,8888-12-31,,Other general symptoms and signs,f
+10917,ER,32823,2023-06-14,2023-06-14,8888-12-31,,Unspecified acute lower respiratory infection,f
+10918,ER,32844,2024-06-20,2024-06-20,8888-12-31,,Other chest pain,f
+10919,ER,32844,2024-06-14,2024-06-14,8888-12-31,,"Chest pain, unspecified",f
+10922,ER,32936,2025-02-21,2025-02-21,8888-12-31,,"Nausea with vomiting, unspecified",f
+10932,ER,33059,2023-12-24,2023-12-24,8888-12-31,,Encounter for adjustment and management of vascular access device,f
+10935,ER,33080,2025-02-25,2025-02-25,8888-12-31,,"Lower abdominal pain, unspecified",f
+10936,ER,33080,2024-03-20,2024-03-20,8888-12-31,,Other specified conditions associated with female genital organs and menstrual cycle,f
+10942,ER,33145,2024-09-01,2024-09-01,8888-12-31,,"Open bite of left forearm, initial encounter",f
+10956,ER,33228,2024-06-01,2024-06-01,8888-12-31,,"Chest pain, unspecified",f
+10965,URGENT CARE,33290,2024-02-28,2024-02-28,8888-12-31,,"Acute suppurative otitis media without spontaneous rupture of ear drum, bilateral",f
+10966,URGENT CARE,33290,2025-02-05,2025-02-05,8888-12-31,,Unspecified asthma with (acute) exacerbation,f
+10967,ER,33290,2025-01-16,2025-01-16,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+10968,ER,33292,2025-01-12,2025-01-12,8888-12-31,,Other lesions of oral mucosa,f
+10979,URGENT CARE,33394,2024-03-07,2024-03-07,8888-12-31,,Dizziness and giddiness,f
+10990,URGENT CARE,33571,2024-01-20,2024-01-20,8888-12-31,,"Disease of upper respiratory tract, unspecified",f
+10996,ER,33618,2024-12-31,2024-12-31,8888-12-31,,"Pneumonia, unspecified organism",f
+10998,URGENT CARE,33728,2024-03-08,2024-03-08,8888-12-31,,Other chest pain,f
+11003,URGENT CARE,33857,2023-12-19,2023-12-19,8888-12-31,,Influenza due to identified novel influenza A virus with other respiratory manifestations,f
+11004,URGENT CARE,33857,2025-02-17,2025-02-17,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11011,ER,33928,2025-01-17,2025-01-17,2025-01-23,,Other pulmonary embolism without acute cor pulmonale,f
+11012,ER,33928,2024-07-17,2024-07-17,8888-12-31,,"Infection following a procedure, other surgical site, initial encounter",f
+11013,ER,33928,2024-04-13,2024-04-13,8888-12-31,,"Displaced fracture of proximal phalanx of right ring finger, initial encounter for closed fracture",f
+11014,ER,33928,2024-02-23,2024-02-23,8888-12-31,,"Unspecified fracture of unspecified lumbar vertebra, initial encounter for closed fracture",f
+11015,URGENT CARE,33928,2024-07-14,2024-07-14,8888-12-31,,Cellulitis of right finger,f
+11016,ER,33928,2024-07-14,2024-07-14,8888-12-31,,"Cellulitis, unspecified",f
+11017,URGENT CARE,33928,2024-07-13,2024-07-13,8888-12-31,,Cellulitis of unspecified finger,f
+11018,ER,33928,2024-12-25,2024-12-25,8888-12-31,,"Unspecified injury of left wrist, hand and finger(s), initial encounter",f
+11026,INPATIENT,33986,2024-01-25,2024-01-28,2024-01-29,,Incisional hernia without obstruction or gangrene,f
+11027,URGENT CARE,34007,2024-02-22,2024-02-22,8888-12-31,,"Acute sinusitis, unspecified",f
+11028,URGENT CARE,34007,2024-01-17,2024-01-17,8888-12-31,,Encounter for screening for COVID-19,f
+11038,URGENT CARE,34208,2023-12-08,2023-12-08,8888-12-31,,"Other infective otitis externa, right ear",f
+11039,ER,34208,2023-12-09,2023-12-09,8888-12-31,,Syncope and collapse,f
+11040,ER,34208,2024-02-17,2024-02-17,8888-12-31,,"Abrasion of right eyelid and periocular area, initial encounter",f
+11060,ER,34489,2023-10-16,2023-10-16,8888-12-31,,Precordial pain,f
+11062,URGENT CARE,34510,2024-09-15,2024-09-15,8888-12-31,,Sebaceous cyst,f
+11063,URGENT CARE,34510,2025-03-02,2025-03-02,8888-12-31,,Personal history of other diseases of the respiratory system,f
+11064,ER,34510,2023-11-09,2023-11-09,8888-12-31,,"Dislocation of distal interphalangeal joint of right index finger, initial encounter",f
+11067,URGENT CARE,34550,2024-02-10,2024-02-10,8888-12-31,,Unspecified symptoms and signs involving the genitourinary system,f
+11073,ER,34650,2023-12-03,2023-12-03,8888-12-31,,Other headache syndrome,f
+11075,URGENT CARE,34655,2025-01-04,2025-01-04,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+11076,URGENT CARE,34655,2024-01-27,2024-01-27,8888-12-31,,Acute cough,f
+11077,ER,34698,2023-12-22,2023-12-22,8888-12-31,,"Migraine with aura, intractable, without status migrainosus",f
+11078,ER,34698,2024-12-08,2024-12-08,8888-12-31,,Weakness,f
+11085,URGENT CARE,34723,2024-03-15,2024-03-15,8888-12-31,,Right upper quadrant pain,f
+11086,ER,34723,2024-03-15,2024-03-15,8888-12-31,,Other urethritis,f
+11087,URGENT CARE,34723,2024-06-27,2024-06-27,8888-12-31,,"Urinary tract infection, site not specified",f
+11100,URGENT CARE,34774,2024-07-26,2024-07-26,8888-12-31,,"Burn of second degree of multiple right fingers (nail), including thumb, initial encounter",f
+11101,URGENT CARE,34783,2024-11-01,2024-11-01,8888-12-31,,"Acute frontal sinusitis, unspecified",f
+11102,URGENT CARE,34796,2024-02-12,2024-02-12,8888-12-31,,Cutaneous abscess of buttock,f
+11125,URGENT CARE,35242,2025-01-03,2025-01-03,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+11137,URGENT CARE,35456,2024-02-21,2024-02-21,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+11138,ER,35456,2024-08-20,2024-08-20,8888-12-31,,"Sprain of unspecified ligament of right ankle, initial encounter",f
+11152,URGENT CARE,35611,2025-02-01,2025-02-01,8888-12-31,,Other acute sinusitis,f
+11179,URGENT CARE,35763,2023-12-18,2023-12-18,8888-12-31,,"Headache, unspecified",f
+11180,URGENT CARE,35779,2023-12-17,2023-12-17,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11181,URGENT CARE,35787,2024-10-27,2024-10-27,8888-12-31,,Rash and other nonspecific skin eruption,f
+11183,URGENT CARE,35826,2024-03-09,2024-03-09,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11184,URGENT CARE,35826,2024-03-28,2024-03-28,8888-12-31,,"Acute pharyngitis, unspecified",f
+11185,ER,35827,2024-11-18,2024-11-18,2024-11-22,,"Nausea with vomiting, unspecified",f
+11186,ER,35827,2024-12-10,2024-12-10,8888-12-31,,Hydronephrosis with renal and ureteral calculous obstruction,f
+11187,ER,35827,2024-09-08,2024-09-08,8888-12-31,,"Nausea with vomiting, unspecified",f
+11188,ER,35827,2024-12-29,2024-12-29,8888-12-31,,Encounter for issue of repeat prescription,f
+11189,ER,35827,2023-08-09,2023-08-09,8888-12-31,,"Sprain of unspecified ligament of right ankle, initial encounter",f
+11191,ER,35875,2024-06-08,2024-06-08,8888-12-31,,"Unspecified fracture of right foot, initial encounter for closed fracture",f
+11192,URGENT CARE,35930,2025-02-02,2025-02-02,8888-12-31,,Acute cystitis with hematuria,f
+11193,URGENT CARE,35930,2024-10-03,2024-10-03,8888-12-31,,COVID-19,f
+11199,ER,35964,2024-07-25,2024-07-25,8888-12-31,,"Nausea with vomiting, unspecified",f
+11204,URGENT CARE,36001,2024-04-21,2024-04-21,8888-12-31,,Scabies,f
+11208,URGENT CARE,36091,2024-06-03,2024-06-03,8888-12-31,,"Infectious mononucleosis, unspecified without complication",f
+11217,URGENT CARE,36135,2024-11-19,2024-11-19,8888-12-31,,"Pneumonia, unspecified organism",f
+11218,URGENT CARE,36165,2024-09-06,2024-09-06,8888-12-31,,"Cough, unspecified",f
+11227,INPATIENT,36363,2024-08-20,2024-08-31,8888-12-31,,"Primary osteoarthritis, right ankle and foot",f
+11228,INPATIENT,36363,2024-08-15,2024-08-20,8888-12-31,,"Primary osteoarthritis, right ankle and foot",f
+11246,ER,36662,2024-11-19,2024-11-19,8888-12-31,,"Acute bronchitis, unspecified",f
+11264,ER,36857,2024-12-13,2024-12-13,8888-12-31,,"Acute sinusitis, unspecified",f
+11281,ER,37186,2023-07-28,2023-07-28,8888-12-31,,"Unspecified sprain of left wrist, initial encounter",f
+11283,URGENT CARE,37228,2025-01-23,2025-01-23,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+11286,URGENT CARE,37274,2024-11-19,2024-11-19,8888-12-31,,Other chest pain,f
+11301,ER,37343,2024-01-04,2024-01-04,8888-12-31,,Chronic cough,f
+11302,URGENT CARE,37401,2024-09-21,2024-09-21,8888-12-31,,"Acute sinusitis, unspecified",f
+11303,URGENT CARE,37425,2024-04-25,2024-04-25,8888-12-31,,"Chronic sinusitis, unspecified",f
+11311,ER,37500,2025-01-20,2025-01-20,8888-12-31,,"Abrasion of left elbow, initial encounter",f
+11312,ER,37500,2024-08-21,2024-08-21,8888-12-31,,Acute vaginitis,f
+11313,ER,37500,2024-03-03,2024-03-03,8888-12-31,,Cervicalgia,f
+11314,ER,37500,2023-08-02,2023-08-02,8888-12-31,,Bilateral primary osteoarthritis of knee,f
+11324,URGENT CARE,37585,2024-02-29,2024-02-29,8888-12-31,,"Acute sinusitis, unspecified",f
+11329,ER,37626,2024-12-05,2024-12-05,8888-12-31,,"Laceration without foreign body of lip, initial encounter",f
+11343,ER,37818,2024-02-26,2024-02-26,8888-12-31,,Generalized abdominal pain,f
+11344,URGENT CARE,37818,2024-05-06,2024-05-06,8888-12-31,,"Acute serous otitis media, recurrent, right ear",f
+11356,URGENT CARE,37951,2023-12-23,2023-12-23,8888-12-31,,COVID-19,f
+11357,URGENT CARE,37951,2024-11-15,2024-11-15,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11367,ER,37982,2025-02-26,2025-02-26,8888-12-31,,"Low back pain, unspecified",f
+11375,ER,38076,2024-10-07,2024-10-07,8888-12-31,,Pelvic and perineal pain,f
+11376,ER,38076,2023-07-20,2023-07-20,8888-12-31,,"Adverse effect of other systemic antibiotics, initial encounter",f
+11386,ER,38106,2024-01-26,2024-01-26,8888-12-31,,"Headache, unspecified",f
+11387,URGENT CARE,38106,2024-12-05,2024-12-05,8888-12-31,,"Laceration without foreign body of right index finger without damage to nail, initial encounter",f
+11388,ER,38106,2024-09-17,2024-09-17,8888-12-31,,"Concussion without loss of consciousness, initial encounter",f
+11405,URGENT CARE,38245,2024-09-24,2024-09-24,8888-12-31,,Dysuria,f
+11406,URGENT CARE,38245,2024-04-23,2024-04-23,8888-12-31,,"Viral infection, unspecified",f
+11407,URGENT CARE,38245,2024-08-03,2024-08-03,8888-12-31,,"Migraine, unspecified, intractable, without status migrainosus",f
+11425,URGENT CARE,38466,2024-04-21,2024-04-21,8888-12-31,,"Allergic dermatitis of left eye, unspecified eyelid",f
+11426,URGENT CARE,38466,2024-03-15,2024-03-15,8888-12-31,,Residual foreign body in soft tissue,f
+11427,URGENT CARE,38466,2024-03-15,2024-03-15,8888-12-31,,Encounter for general adult medical examination without abnormal findings,f
+11428,URGENT CARE,38466,2024-04-21,2024-04-21,8888-12-31,,"Allergic dermatitis of left eye, unspecified eyelid",f
+11429,URGENT CARE,38466,2024-03-15,2024-03-15,8888-12-31,,Residual foreign body in soft tissue,f
+11442,URGENT CARE,38634,2024-03-12,2024-03-12,8888-12-31,,COVID-19,f
+11443,URGENT CARE,38634,2024-12-23,2024-12-23,8888-12-31,,Acute cough,f
+11444,ER,38634,2023-11-05,2023-11-05,8888-12-31,,"Acute sinusitis, unspecified",f
+11445,ER,38634,2024-01-01,2024-01-01,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+11446,URGENT CARE,38634,2024-01-25,2024-01-25,8888-12-31,,Unspecified chronic bronchitis,f
+11448,URGENT CARE,38644,2024-11-01,2024-11-01,8888-12-31,,Plantar wart,f
+11449,URGENT CARE,38644,2023-12-29,2023-12-29,8888-12-31,,"Acute pharyngitis, unspecified",f
+11450,INPATIENT,38699,2024-11-09,2024-11-10,8888-12-31,,"Mild to moderate pre-eclampsia, complicating childbirth",f
+11459,URGENT CARE,38777,2023-12-01,2023-12-01,8888-12-31,,"Open bite of right hand, initial encounter",f
+11460,URGENT CARE,38793,2025-01-16,2025-01-16,8888-12-31,,"Laceration of blood vessel of right middle finger, initial encounter",f
+11461,ER,38793,2025-01-16,2025-01-16,8888-12-31,,"Laceration without foreign body of right middle finger without damage to nail, initial encounter",f
+11462,ER,38820,2024-08-14,2024-08-14,8888-12-31,,Acute embolism and thrombosis of left tibial vein,f
+11463,URGENT CARE,38820,2024-01-23,2024-01-23,8888-12-31,,"Acute sinusitis, unspecified",f
+11466,URGENT CARE,38864,2024-08-15,2024-08-15,8888-12-31,,"Low back pain, unspecified",f
+11472,URGENT CARE,38970,2024-10-23,2024-10-23,8888-12-31,,"Acute pharyngitis, unspecified",f
+11473,ER,38970,2024-02-22,2024-02-22,8888-12-31,,"Laceration without foreign body of left middle finger without damage to nail, initial encounter",f
+11474,INPATIENT,38970,2025-01-28,2025-01-30,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+11475,URGENT CARE,38970,2024-10-23,2024-10-23,8888-12-31,,Acute cough,f
+11479,URGENT CARE,39046,2024-01-24,2024-01-24,8888-12-31,,"Acute pharyngitis, unspecified",f
+11480,URGENT CARE,39061,2024-06-02,2024-06-02,8888-12-31,,"Dermatitis, unspecified",f
+11489,URGENT CARE,39083,2023-12-26,2023-12-26,8888-12-31,,"Viral infection, unspecified",f
+11490,URGENT CARE,39083,2024-12-24,2024-12-24,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11491,URGENT CARE,39083,2024-04-15,2024-04-15,8888-12-31,,Other acute sinusitis,f
+11501,URGENT CARE,39125,2024-11-08,2024-11-08,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11524,URGENT CARE,39277,2024-04-19,2024-04-19,8888-12-31,,"Urinary tract infection, site not specified",f
+11525,URGENT CARE,39277,2025-01-30,2025-01-30,8888-12-31,,"Bradycardia, unspecified",f
+11533,URGENT CARE,39361,2024-08-28,2024-08-28,8888-12-31,,"Laceration without foreign body of left thumb without damage to nail, initial encounter",f
+11541,URGENT CARE,39398,2024-02-04,2024-02-04,8888-12-31,,"Unspecified acute conjunctivitis, bilateral",f
+11542,URGENT CARE,39398,2025-02-13,2025-02-13,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+11543,URGENT CARE,39398,2024-06-23,2024-06-23,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11550,ER,39463,2023-12-22,2023-12-22,8888-12-31,,"Unspecified injury of head, initial encounter",f
+11572,URGENT CARE,39649,2024-06-20,2024-06-20,8888-12-31,,Erythema intertrigo,f
+11586,ER,39721,2025-01-01,2025-01-01,8888-12-31,,"Alcohol abuse with intoxication, uncomplicated",f
+11587,ER,39721,2024-01-20,2024-01-20,8888-12-31,,Paresthesia of skin,f
+11588,URGENT CARE,39721,2024-12-27,2024-12-27,8888-12-31,,"Allergic contact dermatitis, unspecified cause",f
+11591,ER,39818,2023-12-21,2023-12-21,8888-12-31,,Shortness of breath,f
+11602,URGENT CARE,40000,2025-01-14,2025-01-14,8888-12-31,,"Otitis media, unspecified, left ear",f
+11603,URGENT CARE,40000,2024-01-01,2024-01-01,8888-12-31,,COVID-19,f
+11604,ER,40034,2023-10-25,2023-10-25,8888-12-31,,"Other intraarticular fracture of lower end of right radius, initial encounter for closed fracture",f
+11618,ER,40176,2024-09-27,2024-09-27,8888-12-31,,Dehydration,f
+11619,ER,40176,2024-04-11,2024-04-11,8888-12-31,,"Headache, unspecified",f
+11623,URGENT CARE,40257,2024-01-06,2024-01-06,8888-12-31,,Cutaneous abscess of face,f
+11624,ER,40288,2025-01-26,2025-01-26,8888-12-31,,"Tremor, unspecified",f
+11625,URGENT CARE,40288,2023-12-04,2023-12-04,8888-12-31,,"Acute sinusitis, unspecified",f
+11630,URGENT CARE,40395,2025-01-15,2025-01-15,8888-12-31,,COVID-19,f
+11634,URGENT CARE,40423,2024-12-30,2024-12-30,8888-12-31,,"Acute pharyngitis, unspecified",f
+11636,ER,40449,2024-07-21,2024-07-21,8888-12-31,,Cervicalgia,f
+11637,URGENT CARE,40449,2024-08-24,2024-08-24,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11638,ER,40449,2024-07-14,2024-07-14,8888-12-31,,Torticollis,f
+11639,URGENT CARE,40449,2024-09-21,2024-09-21,8888-12-31,,Cervicalgia,f
+11640,URGENT CARE,40449,2024-06-19,2024-06-19,8888-12-31,,Cervicalgia,f
+11649,ER,40571,2023-09-25,2023-09-25,8888-12-31,,"Infectious mononucleosis, unspecified without complication",f
+11651,URGENT CARE,40645,2024-02-10,2024-02-10,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+11657,URGENT CARE,40777,2024-02-13,2024-02-13,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11658,URGENT CARE,40777,2024-03-26,2024-03-26,8888-12-31,,"Otitis media, unspecified, bilateral",f
+11659,URGENT CARE,40777,2024-01-20,2024-01-20,8888-12-31,,Cellulitis of left finger,f
+11672,ER,40888,2023-10-11,2023-10-11,8888-12-31,,Calculus of bile duct without cholangitis or cholecystitis without obstruction,f
+11673,ER,40888,2024-04-08,2024-04-08,8888-12-31,,Weakness,f
+11676,URGENT CARE,40951,2024-09-26,2024-09-26,8888-12-31,,Acute cough,f
+11678,URGENT CARE,40962,2023-12-18,2023-12-18,8888-12-31,,"Cough, unspecified",f
+11679,URGENT CARE,40962,2025-01-08,2025-01-08,8888-12-31,,"Cough, unspecified",f
+11683,URGENT CARE,41006,2024-10-11,2024-10-11,8888-12-31,,"Acute pharyngitis, unspecified",f
+11700,URGENT CARE,41142,2024-03-09,2024-03-09,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+11714,ER,41262,2024-01-25,2024-01-25,8888-12-31,,"Noninfective gastroenteritis and colitis, unspecified",f
+11748,URGENT CARE,41762,2024-02-15,2024-02-15,8888-12-31,,"Acute bronchitis, unspecified",f
+11749,URGENT CARE,41762,2025-01-27,2025-01-27,8888-12-31,,"Pneumonia, unspecified organism",f
+11750,URGENT CARE,41776,2024-06-06,2024-06-06,8888-12-31,,"Acute sinusitis, unspecified",f
+11764,URGENT CARE,41909,2024-11-08,2024-11-08,8888-12-31,,Erysipelas,f
+11770,URGENT CARE,42034,2024-10-08,2024-10-08,8888-12-31,,"Lumbago with sciatica, right side",f
+11772,ER,42165,2024-09-08,2024-09-08,8888-12-31,,Panic disorder [episodic paroxysmal anxiety],f
+11773,URGENT CARE,42180,2023-12-26,2023-12-26,8888-12-31,,Chills (without fever),f
+11774,URGENT CARE,42200,2024-05-25,2024-05-25,8888-12-31,,"Laceration without foreign body of left hand, initial encounter",f
+11775,URGENT CARE,42200,2024-06-03,2024-06-03,8888-12-31,,"Laceration without foreign body of left hand, subsequent encounter",f
+11785,URGENT CARE,42269,2024-12-16,2024-12-16,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11786,URGENT CARE,42269,2024-06-12,2024-06-12,8888-12-31,,"Acute bronchitis, unspecified",f
+11787,URGENT CARE,42269,2024-12-16,2024-12-16,8888-12-31,,"Acute pharyngitis, unspecified",f
+11788,ER,42269,2024-05-03,2024-05-03,8888-12-31,,Unspecified iridocyclitis,f
+11789,URGENT CARE,42269,2024-06-04,2024-06-04,8888-12-31,,"Posterior cyclitis, left eye",f
+11800,URGENT CARE,42412,2024-07-11,2024-07-11,8888-12-31,,Nasal congestion,f
+11801,URGENT CARE,42412,2025-01-20,2025-01-20,8888-12-31,,"Cough, unspecified",f
+11802,ER,42412,2024-11-22,2024-11-22,8888-12-31,,Palpitations,f
+11803,URGENT CARE,42412,2024-04-30,2024-04-30,8888-12-31,,"Cellulitis of head [any part, except face]",f
+11804,URGENT CARE,42412,2024-07-13,2024-07-13,8888-12-31,,"Cough, unspecified",f
+11805,URGENT CARE,42437,2024-09-06,2024-09-06,8888-12-31,,Contact with and (suspected) exposure to infections with a predominantly sexual mode of transmission,f
+11806,URGENT CARE,42437,2025-02-27,2025-02-27,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+11807,URGENT CARE,42437,2024-03-11,2024-03-11,8888-12-31,,"Acute pharyngitis, unspecified",f
+11808,URGENT CARE,42437,2024-03-24,2024-03-24,8888-12-31,,"Acute pharyngitis, unspecified",f
+11815,ER,42522,2024-05-28,2024-05-28,8888-12-31,,Unspecified asthma with (acute) exacerbation,f
+11816,ER,42522,2024-05-30,2024-05-30,8888-12-31,,Unspecified acute appendicitis,f
+11823,URGENT CARE,42659,2024-04-29,2024-04-29,8888-12-31,,Influenza due to unidentified influenza virus with other respiratory manifestations,f
+11833,URGENT CARE,42788,2024-01-12,2024-01-12,8888-12-31,,"Acute sinusitis, unspecified",f
+11842,ER,42876,2024-12-04,2024-12-04,8888-12-31,,Unspecified abnormal findings in urine,f
+11843,ER,42876,2024-11-29,2024-11-29,8888-12-31,,Syncope and collapse,f
+11845,INPATIENT,42886,2024-03-15,2024-03-29,2024-04-09,,Crohn's disease of large intestine with rectal bleeding,f
+11846,INPATIENT,42886,2025-01-21,2025-01-24,8888-12-31,,"Ulcerative colitis, unspecified with unspecified complications",f
+11854,URGENT CARE,42987,2024-09-07,2024-09-07,8888-12-31,,"Urinary tract infection, site not specified",f
+11855,URGENT CARE,42987,2024-02-28,2024-02-28,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+11856,URGENT CARE,42987,2024-12-18,2024-12-18,8888-12-31,,Chronic maxillary sinusitis,f
+11862,INPATIENT,43118,2023-12-22,2023-12-26,8888-12-31,,"Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth",f
+11872,URGENT CARE,43364,2024-04-23,2024-04-23,8888-12-31,,"Otitis media, unspecified, right ear",f
+11873,ER,43364,2023-06-13,2023-06-13,8888-12-31,,Right lower quadrant pain,f
+11883,URGENT CARE,43476,2024-10-08,2024-10-08,8888-12-31,,Acute cystitis without hematuria,f
+11884,URGENT CARE,43476,2025-03-02,2025-03-02,8888-12-31,,Acute cough,f
+11895,URGENT CARE,43690,2024-02-26,2024-02-26,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+11904,URGENT CARE,43796,2024-06-14,2024-06-14,8888-12-31,,"Acute bronchitis, unspecified",f
+11907,URGENT CARE,43822,2024-10-07,2024-10-07,8888-12-31,,Streptococcal pharyngitis,f
+11908,URGENT CARE,43822,2025-01-29,2025-01-29,8888-12-31,,"Otitis media, unspecified, right ear",f
+11911,URGENT CARE,43847,2024-05-02,2024-05-02,8888-12-31,,"Acute sinusitis, unspecified",f
+11912,URGENT CARE,43847,2025-01-14,2025-01-14,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+11913,URGENT CARE,43847,2024-09-28,2024-09-28,8888-12-31,,"Acute pharyngitis, unspecified",f
+11920,URGENT CARE,44038,2025-01-21,2025-01-21,8888-12-31,,"Sprain of unspecified ligament of left ankle, initial encounter",f
+11921,URGENT CARE,44038,2025-02-08,2025-02-08,8888-12-31,,"Acute sinusitis, unspecified",f
+11922,INPATIENT,44078,2023-09-26,2023-10-02,2023-10-10,,Non-ST elevation (NSTEMI) myocardial infarction,f
+11924,ER,44105,2024-07-12,2024-07-12,8888-12-31,,"Unspecified injury of lower back, initial encounter",f
+11925,URGENT CARE,44105,2025-02-19,2025-02-19,8888-12-31,,Unspecified internal derangement of left knee,f
+11934,URGENT CARE,44228,2024-01-16,2024-01-16,8888-12-31,,"Acute follicular conjunctivitis, bilateral",f
+11935,URGENT CARE,44228,2025-01-13,2025-01-13,8888-12-31,,"Acute follicular conjunctivitis, left eye",f
+11936,URGENT CARE,44228,2024-02-17,2024-02-17,8888-12-31,,Other acute recurrent sinusitis,f
+11937,INPATIENT,44228,2024-11-14,2024-11-17,2024-11-25,,"Sepsis, unspecified organism",f
+11938,URGENT CARE,44236,2024-08-17,2024-08-17,8888-12-31,,"Toxic effect of venom of bees, accidental (unintentional), initial encounter",f
+11981,ER,44587,2025-01-24,2025-01-24,8888-12-31,,Periumbilical pain,f
+11992,ER,44734,2024-10-28,2024-10-28,8888-12-31,,Calculus of ureter,f
+12011,URGENT CARE,44775,2024-12-22,2024-12-22,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+12044,URGENT CARE,44992,2024-05-12,2024-05-12,8888-12-31,,Right lower quadrant pain,f
+12045,ER,44992,2024-05-12,2024-05-12,8888-12-31,,"Fatty (change of) liver, not elsewhere classified",f
+12055,URGENT CARE,45148,2024-07-26,2024-07-26,8888-12-31,,"Dorsalgia, unspecified",f
+12056,ER,45148,2023-04-21,2023-04-21,8888-12-31,,Acute cystitis without hematuria,f
+12059,ER,45189,2024-10-26,2024-10-26,8888-12-31,,"Concussion without loss of consciousness, initial encounter",f
+12060,ER,45189,2023-07-07,2023-07-07,8888-12-31,,"Sprain of ligaments of cervical spine, initial encounter",f
+12061,URGENT CARE,45189,2023-12-30,2023-12-30,8888-12-31,,"Acute sinusitis, unspecified",f
+12086,INPATIENT,45384,2024-04-12,2024-04-17,2024-04-29,,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,f
+12087,ER,45384,2024-12-18,2024-12-18,8888-12-31,,"Chest pain, unspecified",f
+12091,ER,45427,2024-08-13,2024-08-13,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+12104,ER,45583,2024-08-09,2024-08-09,8888-12-31,,Epigastric pain,f
+12107,ER,45651,2024-12-04,2024-12-04,8888-12-31,,Other chest pain,f
+12108,URGENT CARE,45651,2024-05-05,2024-05-05,8888-12-31,,"Acute pansinusitis, unspecified",f
+12109,URGENT CARE,45651,2024-12-17,2024-12-17,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+12110,ER,45651,2025-01-22,2025-01-22,8888-12-31,,Hypokalemia,f
+12111,INPATIENT,45651,2023-09-26,2023-10-02,8888-12-31,,"Bipolar disorder, unspecified",f
+12128,ER,45869,2023-12-01,2023-12-01,8888-12-31,,"Acute serous otitis media, right ear",f
+12129,URGENT CARE,45869,2024-02-27,2024-02-27,8888-12-31,,Streptococcal pharyngitis,f
+12130,URGENT CARE,45869,2024-02-27,2024-02-27,8888-12-31,,Streptococcal pharyngitis,f
+12138,URGENT CARE,45939,2024-11-12,2024-11-12,8888-12-31,,"Low back pain, unspecified",f
+12139,ER,45939,2024-08-24,2024-08-24,8888-12-31,,Dehydration,f
+12159,URGENT CARE,46219,2024-10-18,2024-10-18,8888-12-31,,Contact with and (suspected) exposure to COVID-19,f
+12165,URGENT CARE,46291,2024-02-05,2024-02-05,8888-12-31,,Mild intermittent asthma with (acute) exacerbation,f
+12166,URGENT CARE,46291,2024-03-05,2024-03-05,8888-12-31,,Acute cough,f
+12167,URGENT CARE,46291,2025-01-07,2025-01-07,8888-12-31,,Acute cough,f
+12169,ER,46324,2023-11-04,2023-11-04,8888-12-31,,Procedure and treatment not carried out due to patient leaving prior to being seen by health care provider,f
+12170,INPATIENT,46324,2023-11-08,2023-11-14,2023-11-15,,"Bipolar disorder, current episode mixed, severe, with psychotic features",f
+12188,URGENT CARE,46457,2024-12-18,2024-12-18,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+12201,ER,46756,2025-01-12,2025-01-12,8888-12-31,,COVID-19,f
+12202,URGENT CARE,46756,2025-01-08,2025-01-08,8888-12-31,,"Acute sinusitis, unspecified",f
+12203,URGENT CARE,46756,2024-01-04,2024-01-04,8888-12-31,,"Acute sinusitis, unspecified",f
+12204,URGENT CARE,46756,2024-02-09,2024-02-09,8888-12-31,,"Other infective otitis externa, left ear",f
+12205,URGENT CARE,46756,2024-05-17,2024-05-17,8888-12-31,,"Contusion of right hand, initial encounter",f
+12229,URGENT CARE,47070,2024-08-04,2024-08-04,8888-12-31,,COVID-19,f
+12231,INPATIENT,47202,2024-01-05,2024-01-07,2024-01-15,,Conversion disorder with seizures or convulsions,f
+12232,ER,47202,2024-08-15,2024-08-15,8888-12-31,,Right lower quadrant pain,f
+12233,ER,47202,2023-12-14,2023-12-14,8888-12-31,,"Otitis media, unspecified, right ear",f
+12234,URGENT CARE,47202,2023-12-11,2023-12-11,8888-12-31,,"Viral infection, unspecified",f
+12235,ER,47202,2024-08-13,2024-08-13,8888-12-31,,"Unspecified ovarian cyst, right side",f
+12236,URGENT CARE,47202,2024-11-15,2024-11-15,8888-12-31,,"Acute pharyngitis, unspecified",f
+12237,ER,47242,2025-01-16,2025-01-16,8888-12-31,,"Nausea with vomiting, unspecified",f
+12238,URGENT CARE,47242,2024-02-14,2024-02-14,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+12275,ER,47719,2025-01-21,2025-01-21,8888-12-31,,"Chest pain, unspecified",f
+12285,URGENT CARE,47816,2024-12-03,2024-12-03,8888-12-31,,"Acute pharyngitis, unspecified",f
+12291,URGENT CARE,47866,2025-01-01,2025-01-01,8888-12-31,,Acute nasopharyngitis [common cold],f
+12292,INPATIENT,47866,2024-01-02,2024-01-04,2024-01-16,,Nonrheumatic aortic (valve) stenosis,f
+12293,URGENT CARE,47898,2025-01-06,2025-01-06,8888-12-31,,"Acute pharyngitis, unspecified",f
+12294,URGENT CARE,47898,2024-04-26,2024-04-26,8888-12-31,,"Other acute nonsuppurative otitis media, right ear",f
+12295,ER,47898,2024-12-02,2024-12-02,8888-12-31,,"Anaphylactic shock, unspecified, initial encounter",f
+12296,URGENT CARE,47898,2024-04-26,2024-04-26,8888-12-31,,"Otalgia, right ear",f
+12297,URGENT CARE,47898,2024-07-17,2024-07-17,8888-12-31,,COVID-19,f
+12298,URGENT CARE,47898,2024-07-17,2024-07-17,8888-12-31,,COVID-19,f
+12299,URGENT CARE,47898,2024-07-17,2024-07-17,8888-12-31,,Shortness of breath,f
+12300,URGENT CARE,47898,2025-01-06,2025-01-06,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+12304,ER,47934,2024-01-22,2024-01-22,8888-12-31,,Influenza due to unidentified influenza virus with other respiratory manifestations,f
+12307,ER,48062,2024-12-19,2024-12-19,8888-12-31,,Syncope and collapse,f
+12310,ER,48114,2025-01-04,2025-01-04,8888-12-31,,"Laceration without foreign body of right index finger without damage to nail, initial encounter",f
+12311,ER,48114,2024-01-13,2024-01-13,8888-12-31,,"Angioneurotic edema, initial encounter",f
+12312,ER,48130,2024-06-23,2024-06-23,8888-12-31,,"Retention of urine, unspecified",f
+12313,ER,48130,2024-07-03,2024-07-03,8888-12-31,,Bladder-neck obstruction,f
+12314,ER,48217,2024-05-08,2024-05-08,8888-12-31,,"Laceration with foreign body of right thumb without damage to nail, initial encounter",f
+12315,URGENT CARE,48217,2024-05-08,2024-05-08,8888-12-31,,"Foreign body sensation, unspecified",f
+12344,ER,48390,2024-11-23,2024-11-23,8888-12-31,,Peritonsillar abscess,f
+12357,URGENT CARE,48855,2024-02-11,2024-02-11,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+12358,URGENT CARE,48855,2024-11-05,2024-11-05,8888-12-31,,"Pneumonia, unspecified organism",f
+12380,ER,49073,2024-01-30,2024-01-30,8888-12-31,,"Juvenile osteochondrosis of tibia tubercle, unspecified leg",f
+12387,ER,49146,2024-06-24,2024-06-24,8888-12-31,,"Acute ischemic heart disease, unspecified",f
+12388,INPATIENT,49146,2024-06-24,2024-06-26,2024-07-02,,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall,f
+12392,URGENT CARE,49192,2024-04-12,2024-04-12,8888-12-31,,"Low back pain, unspecified",f
+12395,ER,49230,2023-11-19,2023-11-19,8888-12-31,,Unspecified acute appendicitis,f
+12408,URGENT CARE,49408,2024-06-18,2024-06-18,8888-12-31,,"Viral infection, unspecified",f
+12409,URGENT CARE,49408,2024-10-01,2024-10-01,8888-12-31,,"Unspecified otitis externa, right ear",f
+12425,URGENT CARE,49517,2025-01-29,2025-01-29,8888-12-31,,"Acute sinusitis, unspecified",f
+12426,URGENT CARE,49517,2025-01-21,2025-01-21,8888-12-31,,"Viral infection, unspecified",f
+12427,URGENT CARE,49517,2025-01-16,2025-01-16,8888-12-31,,"Acute pharyngitis, unspecified",f
+12428,URGENT CARE,49517,2024-02-21,2024-02-21,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+12429,URGENT CARE,49517,2024-12-15,2024-12-15,8888-12-31,,Pain in left upper arm,f
+12438,ER,49656,2024-10-28,2024-10-28,8888-12-31,,Other pulmonary embolism without acute cor pulmonale,f
+12440,URGENT CARE,49666,2024-05-25,2024-05-25,8888-12-31,,"Unspecified acute conjunctivitis, bilateral",f
+12442,URGENT CARE,49704,2024-04-07,2024-04-07,8888-12-31,,"Urinary tract infection, site not specified",f
+12443,URGENT CARE,49713,2024-10-14,2024-10-14,8888-12-31,,Other nail disorders,f
+12444,URGENT CARE,49713,2024-10-01,2024-10-01,8888-12-31,,"Tension-type headache, unspecified, not intractable",f
+12445,URGENT CARE,49713,2024-10-28,2024-10-28,8888-12-31,,"Attention-deficit hyperactivity disorder, unspecified type",f
+12446,URGENT CARE,49713,2024-09-18,2024-09-18,8888-12-31,,"Noninfective gastroenteritis and colitis, unspecified",f
+12447,URGENT CARE,49713,2024-07-31,2024-07-31,8888-12-31,,"Acute sinusitis, unspecified",f
+12473,URGENT CARE,49900,2023-12-14,2023-12-14,8888-12-31,,Frequency of micturition,f
+12480,URGENT CARE,50052,2024-02-07,2024-02-07,8888-12-31,,COVID-19,f
+12481,URGENT CARE,50052,2024-11-08,2024-11-08,8888-12-31,,"Fever, unspecified",f
+12482,ER,50073,2025-01-13,2025-01-13,8888-12-31,,Other chest pain,f
+12493,ER,50173,2024-02-04,2024-02-04,8888-12-31,,"Migraine, unspecified, not intractable, without status migrainosus",f
+12494,ER,50173,2024-10-15,2024-10-15,8888-12-31,,Cervicogenic headache,f
+12495,ER,50173,2024-10-13,2024-10-13,8888-12-31,,"Migraine, unspecified, intractable, without status migrainosus",f
+12498,INPATIENT,50185,2023-11-06,2023-11-13,2023-11-14,,Full incontinence of feces,f
+12499,INPATIENT,50185,2025-01-17,2025-01-24,8888-12-31,,Pneumonitis due to inhalation of food and vomit,f
+12500,ER,50185,2025-01-15,2025-01-15,8888-12-31,,"Coronavirus infection, unspecified",f
+12501,URGENT CARE,50185,2024-11-23,2024-11-23,8888-12-31,,"Laceration without foreign body of right great toe with damage to nail, initial encounter",f
+12502,URGENT CARE,50185,2024-11-23,2024-11-23,8888-12-31,,"Laceration without foreign body of right great toe with damage to nail, initial encounter",f
+12503,URGENT CARE,50185,2024-11-23,2024-11-23,8888-12-31,,"Laceration without foreign body of right great toe without damage to nail, initial encounter",f
+12504,INPATIENT,50185,2024-11-10,2024-11-17,2024-11-20,,Pneumonitis due to inhalation of food and vomit,f
+12505,INPATIENT,50185,2024-12-10,2024-12-14,8888-12-31,,"Other acute osteomyelitis, right ankle and foot",t
+12508,URGENT CARE,50234,2024-04-03,2024-04-03,8888-12-31,,Pain in right lower leg,f
+12512,URGENT CARE,50531,2024-03-11,2024-03-11,8888-12-31,,Wheezing,f
+12528,INPATIENT,50712,2024-06-25,2024-06-29,8888-12-31,,Calculus of gallbladder with acute cholecystitis without obstruction,f
+12531,ER,50738,2025-01-09,2025-01-09,8888-12-31,,Essential (primary) hypertension,f
+12532,INPATIENT,50738,2024-10-10,2024-10-12,2024-10-16,,Occlusion and stenosis of right carotid artery,f
+12547,URGENT CARE,50883,2024-06-01,2024-06-01,8888-12-31,,"Strain of muscle, fascia and tendon at neck level, initial encounter",f
+12548,URGENT CARE,50883,2024-07-13,2024-07-13,8888-12-31,,"Allergic contact dermatitis due to plants, except food",f
+12549,URGENT CARE,50883,2025-01-18,2025-01-18,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+12550,URGENT CARE,50883,2024-12-20,2024-12-20,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+12558,URGENT CARE,50990,2024-10-01,2024-10-01,8888-12-31,,"Allergic contact dermatitis, unspecified cause",f
+12580,ER,51119,2024-11-03,2024-11-03,2024-11-04,,"Benign paroxysmal vertigo, left ear",f
+12581,URGENT CARE,51119,2024-10-19,2024-10-19,8888-12-31,,"Foreign body in right ear, initial encounter",f
+12582,ER,51119,2023-12-17,2023-12-17,8888-12-31,,"Chest pain, unspecified",f
+12586,URGENT CARE,51224,2024-08-15,2024-08-15,8888-12-31,,"Contusion of right knee, initial encounter",f
+12589,ER,51292,2023-12-10,2023-12-10,8888-12-31,,"Sprain of unspecified ligament of right ankle, initial encounter",f
+12590,ER,51292,2024-11-10,2024-11-10,8888-12-31,,Palpitations,f
+12592,INPATIENT,51412,2024-10-05,2024-10-08,8888-12-31,,Post-term pregnancy,f
+12593,ER,51453,2023-11-29,2023-11-30,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+12604,ER,51489,2023-10-26,2023-10-26,8888-12-31,,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,f
+12605,ER,51489,2023-10-23,2023-10-23,8888-12-31,,Unstable angina,f
+12606,INPATIENT,51489,2024-12-07,2024-12-07,2024-12-17,,"Alcohol dependence, uncomplicated",f
+12607,INPATIENT,51489,2024-11-07,2024-11-10,2024-11-13,,Multiple subsegmental thrombotic pulmonary emboli without acute cor pulmonale,f
+12608,INPATIENT,51489,2024-11-30,2024-12-03,2024-12-17,,Cellulitis of right lower limb,t
+12613,ER,51500,2023-05-26,2023-05-26,8888-12-31,,Unspecified atrial fibrillation,f
+12617,ER,51598,2024-03-29,2024-03-29,8888-12-31,,"Laceration without foreign body of left ring finger without damage to nail, initial encounter",f
+12618,URGENT CARE,51603,2024-11-13,2024-11-13,8888-12-31,,"Acute sinusitis, unspecified",f
+12619,ER,51603,2023-07-29,2023-07-29,8888-12-31,,Right upper quadrant pain,f
+12626,URGENT CARE,51683,2024-12-08,2024-12-08,8888-12-31,,"Acute pharyngitis, unspecified",f
+12630,URGENT CARE,51744,2024-06-22,2024-06-22,8888-12-31,,Cutaneous abscess of right lower limb,f
+12631,URGENT CARE,51744,2025-01-02,2025-01-02,8888-12-31,,Other specified respiratory disorders,f
+12632,URGENT CARE,51744,2024-12-07,2024-12-07,8888-12-31,,Encounter for immunization,f
+12636,ER,51791,2025-01-07,2025-01-07,8888-12-31,,"Unspecified sprain of left wrist, initial encounter",f
+12658,ER,51976,2024-08-06,2024-08-06,8888-12-31,,"Hepatomegaly, not elsewhere classified",f
+12662,URGENT CARE,52083,2025-01-01,2025-01-01,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+12663,URGENT CARE,52083,2024-06-05,2024-06-05,8888-12-31,,Chronic rhinitis,f
+12676,ER,52219,2025-01-28,2025-01-28,8888-12-31,,"Sprain of ribs, initial encounter",f
+12677,URGENT CARE,52219,2024-01-08,2024-01-08,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+12682,ER,52251,2023-11-29,2023-11-29,8888-12-31,,Paresthesia of skin,f
+12683,ER,52251,2024-04-28,2024-04-28,8888-12-31,,"Sprain of other ligament of right ankle, initial encounter",f
+12699,URGENT CARE,52371,2024-05-29,2024-05-29,8888-12-31,,"Viral infection, unspecified",f
+12701,ER,52453,2025-02-15,2025-02-15,8888-12-31,,"Cough, unspecified",f
+12755,URGENT CARE,52909,2024-06-28,2024-06-28,8888-12-31,,"Acute bronchitis, unspecified",f
+12758,URGENT CARE,52990,2024-06-03,2024-06-03,8888-12-31,,Other chest pain,f
+12759,URGENT CARE,52990,2024-02-27,2024-02-27,8888-12-31,,"Chest pain, unspecified",f
+12760,ER,52990,2024-02-27,2024-02-27,2024-02-27,,Other chest pain,f
+12761,URGENT CARE,52994,2024-11-15,2024-11-15,8888-12-31,,"Insect bite (nonvenomous) of scalp, initial encounter",f
+12762,URGENT CARE,53000,2024-03-14,2024-03-14,8888-12-31,,Cutaneous abscess of groin,f
+12770,ER,53108,2023-04-20,2023-04-20,8888-12-31,,"Intervertebral disc disorders with radiculopathy, lumbar region",f
+12771,ER,53108,2023-07-14,2023-07-14,8888-12-31,,Other reaction to spinal and lumbar puncture,f
+12778,ER,53236,2024-11-07,2024-11-07,8888-12-31,,Unspecified abdominal pain,f
+12779,ER,53236,2024-06-24,2024-06-24,8888-12-31,,Paroxysmal atrial fibrillation,f
+12780,ER,53236,2024-10-25,2024-10-25,8888-12-31,,Right upper quadrant pain,f
+12781,ER,53236,2024-12-24,2024-12-24,8888-12-31,,"Chest pain, unspecified",f
+12783,URGENT CARE,53260,2025-02-15,2025-02-15,8888-12-31,,"Acute pharyngitis, unspecified",f
+12785,URGENT CARE,53311,2024-03-31,2024-03-31,8888-12-31,,Acne vulgaris,f
+12812,INPATIENT,53507,2024-11-10,2024-11-13,8888-12-31,,"Gestational diabetes mellitus in childbirth, unspecified control",f
+12818,URGENT CARE,53634,2023-12-02,2023-12-02,8888-12-31,,"Urinary tract infection, site not specified",f
+12820,URGENT CARE,53691,2025-02-19,2025-02-19,8888-12-31,,"Otitis media, unspecified, right ear",f
+12830,INPATIENT,53763,2024-11-24,2024-11-26,2024-12-04,,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,f
+12831,ER,53763,2024-11-24,2024-11-24,8888-12-31,,Abnormal electrocardiogram [ECG] [EKG],f
+12835,INPATIENT,53820,2024-09-20,2024-09-24,2024-10-01,,Chronic or unspecified duodenal ulcer with hemorrhage,f
+12836,INPATIENT,53820,2024-12-18,2025-01-03,2025-01-09,,"Infection of amputation stump, left lower extremity",f
+12837,INPATIENT,53820,2024-02-12,2024-02-13,8888-12-31,,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,f
+12838,ER,53820,2024-09-20,2024-09-20,8888-12-31,,"Gastrointestinal hemorrhage, unspecified",f
+12839,ER,53820,2024-11-18,2024-11-18,8888-12-31,,Syncope and collapse,f
+12840,INPATIENT,53820,2024-11-27,2024-12-02,2024-12-04,,Type 2 diabetes mellitus with ketoacidosis without coma,f
+12841,INPATIENT,53820,2024-08-19,2024-08-20,8888-12-31,,"Other specified complication of vascular prosthetic devices, implants and grafts, initial encounter",f
+12842,INPATIENT,53820,2024-11-06,2024-11-14,8888-12-31,,"Infection of amputation stump, left lower extremity",f
+12880,ER,54237,2023-08-26,2023-08-26,8888-12-31,,"Acute tonsillitis, unspecified",f
+12882,ER,54243,2023-09-07,2023-09-07,8888-12-31,,"Laceration without foreign body, right foot, subsequent encounter",f
+12883,ER,54243,2023-08-23,2023-08-23,8888-12-31,,"Laceration without foreign body, right foot, initial encounter",f
+12886,URGENT CARE,54260,2024-01-20,2024-01-20,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+12895,URGENT CARE,54404,2025-02-28,2025-02-28,8888-12-31,,"Acute pansinusitis, unspecified",f
+12917,ER,54650,2025-02-04,2025-02-04,8888-12-31,,Pain in right leg,f
+12918,ER,54650,2024-03-31,2024-03-31,8888-12-31,,"Strain of muscle, fascia and tendon at neck level, initial encounter",f
+12920,ER,54695,2023-08-26,2023-08-26,8888-12-31,,"Contusion of right foot, initial encounter",f
+12921,URGENT CARE,54695,2025-02-08,2025-02-08,8888-12-31,,"Acute sinusitis, unspecified",f
+12922,ER,54695,2025-01-05,2025-01-05,8888-12-31,,"Laceration without foreign body of scalp, initial encounter",f
+12926,URGENT CARE,54730,2024-06-04,2024-06-04,8888-12-31,,"Acute sinusitis, unspecified",f
+12932,URGENT CARE,54884,2025-02-04,2025-02-04,8888-12-31,,Dysuria,f
+12939,URGENT CARE,55109,2025-02-03,2025-02-03,8888-12-31,,COVID-19,f
+12940,URGENT CARE,55109,2025-01-19,2025-01-19,8888-12-31,,Mastitis without abscess,f
+12941,INPATIENT,55109,2024-12-01,2024-12-04,8888-12-31,,"Gestational diabetes mellitus in childbirth, insulin controlled",f
+12942,URGENT CARE,55109,2024-12-28,2024-12-28,8888-12-31,,Mastitis without abscess,f
+12943,ER,55109,2024-11-24,2024-11-24,2024-11-27,,"Injury, poisoning and certain other consequences of external causes complicating pregnancy, third trimester",f
+12953,ER,55329,2024-11-06,2024-11-06,8888-12-31,,Suicidal ideations,f
+12954,URGENT CARE,55329,2024-10-01,2024-10-01,8888-12-31,,Dysuria,f
+12955,ER,55329,2024-06-05,2024-06-05,8888-12-31,,"Diffuse traumatic brain injury without loss of consciousness, initial encounter",f
+12966,ER,55442,2024-09-28,2024-09-28,8888-12-31,,"Sprain of unspecified site of left knee, initial encounter",f
+12967,URGENT CARE,55442,2024-11-12,2024-11-12,8888-12-31,,Other seasonal allergic rhinitis,f
+12973,ER,55452,2023-07-15,2023-07-15,8888-12-31,,Umbilical hernia without obstruction or gangrene,f
+12974,URGENT CARE,55465,2024-12-20,2024-12-20,8888-12-31,,"Unspecified acute conjunctivitis, right eye",f
+12975,URGENT CARE,55465,2024-12-15,2024-12-15,8888-12-31,,COVID-19,f
+12996,ER,55669,2024-09-03,2024-09-03,2024-09-03,,Umbilical hernia without obstruction or gangrene,f
+13016,URGENT CARE,55860,2024-05-27,2024-05-27,8888-12-31,,Zoster without complications,f
+13017,ER,55880,2024-01-30,2024-01-30,8888-12-31,,Pelvic and perineal pain,f
+13018,URGENT CARE,55880,2024-10-29,2024-10-29,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+13024,URGENT CARE,55896,2024-12-03,2024-12-03,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+13025,ER,55953,2024-03-25,2024-03-25,8888-12-31,,Other seizures,f
+13034,URGENT CARE,56101,2024-08-02,2024-08-02,8888-12-31,,COVID-19,f
+13035,URGENT CARE,56101,2024-01-31,2024-01-31,8888-12-31,,"Viral infection, unspecified",f
+13036,URGENT CARE,56101,2024-12-02,2024-12-02,8888-12-31,,Acute nasopharyngitis [common cold],f
+13047,ER,56220,2023-12-26,2023-12-26,8888-12-31,,Mild persistent asthma with (acute) exacerbation,f
+13057,ER,56310,2023-08-25,2023-08-25,8888-12-31,,"Laceration without foreign body of left hand, initial encounter",f
+13058,ER,56310,2023-06-11,2023-06-11,8888-12-31,,Right upper quadrant pain,f
+13064,ER,56395,2024-03-09,2024-03-10,8888-12-31,,"Chest pain, unspecified",f
+13065,URGENT CARE,56395,2024-10-22,2024-10-22,8888-12-31,,"Pneumonia, unspecified organism",f
+13076,URGENT CARE,56535,2024-09-07,2024-09-07,8888-12-31,,Chronic cough,f
+13077,ER,56535,2023-09-02,2023-09-02,8888-12-31,,"Cystitis, unspecified with hematuria",f
+13089,ER,56731,2024-05-03,2024-05-03,8888-12-31,,Type 2 diabetes mellitus with foot ulcer,f
+13090,ER,56731,2025-02-03,2025-02-03,8888-12-31,,"Lower abdominal pain, unspecified",f
+13094,ER,56876,2024-09-27,2024-09-27,8888-12-31,,"Localized swelling, mass and lump, head",f
+13095,ER,56876,2024-02-27,2024-02-27,8888-12-31,,COVID-19,f
+13106,ER,56982,2024-06-19,2024-06-19,8888-12-31,,"Strain of muscle, fascia and tendon at neck level, initial encounter",f
+13107,URGENT CARE,56982,2024-12-28,2024-12-28,8888-12-31,,Allergic contact dermatitis due to cosmetics,f
+13155,URGENT CARE,57526,2025-02-25,2025-02-25,8888-12-31,,"Acute bronchitis, unspecified",f
+13167,URGENT CARE,57617,2024-12-05,2024-12-05,8888-12-31,,Pain in left elbow,f
+13184,ER,57903,2023-11-24,2023-11-24,8888-12-31,,Threatened abortion,f
+13210,URGENT CARE,58324,2024-12-08,2024-12-08,8888-12-31,,Pain in unspecified finger(s),f
+13211,URGENT CARE,58344,2023-12-23,2023-12-23,8888-12-31,,"Bacterial infection, unspecified",f
+13212,URGENT CARE,58344,2024-07-28,2024-07-28,8888-12-31,,Contact with and (suspected) exposure to COVID-19,f
+13214,URGENT CARE,58347,2025-01-11,2025-01-11,8888-12-31,,Cutaneous abscess of left axilla,f
+13215,ER,58347,2024-12-12,2024-12-12,8888-12-31,,Essential (primary) hypertension,f
+13216,URGENT CARE,58347,2024-09-23,2024-09-23,8888-12-31,,"Gout, unspecified",f
+13217,URGENT CARE,58347,2024-05-29,2024-05-29,8888-12-31,,"Gout, unspecified",f
+13220,ER,58391,2023-07-23,2023-07-23,8888-12-31,,Unspecified convulsions,f
+13226,URGENT CARE,58463,2024-06-19,2024-06-19,8888-12-31,,Rash and other nonspecific skin eruption,f
+13244,URGENT CARE,58646,2024-03-08,2024-03-08,8888-12-31,,"Mild intermittent asthma, uncomplicated",f
+13259,ER,58927,2024-04-11,2024-04-11,2024-04-16,,"Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus",f
+13260,ER,58927,2024-06-16,2024-06-16,8888-12-31,,"Epilepsy, unspecified, not intractable, without status epilepticus",f
+13263,URGENT CARE,59004,2024-09-12,2024-09-12,8888-12-31,,Acute cough,f
+13299,URGENT CARE,59404,2024-08-13,2024-08-13,8888-12-31,,"Headache, unspecified",f
+13300,URGENT CARE,59404,2024-08-13,2024-08-13,8888-12-31,,Dizziness and giddiness,f
+13301,INPATIENT,59404,2024-06-17,2024-06-20,8888-12-31,,Dehydration,f
+13302,ER,59431,2024-01-16,2024-01-16,8888-12-31,,"Dysphagia, unspecified",f
+13306,ER,59522,2024-09-12,2024-09-13,8888-12-31,,"Alcohol abuse with intoxication, unspecified",f
+13307,URGENT CARE,59522,2024-09-07,2024-09-07,8888-12-31,,"Laceration without foreign body of lip, initial encounter",f
+13308,URGENT CARE,59522,2025-01-18,2025-01-18,8888-12-31,,"Unspecified injury of right lower leg, initial encounter",f
+13309,ER,59522,2025-01-18,2025-01-18,8888-12-31,,"Puncture wound with foreign body, right knee, initial encounter",f
+13310,URGENT CARE,59522,2025-01-25,2025-01-25,8888-12-31,,"Unspecified injury of right lower leg, subsequent encounter",f
+13311,URGENT CARE,59522,2025-02-18,2025-02-18,8888-12-31,,Cervicalgia,f
+13326,URGENT CARE,59600,2024-11-10,2024-11-10,8888-12-31,,"Unspecified acute conjunctivitis, bilateral",f
+13327,URGENT CARE,59600,2024-08-28,2024-08-28,8888-12-31,,Pain in left elbow,f
+13328,URGENT CARE,59600,2025-01-31,2025-01-31,8888-12-31,,Hordeolum externum left upper eyelid,f
+13329,URGENT CARE,59600,2024-11-12,2024-11-12,8888-12-31,,Unspecified conjunctivitis,f
+13359,URGENT CARE,59834,2024-12-03,2024-12-03,8888-12-31,,Dizziness and giddiness,f
+13360,URGENT CARE,59834,2024-02-10,2024-02-10,8888-12-31,,Contact with and (suspected) exposure to other viral communicable diseases,f
+13361,ER,59834,2024-03-14,2024-03-14,8888-12-31,,Acute stress reaction,f
+13363,ER,59878,2024-01-29,2024-01-29,8888-12-31,,"Lumbago with sciatica, left side",f
+13364,ER,59878,2024-02-12,2024-02-12,8888-12-31,,"Low back pain, unspecified",f
+13365,ER,59878,2024-10-07,2024-10-07,8888-12-31,,Pain in left shoulder,f
+13366,ER,59878,2024-12-22,2024-12-22,8888-12-31,,Dizziness and giddiness,f
+13367,ER,59878,2024-05-03,2024-05-03,8888-12-31,,"Unspecified lump in the left breast, unspecified quadrant",f
+13368,ER,59878,2024-03-25,2024-03-25,8888-12-31,,Pain in left lower leg,f
+13369,URGENT CARE,59883,2025-02-14,2025-02-14,8888-12-31,,"Acute pharyngitis, unspecified",f
+13370,ER,59890,2023-06-03,2023-06-03,8888-12-31,,"Major depressive disorder, recurrent, unspecified",f
+13389,INPATIENT,60037,2024-08-26,2024-08-28,8888-12-31,,Other specified trauma to perineum and vulva,f
+13390,ER,60037,2024-05-13,2024-05-13,8888-12-31,,"Injury, poisoning and certain other consequences of external causes complicating pregnancy, second trimester",f
+13396,ER,60101,2024-03-10,2024-03-10,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+13397,ER,60101,2024-10-21,2024-10-21,8888-12-31,,"Pneumonia, unspecified organism",f
+13398,ER,60101,2024-06-13,2024-06-13,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+13429,URGENT CARE,60359,2024-01-19,2024-01-19,8888-12-31,,"Cough, unspecified",f
+13430,URGENT CARE,60359,2024-12-16,2024-12-16,8888-12-31,,Streptococcal pharyngitis,f
+13431,ER,60359,2024-06-15,2024-06-15,8888-12-31,,Other muscle spasm,f
+13439,URGENT CARE,60497,2024-09-12,2024-09-12,8888-12-31,,COVID-19,f
+13440,INPATIENT,60497,2025-01-02,2025-01-05,8888-12-31,,Post-term pregnancy,f
+13441,URGENT CARE,60497,2024-04-14,2024-04-14,8888-12-31,,"Urinary tract infection, site not specified",f
+13486,URGENT CARE,60937,2023-12-19,2023-12-19,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+13487,URGENT CARE,60937,2024-11-10,2024-11-10,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+13488,ER,60937,2024-03-13,2024-03-13,8888-12-31,,"Irregular menstruation, unspecified",f
+13519,INPATIENT,61236,2024-09-20,2024-09-21,2024-09-25,,Atherosclerotic heart disease of native coronary artery without angina pectoris,f
+13520,ER,61236,2024-11-04,2024-11-04,8888-12-31,,"Chest pain, unspecified",f
+13521,ER,61255,2024-01-03,2024-01-03,8888-12-31,,Hydronephrosis with renal and ureteral calculous obstruction,f
+13522,URGENT CARE,61255,2024-04-13,2024-04-13,8888-12-31,,Unspecified conjunctivitis,f
+13523,ER,61261,2025-02-10,2025-02-10,8888-12-31,,"Concussion without loss of consciousness, initial encounter",f
+13537,URGENT CARE,61402,2024-08-10,2024-08-10,8888-12-31,,"Insect bite (nonvenomous) of left back wall of thorax, initial encounter",f
+13542,URGENT CARE,61591,2024-07-19,2024-07-19,8888-12-31,,Pain in right knee,f
+13544,URGENT CARE,61614,2023-12-12,2023-12-12,8888-12-31,,Pain in right leg,f
+13570,URGENT CARE,61820,2024-10-17,2024-10-17,8888-12-31,,Tinea barbae and tinea capitis,f
+13571,URGENT CARE,61820,2025-02-10,2025-02-10,8888-12-31,,"Concussion without loss of consciousness, initial encounter",f
+13572,URGENT CARE,61820,2024-02-07,2024-02-07,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+13573,ER,61840,2023-09-18,2023-09-18,8888-12-31,,Epigastric pain,f
+13589,ER,61893,2024-02-08,2024-02-08,8888-12-31,,Other chest pain,f
+13590,URGENT CARE,61900,2024-02-13,2024-02-13,8888-12-31,,"Urinary tract infection, site not specified",f
+13605,INPATIENT,62083,2024-04-26,2024-05-09,2024-05-23,,"Nontraumatic subarachnoid hemorrhage, unspecified",f
+13606,URGENT CARE,62083,2023-12-06,2023-12-06,8888-12-31,,Shortness of breath,f
+13607,INPATIENT,62083,2024-05-09,2024-05-22,2024-05-23,,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting right dominant side,f
+13608,ER,62083,2023-06-19,2023-06-19,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+13613,ER,62169,2024-09-06,2024-09-06,8888-12-31,,Shortness of breath,f
+13614,URGENT CARE,62169,2024-09-05,2024-09-05,8888-12-31,,Other chest pain,f
+13616,URGENT CARE,62205,2024-09-12,2024-09-12,8888-12-31,,Contact with and (suspected) exposure to infections with a predominantly sexual mode of transmission,f
+13624,URGENT CARE,62371,2025-01-25,2025-01-25,8888-12-31,,Nasal congestion,f
+13795,URGENT CARE,64028,2024-02-05,2024-02-05,8888-12-31,,"Impetigo, unspecified",f
+13630,ER,62440,2024-03-07,2024-03-07,8888-12-31,,Suicidal ideations,f
+13631,URGENT CARE,62446,2025-03-01,2025-03-01,8888-12-31,,"Viral infection, unspecified",f
+13633,ER,62454,2024-09-19,2024-09-19,8888-12-31,,"Other intraarticular fracture of lower end of left radius, initial encounter for closed fracture",f
+13634,URGENT CARE,62454,2024-08-30,2024-08-30,8888-12-31,,"Chronic sinusitis, unspecified",f
+13635,INPATIENT,62454,2024-06-27,2024-07-26,8888-12-31,,"Unspecified B-cell lymphoma, lymph nodes of multiple sites",f
+13636,URGENT CARE,62454,2024-11-18,2024-11-18,8888-12-31,,"Tachycardia, unspecified",f
+13637,ER,62454,2025-01-25,2025-01-25,8888-12-31,,"Altered mental status, unspecified",f
+13638,ER,62454,2024-11-21,2024-11-21,8888-12-31,,Other pulmonary embolism without acute cor pulmonale,f
+13639,ER,62454,2024-01-05,2024-01-05,8888-12-31,,Syncope and collapse,f
+13640,ER,62454,2024-01-01,2024-01-01,8888-12-31,,Transient alteration of awareness,f
+13655,INPATIENT,62740,2024-10-23,2024-10-24,8888-12-31,,"Other intervertebral disc degeneration, lumbar region without mention of lumbar back pain or lower extremity pain",f
+13656,ER,62740,2024-02-19,2024-02-19,8888-12-31,,Dizziness and giddiness,f
+13667,ER,62861,2024-09-18,2024-09-18,8888-12-31,,"Episodic paroxysmal hemicrania, not intractable",f
+13668,URGENT CARE,62861,2024-09-13,2024-09-13,8888-12-31,,"Otalgia, left ear",f
+13669,URGENT CARE,62861,2024-07-02,2024-07-02,8888-12-31,,Pain in left finger(s),f
+13670,URGENT CARE,62861,2025-02-04,2025-02-04,8888-12-31,,Acute cough,f
+13671,URGENT CARE,62861,2024-10-19,2024-10-19,8888-12-31,,"Strain of other specified muscles, fascia and tendons at thigh level, left thigh, initial encounter",f
+13672,URGENT CARE,62861,2024-10-27,2024-10-27,8888-12-31,,"Strain of other specified muscles, fascia and tendons at thigh level, left thigh, initial encounter",f
+13676,URGENT CARE,62932,2025-02-21,2025-02-21,8888-12-31,,Pain in right ankle and joints of right foot,f
+13702,URGENT CARE,63108,2024-08-15,2024-08-15,8888-12-31,,Cramp and spasm,f
+13703,ER,63122,2024-08-12,2024-08-12,8888-12-31,,"Chest pain, unspecified",f
+13704,INPATIENT,63122,2024-08-30,2024-09-03,8888-12-31,,"Acute kidney failure, unspecified",f
+13705,ER,63143,2023-06-29,2023-06-29,8888-12-31,,"Local infection of the skin and subcutaneous tissue, unspecified",f
+13706,ER,63143,2025-01-20,2025-01-20,8888-12-31,,Influenza due to other identified influenza virus with gastrointestinal manifestations,f
+13714,URGENT CARE,63200,2024-11-20,2024-11-20,8888-12-31,,"Acute sinusitis, unspecified",f
+13715,URGENT CARE,63200,2024-07-26,2024-07-26,8888-12-31,,Left testicular pain,f
+13728,ER,63291,2024-09-14,2024-09-14,8888-12-31,,Cellulitis of right upper limb,f
+13739,URGENT CARE,63366,2024-05-30,2024-05-30,8888-12-31,,Frequency of micturition,f
+13748,ER,63512,2023-12-18,2023-12-18,8888-12-31,,"Respiratory disorder, unspecified",f
+13770,ER,63593,2023-10-28,2023-10-28,8888-12-31,,Cellulitis of face,f
+13771,ER,63593,2023-12-26,2023-12-26,8888-12-31,,"Fatty (change of) liver, not elsewhere classified",f
+13772,ER,63593,2023-03-02,2023-03-02,8888-12-31,,Allergic urticaria,f
+13773,ER,63593,2024-05-07,2024-05-07,8888-12-31,,"Headache, unspecified",f
+13774,URGENT CARE,63593,2024-06-08,2024-06-08,8888-12-31,,"Urinary tract infection, site not specified",f
+13778,URGENT CARE,63626,2024-07-04,2024-07-04,8888-12-31,,Cellulitis of right finger,f
+13779,URGENT CARE,63626,2024-05-20,2024-05-20,8888-12-31,,"Acute pharyngitis, unspecified",f
+13792,URGENT CARE,63936,2024-10-19,2024-10-19,8888-12-31,,Epistaxis,f
+13797,URGENT CARE,64036,2024-07-01,2024-07-01,8888-12-31,,"Cough, unspecified",f
+13799,URGENT CARE,64094,2024-05-02,2024-05-02,8888-12-31,,"Acute pharyngitis, unspecified",f
+13804,ER,64142,2024-01-12,2024-01-12,8888-12-31,,"Retention of urine, unspecified",f
+13805,ER,64142,2025-01-01,2025-01-01,8888-12-31,,Palpitations,f
+13815,ER,64253,2025-01-29,2025-01-29,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+13824,ER,64492,2024-10-23,2024-10-23,8888-12-31,,"Laceration without foreign body of other part of head, initial encounter",f
+13825,URGENT CARE,64501,2024-08-28,2024-08-28,8888-12-31,,"Unspecified injury of left wrist, hand and finger(s), initial encounter",f
+13826,URGENT CARE,64501,2024-03-22,2024-03-22,8888-12-31,,Encounter for immunization,f
+13827,URGENT CARE,64501,2024-02-27,2024-02-27,8888-12-31,,"Otitis media, unspecified, right ear",f
+13828,URGENT CARE,64501,2023-12-13,2023-12-13,8888-12-31,,COVID-19,f
+13829,URGENT CARE,64501,2024-02-24,2024-02-24,8888-12-31,,"Unspecified acute conjunctivitis, right eye",f
+13851,URGENT CARE,64742,2024-08-13,2024-08-13,8888-12-31,,Nasal congestion,f
+13852,URGENT CARE,64786,2024-12-14,2024-12-14,8888-12-31,,Dizziness and giddiness,f
+13861,ER,64879,2025-01-10,2025-01-10,8888-12-31,,"Migraine with aura, not intractable, without status migrainosus",f
+13866,URGENT CARE,64949,2024-05-20,2024-05-20,8888-12-31,,Acute cystitis with hematuria,f
+13867,ER,64989,2023-03-08,2023-03-08,8888-12-31,,"Chest pain, unspecified",f
+13868,ER,64989,2023-07-16,2023-07-16,8888-12-31,,Hypertensive heart disease with heart failure,f
+13869,ER,64989,2023-07-18,2023-07-18,8888-12-31,,Acute stress reaction,f
+13884,URGENT CARE,65151,2023-12-20,2023-12-20,8888-12-31,,"Acute suppurative otitis media without spontaneous rupture of ear drum, bilateral",f
+13885,URGENT CARE,65151,2025-01-01,2025-01-01,8888-12-31,,"Acute streptococcal tonsillitis, unspecified",f
+13893,URGENT CARE,65174,2025-01-16,2025-01-16,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+13894,URGENT CARE,65174,2025-01-25,2025-01-25,8888-12-31,,Acute cough,f
+13895,URGENT CARE,65174,2024-10-15,2024-10-15,8888-12-31,,Nasal congestion,f
+13896,URGENT CARE,65174,2024-05-04,2024-05-04,8888-12-31,,Acute nasopharyngitis [common cold],f
+13897,URGENT CARE,65174,2025-02-08,2025-02-08,8888-12-31,,Unspecified abdominal pain,f
+13898,URGENT CARE,65174,2025-02-04,2025-02-04,8888-12-31,,Acute cough,f
+13911,URGENT CARE,65227,2025-01-22,2025-01-22,8888-12-31,,Generalized anxiety disorder,f
+13912,URGENT CARE,65227,2024-01-08,2024-01-08,8888-12-31,,"Cough, unspecified",f
+13913,URGENT CARE,65227,2025-01-20,2025-01-20,8888-12-31,,Chondrocostal junction syndrome [Tietze],f
+13916,ER,65249,2024-05-29,2024-05-29,8888-12-31,,"Chest pain, unspecified",f
+13917,URGENT CARE,65251,2024-10-04,2024-10-04,8888-12-31,,"Toxic effect of venom of wasps, accidental (unintentional), initial encounter",f
+13918,ER,65254,2024-02-22,2024-02-22,8888-12-31,,Type 2 diabetes mellitus with hyperglycemia,f
+13919,ER,65254,2024-02-23,2024-02-23,8888-12-31,,Type 2 diabetes mellitus with hyperglycemia,f
+13922,URGENT CARE,65303,2024-12-28,2024-12-28,8888-12-31,,COVID-19,f
+13923,INPATIENT,65303,2024-07-03,2024-07-04,2024-07-17,,Parastomal hernia without obstruction or gangrene,f
+13924,URGENT CARE,65303,2024-09-07,2024-09-07,8888-12-31,,"Allergic contact dermatitis due to plants, except food",f
+13925,URGENT CARE,65303,2024-01-04,2024-01-04,8888-12-31,,Acute cough,f
+13926,URGENT CARE,65303,2025-02-21,2025-02-21,8888-12-31,,Other specified disorders of nose and nasal sinuses,f
+13927,INPATIENT,65303,2024-02-29,2024-03-03,2024-03-06,,Slow transit constipation,f
+13928,URGENT CARE,65303,2025-02-21,2025-02-21,8888-12-31,,Nausea,f
+13929,URGENT CARE,65303,2024-12-28,2024-12-28,8888-12-31,,Acute cough,f
+13930,ER,65303,2024-07-01,2024-07-01,8888-12-31,,"Laceration without foreign body of right hand, initial encounter",f
+13934,ER,65313,2024-07-04,2024-07-04,8888-12-31,,"Acute kidney failure, unspecified",f
+13961,ER,65638,2024-02-08,2024-02-08,8888-12-31,,Palpitations,f
+13963,ER,65677,2023-08-12,2023-08-12,8888-12-31,,Palpitations,f
+13964,URGENT CARE,65677,2024-10-11,2024-10-11,8888-12-31,,Pain in right arm,f
+13973,URGENT CARE,65878,2025-02-02,2025-02-02,8888-12-31,,"Acute bronchitis, unspecified",f
+13974,URGENT CARE,65878,2024-11-13,2024-11-13,8888-12-31,,"Acute sinusitis, unspecified",f
+13975,URGENT CARE,65878,2024-03-23,2024-03-23,8888-12-31,,"Acute bronchitis, unspecified",f
+13976,URGENT CARE,65878,2024-11-21,2024-11-21,8888-12-31,,"Acute bronchitis, unspecified",f
+13977,URGENT CARE,65904,2024-08-07,2024-08-07,8888-12-31,,Encounter for screening for respiratory tuberculosis,f
+13978,URGENT CARE,65927,2025-01-04,2025-01-04,8888-12-31,,"Acute bronchitis, unspecified",f
+13986,URGENT CARE,66079,2024-01-21,2024-01-21,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+13987,URGENT CARE,66079,2025-01-03,2025-01-03,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14006,URGENT CARE,66344,2023-12-17,2023-12-17,8888-12-31,,"Strain of unspecified muscle(s) and tendon(s) at lower leg level, right leg, initial encounter",f
+14007,ER,66344,2024-02-28,2024-02-28,8888-12-31,,Syncope and collapse,f
+14013,ER,66490,2024-04-06,2024-04-06,8888-12-31,,Encounter for other specified special examinations,f
+14019,INPATIENT,66626,2024-05-26,2024-06-03,2024-06-04,,Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side,f
+14020,INPATIENT,66626,2024-05-06,2024-05-12,8888-12-31,,Other cerebral infarction due to occlusion or stenosis of small artery,f
+14021,ER,66626,2023-10-28,2023-10-28,8888-12-31,,Other cerebral infarction due to occlusion or stenosis of small artery,f
+14022,ER,66626,2024-08-06,2024-08-06,8888-12-31,,"Displaced fracture of proximal phalanx of left little finger, initial encounter for closed fracture",f
+14023,INPATIENT,66626,2024-07-03,2024-07-10,2024-07-22,,Cerebral infarction due to embolism of unspecified cerebral artery,t
+14024,ER,66626,2024-07-03,2024-07-03,8888-12-31,,Other cerebral infarction due to occlusion or stenosis of small artery,f
+14045,INPATIENT,66999,2024-03-05,2024-03-08,2024-03-19,,Severe pre-eclampsia complicating childbirth,f
+14046,URGENT CARE,66999,2024-02-20,2024-02-20,8888-12-31,,"Viral infection, unspecified",f
+14047,ER,66999,2024-03-14,2024-03-14,8888-12-31,,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter",f
+14048,ER,66999,2023-10-17,2023-10-17,8888-12-31,,"Other specified pregnancy related conditions, unspecified trimester",f
+14049,URGENT CARE,66999,2024-06-17,2024-06-17,8888-12-31,,"Acute pharyngitis, unspecified",f
+14050,URGENT CARE,66999,2024-02-14,2024-02-14,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+14051,URGENT CARE,66999,2024-02-16,2024-02-16,8888-12-31,,Influenza due to other identified influenza virus with other manifestations,f
+14053,URGENT CARE,67035,2024-02-29,2024-02-29,8888-12-31,,"Sprain of interphalangeal joint of right little finger, initial encounter",f
+14054,URGENT CARE,67035,2024-12-28,2024-12-28,8888-12-31,,"Bronchitis, not specified as acute or chronic",f
+14055,URGENT CARE,67035,2024-09-06,2024-09-06,8888-12-31,,"Otitis media, unspecified, left ear",f
+14056,URGENT CARE,67035,2024-12-30,2024-12-30,8888-12-31,,"Bronchopneumonia, unspecified organism",f
+14057,URGENT CARE,67035,2024-09-27,2024-09-27,8888-12-31,,"Acute pharyngitis, unspecified",f
+14110,ER,67638,2023-08-30,2023-08-30,8888-12-31,,"Low back pain, unspecified",f
+14127,ER,67825,2024-04-05,2024-04-05,8888-12-31,,"Chest pain, unspecified",f
+14128,URGENT CARE,67825,2025-02-05,2025-02-05,8888-12-31,,"Tension-type headache, unspecified, not intractable",f
+14134,ER,67959,2024-05-06,2024-05-06,8888-12-31,,"Unspecified open wound, left lower leg, initial encounter",f
+14135,INPATIENT,67959,2024-12-26,2024-12-31,2025-01-09,,Non-ST elevation (NSTEMI) myocardial infarction,f
+14136,ER,67970,2024-09-22,2024-09-22,8888-12-31,,"Unspecified dislocation of right shoulder joint, initial encounter",f
+14144,URGENT CARE,68024,2024-02-04,2024-02-04,8888-12-31,,"Acute pharyngitis, unspecified",f
+14164,URGENT CARE,68202,2024-05-28,2024-05-28,8888-12-31,,"Low back pain, unspecified",f
+14165,URGENT CARE,68202,2024-06-09,2024-06-09,8888-12-31,,"Strain of other muscles, fascia and tendons at shoulder and upper arm level, left arm, initial encounter",f
+14166,URGENT CARE,68202,2024-08-02,2024-08-02,8888-12-31,,Acute vaginitis,f
+14167,URGENT CARE,68208,2023-12-27,2023-12-27,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14168,URGENT CARE,68208,2024-05-06,2024-05-06,8888-12-31,,"Unspecified sprain of left elbow, initial encounter",f
+14170,ER,68273,2024-11-24,2024-11-24,8888-12-31,,Gastro-esophageal reflux disease without esophagitis,f
+14175,INPATIENT,68470,2024-03-14,2024-03-18,2024-03-20,,"Salpingitis and oophoritis, unspecified",f
+14176,INPATIENT,68470,2024-03-20,2024-03-21,2024-03-27,,Generalized skin eruption due to drugs and medicaments taken internally,t
+14177,ER,68470,2024-03-20,2024-03-20,8888-12-31,,Stevens-Johnson syndrome,f
+14180,ER,68667,2024-08-17,2024-08-17,2024-08-23,,Unspecified atrial fibrillation,f
+14184,URGENT CARE,68681,2024-07-23,2024-07-23,8888-12-31,,Pain in left toe(s),f
+14185,ER,68684,2023-08-12,2023-08-12,8888-12-31,,"Chest pain, unspecified",f
+14195,ER,68842,2024-04-10,2024-04-10,8888-12-31,,"Tachycardia, unspecified",f
+14203,URGENT CARE,68909,2024-01-06,2024-01-06,8888-12-31,,"Acute frontal sinusitis, unspecified",f
+14204,URGENT CARE,68909,2024-02-07,2024-02-07,8888-12-31,,"Acute frontal sinusitis, unspecified",f
+14229,URGENT CARE,69118,2024-05-16,2024-05-16,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14230,URGENT CARE,69118,2024-06-10,2024-06-10,8888-12-31,,Intercostal pain,f
+14231,URGENT CARE,69118,2024-05-13,2024-05-13,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14232,URGENT CARE,69118,2024-05-27,2024-05-27,8888-12-31,,"Pneumonia, unspecified organism",f
+14233,URGENT CARE,69118,2024-12-27,2024-12-27,8888-12-31,,Dizziness and giddiness,f
+14234,URGENT CARE,69118,2024-05-19,2024-05-19,8888-12-31,,"Pneumonia, unspecified organism",f
+14237,INPATIENT,69200,2025-01-26,2025-01-28,8888-12-31,,Maternal care for low transverse scar from previous cesarean delivery,f
+14238,URGENT CARE,69210,2024-08-28,2024-08-28,8888-12-31,,"Acute sinusitis, unspecified",f
+14239,ER,69210,2024-12-11,2024-12-11,8888-12-31,,"Migraine, unspecified, not intractable, without status migrainosus",f
+14247,ER,69296,2023-11-09,2023-11-09,8888-12-31,,Pain in left lower leg,f
+14248,INPATIENT,69309,2024-10-20,2024-10-22,2024-10-28,,Syncope and collapse,f
+14249,URGENT CARE,69333,2024-04-14,2024-04-14,8888-12-31,,"Diarrhea, unspecified",f
+14258,ER,69460,2024-03-26,2024-03-26,8888-12-31,,"Nausea with vomiting, unspecified",f
+14292,URGENT CARE,69984,2024-09-24,2024-09-24,8888-12-31,,Cellulitis of abdominal wall,f
+14293,URGENT CARE,69984,2024-01-19,2024-01-19,8888-12-31,,"Low back pain, unspecified",f
+14294,URGENT CARE,69993,2024-12-20,2024-12-20,8888-12-31,,"Acute pharyngitis, unspecified",f
+14295,URGENT CARE,69993,2024-01-17,2024-01-17,8888-12-31,,Contact with and (suspected) exposure to COVID-19,f
+14302,URGENT CARE,70135,2025-02-14,2025-02-14,8888-12-31,,Acute cough,f
+14303,ER,70135,2024-03-21,2024-03-21,8888-12-31,,Palpitations,f
+14304,ER,70135,2025-01-09,2025-01-09,8888-12-31,,Palpitations,f
+14306,ER,70155,2024-03-03,2024-03-03,8888-12-31,,"Headache, unspecified",f
+14307,URGENT CARE,70155,2024-02-01,2024-02-01,8888-12-31,,Tinea barbae and tinea capitis,f
+14308,ER,70155,2024-11-02,2024-11-02,8888-12-31,,"Dyspnea, unspecified",f
+14321,URGENT CARE,70264,2024-11-25,2024-11-25,8888-12-31,,Acute nasopharyngitis [common cold],f
+14322,URGENT CARE,70264,2023-12-04,2023-12-04,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+14335,URGENT CARE,70457,2025-01-18,2025-01-18,8888-12-31,,"Unspecified open wound of left hand, initial encounter",f
+14352,URGENT CARE,70601,2023-12-01,2023-12-01,8888-12-31,,Contact with and (suspected) exposure to COVID-19,f
+14353,URGENT CARE,70602,2024-03-29,2024-03-29,8888-12-31,,"Unspecified Eustachian tube disorder, bilateral",f
+14362,URGENT CARE,70696,2024-08-20,2024-08-20,8888-12-31,,"Testicular pain, unspecified",f
+14363,ER,70696,2024-08-20,2024-08-20,8888-12-31,,"Hydrocele, unspecified",f
+14365,URGENT CARE,70725,2023-12-13,2023-12-13,8888-12-31,,"Otalgia, left ear",f
+14366,URGENT CARE,70725,2024-10-31,2024-10-31,8888-12-31,,"Acute sinusitis, unspecified",f
+14367,URGENT CARE,70725,2024-04-09,2024-04-09,8888-12-31,,"Acute pharyngitis, unspecified",f
+14373,ER,70895,2023-06-11,2023-06-11,8888-12-31,,"Acute serous otitis media, right ear",f
+14397,ER,71097,2025-02-13,2025-02-13,2025-02-13,,"Ventricular tachycardia, unspecified",f
+14398,INPATIENT,71097,2024-11-18,2024-12-04,8888-12-31,,"Infection following a procedure, other surgical site, initial encounter",f
+14399,URGENT CARE,71097,2024-03-08,2024-03-08,8888-12-31,,"Cutaneous abscess, unspecified",f
+14400,ER,71097,2024-12-27,2024-12-27,8888-12-31,,Hypokalemia,f
+14401,INPATIENT,71097,2025-01-20,2025-01-27,2025-02-05,,"Infection following a procedure, superficial incisional surgical site, initial encounter",f
+14402,ER,71097,2023-09-25,2023-09-25,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14403,ER,71097,2024-09-14,2024-09-14,8888-12-31,,Biliary acute pancreatitis without necrosis or infection,f
+14404,URGENT CARE,71119,2024-08-24,2024-08-24,8888-12-31,,Pain in left foot,f
+14405,URGENT CARE,71119,2024-10-22,2024-10-22,8888-12-31,,Moderate persistent asthma with (acute) exacerbation,f
+14406,URGENT CARE,71119,2024-02-09,2024-02-09,8888-12-31,,Unspecified asthma with (acute) exacerbation,f
+14407,URGENT CARE,71119,2024-11-01,2024-11-01,8888-12-31,,Mild persistent asthma with (acute) exacerbation,f
+14408,URGENT CARE,71119,2024-10-26,2024-10-26,8888-12-31,,Acute cough,f
+14409,URGENT CARE,71119,2024-02-14,2024-02-14,8888-12-31,,Unspecified asthma with (acute) exacerbation,f
+14410,URGENT CARE,71119,2024-05-06,2024-05-06,8888-12-31,,Acute cough,f
+14411,URGENT CARE,71119,2024-02-18,2024-02-18,8888-12-31,,Dysuria,f
+14432,URGENT CARE,71310,2024-01-18,2024-01-18,8888-12-31,,"Unspecified sprain of left wrist, initial encounter",f
+14444,ER,71507,2024-01-07,2024-01-07,8888-12-31,,Pain in left hip,f
+14465,URGENT CARE,71954,2024-12-09,2024-12-09,8888-12-31,,"Acute tonsillitis, unspecified",f
+14466,URGENT CARE,71977,2024-12-03,2024-12-03,8888-12-31,,Acute cough,f
+14472,INPATIENT,72083,2024-05-22,2024-05-24,8888-12-31,,Moyamoya disease,f
+14473,INPATIENT,72083,2024-09-04,2024-09-07,8888-12-31,,Moyamoya disease,f
+14474,INPATIENT,72083,2024-05-27,2024-05-28,8888-12-31,,Moyamoya disease,f
+14479,URGENT CARE,72137,2024-12-12,2024-12-12,8888-12-31,,"Acute sinusitis, unspecified",f
+14480,URGENT CARE,72137,2024-11-11,2024-11-11,8888-12-31,,"Radiculopathy, cervical region",f
+14481,URGENT CARE,72137,2024-02-22,2024-02-22,8888-12-31,,"Acute sinusitis, unspecified",f
+14483,INPATIENT,72215,2024-11-25,2024-11-27,8888-12-31,,Other toxic encephalopathy,t
+14484,INPATIENT,72215,2024-11-08,2024-11-15,8888-12-31,,Pyothorax without fistula,f
+14485,ER,72232,2025-01-12,2025-01-12,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+14486,ER,72244,2024-10-16,2024-10-16,2024-10-16,,Takotsubo syndrome,f
+14488,INPATIENT,72309,2023-10-10,2023-10-12,8888-12-31,,Cervical disc disorder at C5-C6 level with myelopathy,f
+14489,URGENT CARE,72334,2024-06-19,2024-06-19,8888-12-31,,"Acute maxillary sinusitis, unspecified",f
+14490,URGENT CARE,72334,2023-12-04,2023-12-04,8888-12-31,,Dysuria,f
+14491,URGENT CARE,72334,2023-12-10,2023-12-10,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14492,INPATIENT,72341,2025-01-05,2025-01-11,2025-01-20,,Metabolic encephalopathy,f
+14503,URGENT CARE,72584,2024-11-24,2024-11-24,8888-12-31,,"Acute tonsillitis, unspecified",f
+14504,URGENT CARE,72584,2024-03-08,2024-03-08,8888-12-31,,"Acute tonsillitis, unspecified",f
+14505,URGENT CARE,72584,2024-10-06,2024-10-06,8888-12-31,,"Acute streptococcal tonsillitis, unspecified",f
+14506,URGENT CARE,72584,2024-07-08,2024-07-08,8888-12-31,,Acute cystitis with hematuria,f
+14513,ER,72664,2025-01-02,2025-01-02,8888-12-31,,Peritonsillar abscess,f
+14514,ER,72664,2025-01-25,2025-01-25,2025-01-25,,Other pulmonary embolism without acute cor pulmonale,f
+14515,ER,72664,2025-01-03,2025-01-03,8888-12-31,,Peritonsillar abscess,f
+14516,ER,72664,2025-01-24,2025-01-24,8888-12-31,,Epigastric pain,f
+14553,URGENT CARE,72846,2024-02-09,2024-02-09,8888-12-31,,"Acute tonsillitis, unspecified",f
+14566,URGENT CARE,73033,2024-07-14,2024-07-14,8888-12-31,,Tinea corporis,f
+14567,URGENT CARE,73033,2024-10-07,2024-10-07,8888-12-31,,"Cauliflower ear, right ear",f
+14570,INPATIENT,73058,2024-10-17,2024-10-18,8888-12-31,,"Mechanical loosening of internal left knee prosthetic joint, initial encounter",f
+14581,URGENT CARE,73121,2023-12-07,2023-12-07,8888-12-31,,"Gastritis, unspecified, without bleeding",f
+14582,URGENT CARE,73121,2024-03-04,2024-03-04,8888-12-31,,"Acute pharyngitis, unspecified",f
+14583,ER,73121,2023-12-09,2023-12-09,8888-12-31,,Epigastric pain,f
+14586,URGENT CARE,73153,2025-02-15,2025-02-15,8888-12-31,,"Acute pansinusitis, unspecified",f
+14600,URGENT CARE,73432,2024-04-04,2024-04-04,8888-12-31,,"Contusion of right hand, initial encounter",f
+14634,INPATIENT,73634,2025-02-17,2025-02-19,8888-12-31,,Maternal care for low transverse scar from previous cesarean delivery,f
+14635,URGENT CARE,73636,2024-03-09,2024-03-09,8888-12-31,,"Acute pharyngitis, unspecified",f
+14636,URGENT CARE,73645,2023-12-12,2023-12-12,8888-12-31,,"Acute sinusitis, unspecified",f
+14655,ER,73893,2023-05-16,2023-05-16,8888-12-31,,"Migraine, unspecified, not intractable, without status migrainosus",f
+14656,ER,73893,2025-01-08,2025-01-08,8888-12-31,,"Abnormal uterine and vaginal bleeding, unspecified",f
+14657,INPATIENT,73902,2024-04-30,2024-05-03,2024-05-15,,Zoster meningitis,f
+14658,ER,73902,2024-06-06,2024-06-06,8888-12-31,,Localized edema,f
+14667,ER,73943,2025-01-29,2025-01-29,8888-12-31,,Chronic obstructive pulmonary disease with (acute) exacerbation,f
+14672,URGENT CARE,74023,2025-01-17,2025-01-17,8888-12-31,,"Acute sinusitis, unspecified",f
+14676,URGENT CARE,74157,2024-01-05,2024-01-05,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14677,URGENT CARE,74157,2024-01-12,2024-01-12,8888-12-31,,"Acute pharyngitis, unspecified",f
+14678,ER,74157,2023-08-29,2023-08-29,8888-12-31,,"Unspecified ovarian cyst, right side",f
+14685,URGENT CARE,74231,2025-02-09,2025-02-09,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+14686,URGENT CARE,74231,2024-08-14,2024-08-14,8888-12-31,,"Sciatica, right side",f
+14687,URGENT CARE,74231,2024-12-31,2024-12-31,8888-12-31,,"Acute bronchitis, unspecified",f
+14689,URGENT CARE,74274,2025-02-27,2025-02-27,8888-12-31,,Pain in left finger(s),f
+14690,ER,74274,2023-12-13,2023-12-13,8888-12-31,,Cyclical vomiting syndrome unrelated to migraine,f
+14691,ER,74274,2023-06-20,2023-06-20,8888-12-31,,Cyclical vomiting syndrome unrelated to migraine,f
+14696,URGENT CARE,74438,2024-09-14,2024-09-14,8888-12-31,,Other specified symptoms and signs involving the circulatory and respiratory systems,f
+14697,URGENT CARE,74438,2024-10-01,2024-10-01,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14713,ER,74624,2024-09-03,2024-09-03,8888-12-31,,Other chest pain,f
+14716,INPATIENT,74743,2024-10-08,2024-10-11,2024-10-22,,"Other disorders of meninges, not elsewhere classified",f
+14741,URGENT CARE,74940,2023-12-03,2023-12-03,8888-12-31,,"Pneumonia, unspecified organism",f
+14742,INPATIENT,74940,2024-02-15,2024-02-19,8888-12-31,,"Other intraoperative complications of the circulatory system, not elsewhere classified",f
+14743,URGENT CARE,74940,2023-12-30,2023-12-30,8888-12-31,,"Cough, unspecified",f
+14744,URGENT CARE,74947,2024-01-24,2024-01-24,8888-12-31,,"Chronic sinusitis, unspecified",f
+14745,URGENT CARE,74947,2024-12-12,2024-12-12,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14749,URGENT CARE,74960,2024-12-28,2024-12-28,8888-12-31,,"Unspecified fracture of upper end of left humerus, initial encounter for closed fracture",f
+14750,ER,74974,2023-04-17,2023-04-17,8888-12-31,,"Pain, unspecified",f
+14751,ER,74974,2024-10-23,2024-10-23,8888-12-31,,Encounter for other specified aftercare,f
+14752,ER,74974,2024-10-21,2024-10-21,8888-12-31,,Abscess of left external ear,f
+14753,ER,74974,2024-09-16,2024-09-16,8888-12-31,,"Injury of conjunctiva and corneal abrasion without foreign body, left eye, initial encounter",f
+14754,URGENT CARE,74974,2024-10-18,2024-10-18,8888-12-31,,Cellulitis of left external ear,f
+14755,URGENT CARE,74974,2024-09-16,2024-09-16,8888-12-31,,"Unspecified injury of left eye and orbit, initial encounter",f
+14770,INPATIENT,75198,2024-08-13,2024-08-16,8888-12-31,,Intraductal carcinoma in situ of left breast,f
+14772,URGENT CARE,75219,2024-12-20,2024-12-20,8888-12-31,,Unspecified blepharitis left upper eyelid,f
+14782,URGENT CARE,75332,2024-01-08,2024-01-08,8888-12-31,,"Acute pharyngitis, unspecified",f
+14789,URGENT CARE,75466,2024-05-16,2024-05-16,8888-12-31,,Pain in left shoulder,f
+14790,URGENT CARE,75466,2024-01-26,2024-01-26,8888-12-31,,Anxiety disorder due to known physiological condition,f
+14791,URGENT CARE,75466,2023-12-12,2023-12-12,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14802,ER,75567,2024-06-25,2024-06-25,8888-12-31,,"Abnormal uterine and vaginal bleeding, unspecified",f
+14806,URGENT CARE,75670,2024-01-07,2024-01-07,8888-12-31,,Furuncle of right lower limb,f
+14807,URGENT CARE,75670,2024-12-23,2024-12-23,8888-12-31,,Acute cough,f
+14808,URGENT CARE,75670,2024-09-01,2024-09-01,8888-12-31,,"Unspecified acute conjunctivitis, bilateral",f
+14809,URGENT CARE,75692,2023-12-04,2023-12-04,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+14810,URGENT CARE,75692,2023-12-21,2023-12-21,8888-12-31,,Unspecified acute lower respiratory infection,f
+14811,URGENT CARE,75692,2024-04-11,2024-04-11,8888-12-31,,Unspecified conjunctivitis,f
+14812,URGENT CARE,75692,2024-09-30,2024-09-30,8888-12-31,,"Low back pain, unspecified",f
+14813,URGENT CARE,75692,2023-12-21,2023-12-21,8888-12-31,,"Cough, unspecified",f
+14814,URGENT CARE,75724,2024-10-01,2024-10-01,8888-12-31,,Hordeolum internum right lower eyelid,f
+14815,ER,75724,2024-02-29,2024-02-29,8888-12-31,,"Strain of muscle, fascia and tendon of lower back, initial encounter",f
+14816,URGENT CARE,75724,2024-07-27,2024-07-27,8888-12-31,,Other acute sinusitis,f
+14817,URGENT CARE,75724,2024-12-12,2024-12-12,8888-12-31,,"Acute sinusitis, unspecified",f
+14818,INPATIENT,75730,2024-04-30,2024-05-04,8888-12-31,,Maternal care for low transverse scar from previous cesarean delivery,f
+14827,URGENT CARE,75800,2025-02-23,2025-02-23,8888-12-31,,"Fever, unspecified",f
+14836,URGENT CARE,75895,2024-10-19,2024-10-19,8888-12-31,,"Otitis media, unspecified, right ear",f
+14837,URGENT CARE,75895,2024-11-10,2024-11-10,8888-12-31,,"Acute bronchitis, unspecified",f
+14866,URGENT CARE,76291,2024-12-14,2024-12-14,8888-12-31,,"Acute pharyngitis, unspecified",f
+14934,ER,76925,2024-11-25,2024-11-25,8888-12-31,,Other specified cardiac arrhythmias,f
+14959,URGENT CARE,77247,2024-11-10,2024-11-10,8888-12-31,,Tinea pedis,f
+14987,ER,77545,2024-08-17,2024-08-17,8888-12-31,,Carbuncle of chest wall,f
+14988,ER,77545,2024-08-14,2024-08-14,8888-12-31,,Pyothorax without fistula,f
+14989,ER,77545,2024-12-04,2024-12-04,8888-12-31,,"Low back pain, unspecified",f
+14998,ER,77809,2024-03-18,2024-03-18,8888-12-31,,"Strain of muscle, fascia and tendon of other parts of biceps, left arm, initial encounter",f
+14999,URGENT CARE,77822,2024-11-15,2024-11-15,8888-12-31,,"Contusion of right forearm, initial encounter",f
+15000,URGENT CARE,77822,2024-09-30,2024-09-30,8888-12-31,,COVID-19,f
+15001,ER,77827,2024-12-26,2024-12-26,8888-12-31,,Other chest pain,f
+15002,URGENT CARE,77827,2024-04-26,2024-04-26,8888-12-31,,Acute bronchitis due to other specified organisms,f
+15003,URGENT CARE,77827,2024-10-28,2024-10-28,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+15007,URGENT CARE,77882,2024-05-22,2024-05-22,8888-12-31,,"Ocular pain, right eye",f
+15011,URGENT CARE,77947,2024-01-30,2024-01-30,8888-12-31,,Encounter for screening for infections with a predominantly sexual mode of transmission,f
+15031,URGENT CARE,78163,2023-12-22,2023-12-22,8888-12-31,,Residual hemorrhoidal skin tags,f
+15032,ER,78163,2024-12-22,2024-12-22,8888-12-31,,"Strain of muscle, fascia and tendon of the posterior muscle group at thigh level, left thigh, initial encounter",f
+15041,ER,78240,2025-01-29,2025-01-29,8888-12-31,,Unspecified convulsions,f
+15042,ER,78240,2023-08-03,2023-08-03,8888-12-31,,"Acute sinusitis, unspecified",f
+15047,URGENT CARE,78307,2024-01-20,2024-01-20,8888-12-31,,"Cough, unspecified",f
+15048,URGENT CARE,78307,2024-01-20,2024-01-20,8888-12-31,,"Cough, unspecified",f
+15090,URGENT CARE,78936,2024-09-23,2024-09-23,8888-12-31,,Dysuria,f
+15091,INPATIENT,78936,2025-02-15,2025-02-18,8888-12-31,,"Major depressive disorder, recurrent severe without psychotic features",f
+15092,URGENT CARE,78936,2024-09-29,2024-09-29,8888-12-31,,"Viral infection, unspecified",f
+15093,ER,78936,2025-02-15,2025-02-15,8888-12-31,,"Major depressive disorder, recurrent severe without psychotic features",f
+15095,URGENT CARE,78989,2025-01-08,2025-01-08,8888-12-31,,"Acute bronchitis, unspecified",f
+15096,URGENT CARE,78989,2024-08-16,2024-08-16,8888-12-31,,"Unspecified otitis externa, bilateral",f
+15097,URGENT CARE,78989,2024-11-07,2024-11-07,8888-12-31,,"Otalgia, left ear",f
+15118,ER,79101,2023-10-20,2023-10-20,8888-12-31,,Other chest pain,f
+15139,URGENT CARE,79202,2024-11-15,2024-11-15,8888-12-31,,Cellulitis of left finger,f
+15154,INPATIENT,79347,2023-10-13,2023-11-02,2023-11-15,,Sepsis due to Escherichia coli [E. coli],f
+15155,INPATIENT,79347,2023-11-02,2023-11-27,2023-11-29,,"Sepsis, unspecified organism",f
+15162,URGENT CARE,79397,2024-11-12,2024-11-12,8888-12-31,,"Acute tonsillitis, unspecified",f
+15167,URGENT CARE,79755,2024-02-07,2024-02-07,8888-12-31,,"Otitis media, unspecified, right ear",f
+15177,URGENT CARE,79867,2024-10-30,2024-10-30,8888-12-31,,"Urinary tract infection, site not specified",f
+15178,URGENT CARE,79867,2024-07-06,2024-07-06,8888-12-31,,"Unspecified contact dermatitis, unspecified cause",f
+15180,URGENT CARE,79878,2024-02-18,2024-02-18,8888-12-31,,"Unspecified acute conjunctivitis, left eye",f
+15181,ER,79892,2024-07-01,2024-07-01,8888-12-31,,Right lower quadrant pain,f
+15182,URGENT CARE,79899,2024-09-07,2024-09-07,8888-12-31,,"Foreign body in left ear, initial encounter",f
+15222,ER,80286,2023-08-13,2023-08-13,8888-12-31,,"Puncture wound with foreign body of right hand, initial encounter",f
+15236,INPATIENT,80410,2024-08-15,2024-08-28,8888-12-31,,Encounter for other orthopedic aftercare,f
+15237,INPATIENT,80410,2024-08-08,2024-08-13,8888-12-31,,"Spinal stenosis, lumbar region with neurogenic claudication",f
+15253,URGENT CARE,80587,2024-10-20,2024-10-20,8888-12-31,,Contact with and (suspected) exposure to COVID-19,f
+15254,URGENT CARE,80587,2024-12-03,2024-12-03,8888-12-31,,"Acute sinusitis, unspecified",f
+15263,URGENT CARE,80690,2024-03-22,2024-03-22,8888-12-31,,"Laceration without foreign body, right lower leg, initial encounter",f
+15264,URGENT CARE,80690,2024-09-23,2024-09-23,8888-12-31,,Epigastric pain,f
+15265,URGENT CARE,80690,2024-02-18,2024-02-18,8888-12-31,,"Strain of muscle, fascia and tendon of the posterior muscle group at thigh level, left thigh, initial encounter",f
+15280,ER,80948,2025-02-13,2025-02-13,8888-12-31,,Diverticulitis of large intestine without perforation or abscess without bleeding,f
+15292,URGENT CARE,81119,2023-12-31,2023-12-31,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+15299,URGENT CARE,81190,2023-12-06,2023-12-06,8888-12-31,,Anorectal abscess,f
+15310,URGENT CARE,81249,2024-08-20,2024-08-20,8888-12-31,,"Contusion of left front wall of thorax, initial encounter",f
+15324,URGENT CARE,81379,2024-05-31,2024-05-31,8888-12-31,,"Lyme disease, unspecified",f
+15325,ER,81399,2024-01-16,2024-01-16,8888-12-31,,"Cervical disc disorder, unspecified, unspecified cervical region",f
+15326,ER,81399,2023-07-09,2023-07-09,8888-12-31,,Essential (primary) hypertension,f
+15334,ER,81531,2023-06-11,2023-06-11,8888-12-31,,"Diverticulitis of intestine, part unspecified, without perforation or abscess without bleeding",f
+15368,ER,81844,2023-10-30,2023-10-30,8888-12-31,,Unspecified abdominal pain,f
+15369,ER,81844,2024-12-28,2024-12-28,8888-12-31,,Influenza due to other identified influenza virus with other respiratory manifestations,f
+15370,ER,81844,2024-12-05,2024-12-05,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+15371,ER,81844,2023-10-15,2023-10-15,8888-12-31,,"Gastritis, unspecified, without bleeding",f
+15372,ER,81844,2023-05-11,2023-05-11,8888-12-31,,"Acute upper respiratory infection, unspecified",f
+15374,ER,81925,2023-07-24,2023-07-24,8888-12-31,,"Hematuria, unspecified",f
+15375,URGENT CARE,81925,2024-01-28,2024-01-28,8888-12-31,,"Acute suppurative otitis media without spontaneous rupture of ear drum, right ear",f
+15394,ER,82069,2023-10-11,2023-10-11,8888-12-31,,"Low back pain, unspecified",f
+15399,URGENT CARE,82163,2023-12-22,2023-12-22,8888-12-31,,Other specified diseases and conditions complicating pregnancy,f
+15400,INPATIENT,82163,2023-12-28,2024-01-01,2024-01-08,,"Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth",f
