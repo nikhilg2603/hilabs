@@ -27,7 +27,7 @@ This design maximizes accuracy while staying interpretable and reproducible, and
 
 ## 2) Data Inputs & Schema Assumptions
 
-We expect the following minimal columns (extra columns are fine):
+<!-- We expect the following minimal columns (extra columns are fine): -->
 
 * **patient.csv**: `patient_id`, demographics (e.g., `age`)
 * **risk.csv**: `patient_id`, `risk_score` (continuous)
@@ -46,8 +46,8 @@ All joins are done on `patient_id`. Timestamps are parsed to create simple utili
 * **Normalize** `prncpl_diag_nm`: lowercasing, remove punctuation/filler words (e.g., “unspecified”, “initial encounter”), drop laterality (`left/right`), simple de-plurals, collapse spaces.
 * **Embed** unique normalized strings (`dx_vocab`) using **pre-trained** models:
 
-  * **Default**: `sentence-transformers/all-MiniLM-L6-v2` (SBERT), or
-  * **Alternative**: **GloVe** (`glove-wiki-gigaword-100`) with **IDF-weighted average** of word vectors.
+  * **Default**: **GloVe** (`glove-wiki-gigaword-100`) with **IDF-weighted average** of word vectors
+  * **Alternative**: `sentence-transformers/all-MiniLM-L6-v2` (SBERT).
 * **Cluster** embeddings to group semantically similar diagnoses:
 
   * **Agglomerative** on cosine distances (default `distance_threshold=0.20`, `linkage="average"`).
@@ -56,7 +56,7 @@ All joins are done on `patient_id`. Timestamps are parsed to create simple utili
 
 ### 3.2 Core Tabular Features
 
-* Demographics (age, sex, etc.).
+* Demographics (age, etc.).
 * Utilization (counts of visits by type, length of stay aggregates, recency features).
 * Care events/features (counts, flags).
 * **Diagnosis clusters** (`DXC_*`) from the step above.
