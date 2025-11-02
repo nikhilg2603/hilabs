@@ -41,7 +41,7 @@ All joins are done on `patient_id`. Timestamps are parsed to create simple utili
 
 ## 3) Pipeline (Details)
 
-### 3.1 Text Embedding & Clustering (Diagnosis → DXC features)
+<!--### 3.1 Text Embedding & Clustering (Diagnosis → DXC features)
 
 * **Normalize** `prncpl_diag_nm`: lowercasing, remove punctuation/filler words (e.g., “unspecified”, “initial encounter”), drop laterality (`left/right`), simple de-plurals, collapse spaces.
 * **Embed** unique normalized strings (`dx_vocab`) using **pre-trained** models:
@@ -52,9 +52,9 @@ All joins are done on `patient_id`. Timestamps are parsed to create simple utili
 
   * **Agglomerative** on cosine distances (default `distance_threshold=0.35`, `linkage="average"`).
   * Optional: **HDBSCAN** for density-based clustering (labels `-1` = noise).
-* **Engineer features**: count clusters per patient → wide table of `DXC_<cluster_id>` counts. Optionally keep **top-K** clusters by frequency (default `K=50`) to control feature width.
+* **Engineer features**: count clusters per patient → wide table of `DXC_<cluster_id>` counts. Optionally keep **top-K** clusters by frequency (default `K=50`) to control feature width.-->
 
-### 3.2 Core Tabular Features
+### 3.1 Core Tabular Features
 
 * Demographics (age, etc.).
 * Utilization (counts of visits by type, length of stay aggregates, recency features).
@@ -63,23 +63,23 @@ All joins are done on `patient_id`. Timestamps are parsed to create simple utili
 
 All features align to **one row per patient**. Index is `patient_id`.
 
-### 3.3 Target Definition
+### 3.2 Target Definition
 
 * Train models on **`log_risk_score = log(risk_score)`** for stability.
 * Evaluate & output on **original scale** via `np.exp(pred_log)`.
 
 > If you used `log1p`, swap to `np.expm1` for back-transform.
 
-### 3.4 Feature Selection
+### 3.3 Feature Selection
 
-1. **WOE/IV** (against a **binary** label derived from original risk at the **median**):
+1. **WOE/IV** / **Mutual Information**(against a **binary** label derived from original risk at the **median**):
 
    * Numeric features: quantile binning (≤10 bins).
    * Categorical features: top-50 categories + `__OTHER__`.
    * Drop the **15 lowest IV** features.
 2. **Correlation pruning** (numeric only): Pearson |r| ≥ **0.7**; keep the **higher-IV** feature, drop the other.
 
-### 3.5 Modeling
+### 3.4 Modeling
 
 We train and compare four regressors:
 
