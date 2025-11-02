@@ -220,7 +220,7 @@ python -m src.train \
 
 ## 8) Feature Selection Logic & Assumptions
 
-* **Text → clusters**: semantically similar diagnoses (e.g., *“pain in left leg”* vs *“pain in lower leg”*) should map to the same/similar clusters; we count per-patient occurrences (DXC_*).
+<!--* **Text → clusters**: semantically similar diagnoses (e.g., *“pain in left leg”* vs *“pain in lower leg”*) should map to the same/similar clusters; we count per-patient occurrences (DXC_*).-->
 * **IV ranking**: convert the continuous risk to a **binary label** at the **median** of original risk (not log). This is a robust, label-agnostic way to score predictive signal across features. We **drop exactly 10** lowest-IV features.
 * **Correlation pruning**: for numeric features with Pearson |r| ≥ **0.95**, keep the **higher-IV** one. This removes redundancy while preserving predictive capacity.
 * **Log target**: training on `log_risk_score` stabilizes distributions; predictions are back-transformed with `exp()`.
