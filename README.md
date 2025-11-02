@@ -29,7 +29,7 @@ This design maximizes accuracy while staying interpretable and reproducible, and
 
 We expect the following minimal columns (extra columns are fine):
 
-* **patient.csv**: `patient_id`, demographics (e.g., `age`, `number of visits`, etc.)
+* **patient.csv**: `patient_id`, demographics (e.g., `age`)
 * **risk.csv**: `patient_id`, `risk_score` (continuous)
 * **visit.csv**: `patient_id`, `visit_type`, `facility_id`, `start_date`, `end_date`, …
 * **care.csv**: `patient_id`, care events (counts/flags), timestamps
