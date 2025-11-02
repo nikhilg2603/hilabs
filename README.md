@@ -50,7 +50,7 @@ All joins are done on `patient_id`. Timestamps are parsed to create simple utili
   * **Alternative**: `sentence-transformers/all-MiniLM-L6-v2` (SBERT).
 * **Cluster** embeddings to group semantically similar diagnoses:
 
-  * **Agglomerative** on cosine distances (default `distance_threshold=0.20`, `linkage="average"`).
+  * **Agglomerative** on cosine distances (default `distance_threshold=0.35`, `linkage="average"`).
   * Optional: **HDBSCAN** for density-based clustering (labels `-1` = noise).
 * **Engineer features**: count clusters per patient → wide table of `DXC_<cluster_id>` counts. Optionally keep **top-K** clusters by frequency (default `K=50`) to control feature width.
 
@@ -76,8 +76,8 @@ All features align to **one row per patient**. Index is `patient_id`.
 
    * Numeric features: quantile binning (≤10 bins).
    * Categorical features: top-50 categories + `__OTHER__`.
-   * Drop the **10 lowest IV** features.
-2. **Correlation pruning** (numeric only): Pearson |r| ≥ **0.95**; keep the **higher-IV** feature, drop the other.
+   * Drop the **15 lowest IV** features.
+2. **Correlation pruning** (numeric only): Pearson |r| ≥ **0.7**; keep the **higher-IV** feature, drop the other.
 
 ### 3.5 Modeling
 
@@ -226,7 +226,7 @@ python -m src.train \
 * **Log target**: training on `log_risk_score` stabilizes distributions; predictions are back-transformed with `exp()`.
 * **Imputation**: median imputation on train; apply same to test.
 
-> Thresholds (`K=50` top DX clusters, IV drop=10, corr threshold=0.95) are **configurable** in the notebook top-cells.
+> Thresholds (`K=50` top DX clusters, IV drop=15, corr threshold=0.7) are **configurable** in the notebook top-cells.
 
 ---
 
