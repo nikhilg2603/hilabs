@@ -294,7 +294,7 @@ TeamName_HiLabs_Risk_Score.csv
 Edit the notebook top-cell parameters:
 
 ```python
-DX_TOPK = 50          # number of diagnosis clusters to keep
+<!--DX_TOPK = 50          # number of diagnosis clusters to keep-->
 AGGLO_DIST_THR = 0.35 # clustering tightness (cosine distance)
 IV_DROP_N = 15        # drop bottom N by IV
 CORR_THR = 0.7       # correlation pruning threshold
