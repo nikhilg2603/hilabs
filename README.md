@@ -192,9 +192,21 @@ source .venv/bin/activate
 jupyter lab  # or jupyter notebook
 ```
 
-3. In `/notebooks/hilabs.ipynb`, set the input paths (top cell).
-4. Run all cells.
-5. The notebook writes:
+3. In `main.ipynb`, set the input paths (top cell).
+- First, upload all the required files (like the data files and any other input files) into the same folder where the notebook is.
+
+- Then, open the notebook and start running the cells one by one until you reach the feature making part.
+
+- Once you get the final_feature_columns, you don’t need to train the model again.
+
+- After that, just load the saved model and use it to make predictions on the data.
+
+- That’s it — the model will give you the predicted results based on the final features.
+
+- You can then save the predictions if needed.
+
+
+The notebook writes:
 
 ```
 ./Prediction.csv   # columns: patient_id, predicted_risk_score
