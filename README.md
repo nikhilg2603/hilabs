@@ -17,7 +17,7 @@ This repository predicts **patient-level risk scores** from five CSVs:
 3. **Feature selection**:
 
    * **WOE/IV** ranking (derive a binary label from original risk via median split) → drop the **10 lowest IV** features.
-   * **Correlation pruning** among numeric features (|r| ≥ 0.95), keeping the higher-IV member of each highly-correlated pair.
+   * **Correlation pruning** among numeric features (|r| ≥ 0.95 or 0.7), keeping the higher-IV member of each highly-correlated pair.
 4. **Modeling**: train tree models (**LightGBM, XGBoost, CatBoost, RandomForest**) on **`log_risk_score`**, predict on the log scale, then **back-transform** with `exp()` to original scale for metrics and the final CSV.
 5. **Output** `Prediction.csv` = (`patient_id`, `predicted_risk_score`).
 
