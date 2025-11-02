@@ -1,4 +1,4 @@
-# HiLabs Risk Scoring — End-to-End Pipeline
+# HiLabs Risk Scoring
 
 ## 1) Overview
 
