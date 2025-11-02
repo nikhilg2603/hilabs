@@ -1,7 +1,3 @@
-Here’s a **ready-to-drop-in `README.md`** you can put at the repo root. It matches the code/pipeline we built together (diagnosis embeddings → clustering → DXC features → WOE/IV selection → correlation pruning → tree models on a log target → back-transform to original scale), and it includes exact setup & run steps plus submission formatting.
-
----
-
 # HiLabs Risk Scoring — End-to-End Pipeline
 
 ## 1) Overview
