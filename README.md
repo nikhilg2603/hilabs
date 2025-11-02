@@ -16,7 +16,7 @@ This repository predicts **patient-level risk scores** from five CSVs:
 2. **Text → features**: turn free-text diagnosis into **semantic clusters** using **pre-trained embeddings** (SBERT or GloVe), then create **per-patient cluster counts** (`DXC_*`).
 3. **Feature selection**:
 
-   * **WOE/IV** ranking (derive a binary label from original risk via median split) → drop the **10 lowest IV** features.
+   * **WOE/IV** & **Mutual Information**ranking (derive a binary label from original risk via median split) → drop the **10 lowest IV** features.
    * **Correlation pruning** among numeric features (|r| ≥ 0.95 or 0.7), keeping the higher-IV member of each highly-correlated pair.
 4. **Modeling**: train tree models (**LightGBM, XGBoost, CatBoost, RandomForest**) on **`log_risk_score`**, predict on the log scale, then **back-transform** with `exp()` to original scale for metrics and the final CSV.
 5. **Output** `Prediction.csv` = (`patient_id`, `predicted_risk_score`).
@@ -59,7 +59,7 @@ All joins are done on `patient_id`. Timestamps are parsed to create simple utili
 * Demographics (age, etc.).
 * Utilization (counts of visits by type, length of stay aggregates, recency features).
 * Care events/features (counts, flags).
-* **Diagnosis clusters** (`DXC_*`) from the step above.
+<!--* **Diagnosis clusters** (`DXC_*`) from the step above.-->
 
 All features align to **one row per patient**. Index is `patient_id`.
 
@@ -72,7 +72,7 @@ All features align to **one row per patient**. Index is `patient_id`.
 
 ### 3.3 Feature Selection
 
-1. **WOE/IV** / **Mutual Information**(against a **binary** label derived from original risk at the **median**):
+1. **WOE/IV** & **Mutual Information**(against a **binary** label derived from original risk at the **median**):
 
    * Numeric features: quantile binning (≤10 bins).
    * Categorical features: top-50 categories + `__OTHER__`.
